@@ -2218,6 +2218,43 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "28/04/2022 09:59:25",
+			"data_coin": {
+				"id": "19796",
+				"name": "Bamboonium",
+				"symbol": "BAMB",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/bamboonium/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19796",
+				"price": "$0.01572",
+				"variation": "21.84%",
+				"variation_is_up": false,
+				"rank": "#5360",
+				"watchlists": "48",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$7,859,695",
+				"volume_24": "$20,832",
+				"volume_marketcap_24": "--",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"twitter": "Paladin_Pandas",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16650,
+					"following_count": 1221,
+					"tweet_count": 2297,
+					"listed_count": 62
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
