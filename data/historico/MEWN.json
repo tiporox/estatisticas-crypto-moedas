@@ -2392,6 +2392,44 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "28/04/2022 13:01:16",
+			"data_coin": {
+				"id": "19804",
+				"name": "Meowth Neko",
+				"symbol": "MEWN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meowth-neko/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19804",
+				"price": "$0.0...09206",
+				"variation": "37.39%",
+				"variation_is_up": false,
+				"rank": "#3412",
+				"watchlists": "511",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$604,791",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0xffd59037512159eed0c3f24b635f1b5012969bb4",
+				"twitter": "MeowthNekoTW",
+				"telegram": "MeowthNekoChat"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2513,
+					"following_count": 121,
+					"tweet_count": 48,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
