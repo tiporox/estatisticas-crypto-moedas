@@ -2611,6 +2611,45 @@
 			"data_telegram": {
 				"data": 2
 			}
+		},
+		{
+			"date": "28/04/2022 15:03:33",
+			"data_coin": {
+				"id": "19823",
+				"name": "Medifakt",
+				"symbol": "FAKT",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/medifakt/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19823",
+				"price": "$0.03601",
+				"variation": "0.55%",
+				"variation_is_up": false,
+				"rank": "#5528",
+				"watchlists": "52",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$36,008,124",
+				"volume_24": "$17,310",
+				"volume_marketcap_24": "--",
+				"max_supply": "999,999,999",
+				"total_supply": "999,999,999",
+				"twitter": "medifakt",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 13759,
+					"following_count": 0,
+					"tweet_count": 36,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 909976
+			}
 		}
 	]
 }
