@@ -2584,6 +2584,46 @@
 			"data_telegram": {
 				"data": 1516
 			}
+		},
+		{
+			"date": "28/04/2022 16:06:21",
+			"data_coin": {
+				"id": "19829",
+				"name": "PayFlow",
+				"symbol": "PFT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/payflow/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19829",
+				"price": "$0.03848",
+				"variation": "40.12%",
+				"variation_is_up": false,
+				"rank": "#3641",
+				"watchlists": "234",
+				"marketcap": "$461,756",
+				"fully_diluted_marketcap": "$3,847,967",
+				"volume_24": "$380,293",
+				"volume_marketcap_24": "0.8236",
+				"max_supply": "100,000,000",
+				"total_supply": "94,400,000",
+				"contract": "0xe3b42852a85d38b18076ab2dd96b0f894cc0636c",
+				"telegram": "payflowtoken",
+				"twitter": "paypft"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4409,
+					"following_count": 96,
+					"tweet_count": 216,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 1515
+			}
 		}
 	]
 }
