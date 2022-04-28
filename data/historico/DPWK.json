@@ -531,6 +531,44 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "28/04/2022 09:56:38",
+			"data_coin": {
+				"id": "19845",
+				"name": "DPWK",
+				"symbol": "DPWK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/dpwk/",
+				"date": "28/04/2022 05:08:25"
+			},
+			"data_coinmarketcap": {
+				"id": "19845",
+				"price": "$0.5477",
+				"variation": "1.67%",
+				"variation_is_up": false,
+				"rank": "#4182",
+				"watchlists": "40",
+				"marketcap": "$109,539",
+				"fully_diluted_marketcap": "$54,769,306",
+				"volume_24": "$128,021",
+				"volume_marketcap_24": "1.17",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xf6d5f0BBb71545f3679B37BA8B2268dAfA71E277",
+				"twitter": "DPWK_kreatties",
+				"telegram": "dontplaywithkitty_global"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 91459,
+					"following_count": 32,
+					"tweet_count": 590,
+					"listed_count": 71
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
