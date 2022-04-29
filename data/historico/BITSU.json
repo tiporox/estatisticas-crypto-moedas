@@ -1199,6 +1199,46 @@
 			"data_telegram": {
 				"data": 10432
 			}
+		},
+		{
+			"date": "29/04/2022 20:31:29",
+			"data_coin": {
+				"id": "19852",
+				"name": "Bitsubishi",
+				"symbol": "BITSU",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/bitsubishi/",
+				"date": "28/04/2022 10:53:08"
+			},
+			"data_coinmarketcap": {
+				"id": "19852",
+				"price": "$6.80",
+				"variation": "6.68%",
+				"variation_is_up": false,
+				"rank": "#4207",
+				"watchlists": "249",
+				"marketcap": "$2,152,840,719",
+				"fully_diluted_marketcap": "$2,266,148,128",
+				"volume_24": "$128,988",
+				"volume_marketcap_24": "0.00005992",
+				"max_supply": "333,333,333",
+				"total_supply": "333,333,333",
+				"contract": "0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d",
+				"telegram": "Bitsubishi",
+				"twitter": "Bitsubishi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 17240,
+					"following_count": 2,
+					"tweet_count": 65,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 10419
+			}
 		}
 	]
 }
