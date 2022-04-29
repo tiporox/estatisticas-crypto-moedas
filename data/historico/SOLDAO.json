@@ -2171,6 +2171,46 @@
 			"data_telegram": {
 				"data": 6593
 			}
+		},
+		{
+			"date": "29/04/2022 18:30:50",
+			"data_coin": {
+				"id": "19817",
+				"name": "SOLDAO",
+				"symbol": "SOLDAO",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/soldao/",
+				"date": "28/04/2022 02:48:17"
+			},
+			"data_coinmarketcap": {
+				"id": "19817",
+				"price": "$0.0004726",
+				"variation": "39.94%",
+				"variation_is_up": false,
+				"rank": "#4053",
+				"watchlists": "619",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$472,599",
+				"volume_24": "$165,547",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x234edaf20bd60f246bd926ed8547837d75141988",
+				"twitter": "SolanaDaoToken",
+				"telegram": "SolanaDaoGlobal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 10388,
+					"following_count": 11,
+					"tweet_count": 92,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 6590
+			}
 		}
 	]
 }
