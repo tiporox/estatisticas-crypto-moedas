@@ -1,1 +1,42 @@
-{}
+{
+	"data": [
+		{
+			"date": "29/04/2022 03:05:44",
+			"data_coin": {
+				"id": "19862",
+				"name": "",
+				"symbol": "",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/undefined/",
+				"date": "29/04/2022 03:05:33"
+			},
+			"data_coinmarketcap": {
+				"id": "19862",
+				"price": "",
+				"variation": "",
+				"variation_is_up": false,
+				"rank": "",
+				"marketcap": "",
+				"fully_diluted_marketcap": "",
+				"volume_24": "",
+				"volume_marketcap_24": "",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "CoinMarketCap",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5285499,
+					"following_count": 1851,
+					"tweet_count": 17915,
+					"listed_count": 15747
+				}
+			},
+			"data_telegram": {
+				"data": 909231
+			}
+		}
+	]
+}
