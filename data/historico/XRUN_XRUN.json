@@ -116,6 +116,45 @@
 			"data_telegram": {
 				"data": 906347
 			}
+		},
+		{
+			"date": "30/04/2022 20:22:11",
+			"data_coin": {
+				"id": "19787",
+				"name": "XRUN",
+				"symbol": "XRUN",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/xrun/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19787",
+				"price": "$0.8645",
+				"variation": "2.42%",
+				"variation_is_up": false,
+				"rank": "#3237",
+				"watchlists": "10,303",
+				"marketcap": "$838,549,559",
+				"fully_diluted_marketcap": "$1,815,416,570",
+				"volume_24": "$982,938",
+				"volume_marketcap_24": "0.001172",
+				"max_supply": "2,100,000,000",
+				"total_supply": "2,100,000,000",
+				"twitter": "FoundationXrun",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4235,
+					"following_count": 17,
+					"tweet_count": 42,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 906291
+			}
 		}
 	]
 }
