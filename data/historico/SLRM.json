@@ -1695,6 +1695,46 @@
 			"data_telegram": {
 				"data": 1126
 			}
+		},
+		{
+			"date": "30/04/2022 02:32:20",
+			"data_coin": {
+				"id": "19848",
+				"name": "Salary Mining",
+				"symbol": "SLRM",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/salary-mining/",
+				"date": "28/04/2022 06:27:22"
+			},
+			"data_coinmarketcap": {
+				"id": "19848",
+				"price": "$0.0181",
+				"variation": "3.32%",
+				"variation_is_up": false,
+				"rank": "#5639",
+				"watchlists": "10,407",
+				"marketcap": "$905,201",
+				"fully_diluted_marketcap": "$1,810,401",
+				"volume_24": "$10,582",
+				"volume_marketcap_24": "0.01169",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x15ada4ea653e6e87b7f981c943965b20b2dcf703",
+				"telegram": "SalaryMining",
+				"twitter": "salaryecofin"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 13975,
+					"following_count": 21,
+					"tweet_count": 213,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 1126
+			}
 		}
 	]
 }
