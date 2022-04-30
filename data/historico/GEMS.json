@@ -3678,6 +3678,46 @@
 			"data_telegram": {
 				"data": 12704
 			}
+		},
+		{
+			"date": "29/04/2022 22:31:14",
+			"data_coin": {
+				"id": "19792",
+				"name": "Gem",
+				"symbol": "GEMS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/gem/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19792",
+				"price": "$0.02313",
+				"variation": "43.80%",
+				"variation_is_up": true,
+				"rank": "#3990",
+				"watchlists": "339",
+				"marketcap": "$1,804,451",
+				"fully_diluted_marketcap": "$2,313,398",
+				"volume_24": "$161,610",
+				"volume_marketcap_24": "0.08956",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+				"telegram": "TheGemPad",
+				"twitter": "TheGemPad"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3626,
+					"following_count": 95,
+					"tweet_count": 333,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 12705
+			}
 		}
 	]
 }
