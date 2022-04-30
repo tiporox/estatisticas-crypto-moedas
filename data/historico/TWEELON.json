@@ -3651,6 +3651,45 @@
 			"data_telegram": {
 				"data": 574
 			}
+		},
+		{
+			"date": "30/04/2022 03:31:47",
+			"data_coin": {
+				"id": "19798",
+				"name": "TWEELON",
+				"symbol": "TWEELON",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/tweelon/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19798",
+				"price": "$0.00009927",
+				"variation": "59.52%",
+				"variation_is_up": false,
+				"rank": "#4109",
+				"watchlists": "2,034",
+				"marketcap": "$992,731",
+				"fully_diluted_marketcap": "$992,731",
+				"volume_24": "$128,442",
+				"volume_marketcap_24": "0.1294",
+				"max_supply": "10,000,000,000",
+				"total_supply": "4,000,000,000",
+				"twitter": "TweelonETH",
+				"telegram": "Tweelon"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7610,
+					"following_count": 49,
+					"tweet_count": 161,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 574
+			}
 		}
 	]
 }
