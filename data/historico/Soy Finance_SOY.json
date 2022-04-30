@@ -137,6 +137,52 @@
 			"data_telegram": {
 				"data": 40426
 			}
+		},
+		{
+			"date": "30/04/2022 20:23:25",
+			"data_coin": {
+				"id": "19879",
+				"name": "Soy Finance",
+				"symbol": "SOY",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/soy-finance/",
+				"price": "$0.09551",
+				"_1h": "0.21%",
+				"_1h_up": false,
+				"_24h": "0.62%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$57,307,161",
+				"volume": "$298,118",
+				"date": "30/04/2022 15:42:45"
+			},
+			"data_coinmarketcap": {
+				"id": "19879",
+				"price": "$0.09391",
+				"variation": "2.29%",
+				"variation_is_up": false,
+				"rank": "#3762",
+				"watchlists": "48",
+				"marketcap": "$4,828,949",
+				"fully_diluted_marketcap": "$56,346,729",
+				"volume_24": "$263,846",
+				"volume_marketcap_24": "0.05464",
+				"max_supply": "600,000,000",
+				"total_supply": "146,760,958",
+				"telegram": "Soy_Finance",
+				"twitter": "Soy_Finance"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 53218,
+					"following_count": 27,
+					"tweet_count": 322,
+					"listed_count": 18
+				}
+			},
+			"data_telegram": {
+				"data": 40428
+			}
 		}
 	]
 }
