@@ -279,6 +279,57 @@
 			"data_telegram": {
 				"data": 23136
 			}
+		},
+		{
+			"date": "30/04/2022 21:31:58",
+			"data_coin": {
+				"id": "19785",
+				"name": "Baby Zoro Inu",
+				"symbol": "BABYZOROINU",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/baby-zoro-inu/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9228,
+						"following_count": 111,
+						"tweet_count": 523,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 23135
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19785",
+				"price": "$0.0...09807",
+				"variation": "13.84%",
+				"variation_is_up": false,
+				"rank": "#4974",
+				"watchlists": "628",
+				"marketcap": "$503,482",
+				"fully_diluted_marketcap": "$980,735",
+				"volume_24": "$29,494",
+				"volume_marketcap_24": "0.05858",
+				"max_supply": "100,000,000,000,000,000",
+				"total_supply": "100,000,000,000,000,000",
+				"contract": "0xb9a22a7d3f195c3f1a4f3b984ad79aabd51ae7ea",
+				"twitter": "babyzoroinu",
+				"telegram": "BabyZoroInuOfficiall"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9228,
+					"following_count": 111,
+					"tweet_count": 523,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 23136
+			}
 		}
 	]
 }

@@ -239,6 +239,57 @@
 			"data_telegram": {
 				"data": 52677
 			}
+		},
+		{
+			"date": "30/04/2022 21:32:16",
+			"data_coin": {
+				"id": "19845",
+				"name": "DPWK",
+				"symbol": "DPWK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/dpwk/",
+				"date": "28/04/2022 05:08:25",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 91223,
+						"following_count": 32,
+						"tweet_count": 596,
+						"listed_count": 72
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 52677
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19845",
+				"price": "$0.4921",
+				"variation": "6.26%",
+				"variation_is_up": false,
+				"rank": "#4748",
+				"watchlists": "84",
+				"marketcap": "$98,411",
+				"fully_diluted_marketcap": "$49,205,544",
+				"volume_24": "$42,417",
+				"volume_marketcap_24": "0.431",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xf6d5f0BBb71545f3679B37BA8B2268dAfA71E277",
+				"twitter": "DPWK_kreatties",
+				"telegram": "dontplaywithkitty_global"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 91223,
+					"following_count": 32,
+					"tweet_count": 596,
+					"listed_count": 72
+				}
+			},
+			"data_telegram": {
+				"data": 52677
+			}
 		}
 	]
 }
