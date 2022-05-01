@@ -738,6 +738,74 @@
 			"data_telegram": {
 				"data": 12784
 			}
+		},
+		{
+			"date": "01/05/2022 04:34:34",
+			"data_coin": {
+				"id": "19792",
+				"name": "Gem",
+				"symbol": "GEMS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/gem/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3646,
+						"following_count": 95,
+						"tweet_count": 335,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12784
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19792",
+					"price": "$0.02264",
+					"variation": "4.37%",
+					"variation_is_up": true,
+					"rank": "#3791",
+					"watchlists": "370",
+					"marketcap": "$1,765,987",
+					"fully_diluted_marketcap": "$2,264,085",
+					"volume_24": "$228,915",
+					"volume_marketcap_24": "0.1296",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+					"telegram": "TheGemPad",
+					"twitter": "TheGemPad"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19792",
+				"price": "$0.02233",
+				"variation": "4.98%",
+				"variation_is_up": true,
+				"rank": "#3780",
+				"watchlists": "374",
+				"marketcap": "$1,741,959",
+				"fully_diluted_marketcap": "$2,233,281",
+				"volume_24": "$231,407",
+				"volume_marketcap_24": "0.1328",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+				"telegram": "TheGemPad",
+				"twitter": "TheGemPad"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3649,
+					"following_count": 95,
+					"tweet_count": 335,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 12780
+			}
 		}
 	]
 }
