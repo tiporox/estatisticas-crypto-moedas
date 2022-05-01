@@ -1576,6 +1576,72 @@
 			"data_telegram": {
 				"data": 4391
 			}
+		},
+		{
+			"date": "01/05/2022 17:42:48",
+			"data_coin": {
+				"id": "19832",
+				"name": "CoinViewCap",
+				"symbol": "CVC",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/coinviewcap/",
+				"date": "27/04/2022 21:09:39",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5892,
+						"following_count": 261,
+						"tweet_count": 4887,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4382
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19832",
+					"price": "$0.000000008055",
+					"variation": "1.30%",
+					"variation_is_up": false,
+					"rank": "#5269",
+					"watchlists": "487",
+					"marketcap": "$5,637,481",
+					"fully_diluted_marketcap": "$8,055,307",
+					"volume_24": "$22,447",
+					"volume_marketcap_24": "0.003982",
+					"max_supply": "1,000,000,000,000,000",
+					"total_supply": "1,000,000,000,000,000",
+					"twitter": "CoinViewCap",
+					"telegram": "CoinViewCap"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19832",
+				"price": "$0.000000007925",
+				"variation": "2.80%",
+				"variation_is_up": false,
+				"rank": "#5217",
+				"watchlists": "493",
+				"marketcap": "$5,546,272",
+				"fully_diluted_marketcap": "$7,924,980",
+				"volume_24": "$25,001",
+				"volume_marketcap_24": "0.004508",
+				"max_supply": "1,000,000,000,000,000",
+				"total_supply": "1,000,000,000,000,000",
+				"twitter": "CoinViewCap",
+				"telegram": "CoinViewCap"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5895,
+					"following_count": 261,
+					"tweet_count": 4888,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 4393
+			}
 		}
 	]
 }
