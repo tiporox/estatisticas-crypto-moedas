@@ -970,6 +970,74 @@
 			"data_telegram": {
 				"data": 7643
 			}
+		},
+		{
+			"date": "01/05/2022 08:38:41",
+			"data_coin": {
+				"id": "19853",
+				"name": "NINJA INU",
+				"symbol": "NINJA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/ninja-inu/",
+				"date": "28/04/2022 13:21:05",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4752,
+						"following_count": 0,
+						"tweet_count": 32,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7646
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19853",
+					"price": "$0.000001142",
+					"variation": "91.37%",
+					"variation_is_up": false,
+					"rank": "#4303",
+					"watchlists": "247",
+					"marketcap": "$11,423",
+					"fully_diluted_marketcap": "$114,231",
+					"volume_24": "$87,608",
+					"volume_marketcap_24": "7.67",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x7037c96da575edc38686816e3e4d1367ef1e1bd1",
+					"telegram": "NinjaInuGlobal",
+					"twitter": "NINJAINUCLUB"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19853",
+				"price": "$0.000001859",
+				"variation": "82.49%",
+				"variation_is_up": false,
+				"rank": "#3959",
+				"watchlists": "284",
+				"marketcap": "$18,585",
+				"fully_diluted_marketcap": "$185,855",
+				"volume_24": "$164,927",
+				"volume_marketcap_24": "8.87",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x7037c96da575edc38686816e3e4d1367ef1e1bd1",
+				"telegram": "NinjaInuGlobal",
+				"twitter": "NINJAINUCLUB"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4760,
+					"following_count": 0,
+					"tweet_count": 32,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 7635
+			}
 		}
 	]
 }
