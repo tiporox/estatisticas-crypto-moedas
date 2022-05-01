@@ -426,6 +426,74 @@
 			"data_telegram": {
 				"data": 52666
 			}
+		},
+		{
+			"date": "01/05/2022 00:33:16",
+			"data_coin": {
+				"id": "19845",
+				"name": "DPWK",
+				"symbol": "DPWK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/dpwk/",
+				"date": "28/04/2022 05:08:25",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 91223,
+						"following_count": 32,
+						"tweet_count": 596,
+						"listed_count": 72
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 52672
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19845",
+					"price": "$0.5041",
+					"variation": "3.97%",
+					"variation_is_up": false,
+					"rank": "#4738",
+					"watchlists": "83",
+					"marketcap": "$100,814",
+					"fully_diluted_marketcap": "$50,407,036",
+					"volume_24": "$43,832",
+					"volume_marketcap_24": "0.4348",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0xf6d5f0BBb71545f3679B37BA8B2268dAfA71E277",
+					"twitter": "DPWK_kreatties",
+					"telegram": "dontplaywithkitty_global"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19845",
+				"price": "$0.4984",
+				"variation": "4.69%",
+				"variation_is_up": false,
+				"rank": "#4758",
+				"watchlists": "84",
+				"marketcap": "$99,681",
+				"fully_diluted_marketcap": "$49,840,327",
+				"volume_24": "$44,081",
+				"volume_marketcap_24": "0.4422",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xf6d5f0BBb71545f3679B37BA8B2268dAfA71E277",
+				"twitter": "DPWK_kreatties",
+				"telegram": "dontplaywithkitty_global"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 91126,
+					"following_count": 32,
+					"tweet_count": 596,
+					"listed_count": 72
+				}
+			},
+			"data_telegram": {
+				"data": 52664
+			}
 		}
 	]
 }
