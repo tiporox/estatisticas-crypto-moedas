@@ -1650,6 +1650,74 @@
 			"data_telegram": {
 				"data": 18701
 			}
+		},
+		{
+			"date": "01/05/2022 18:44:09",
+			"data_coin": {
+				"id": "19873",
+				"name": "SANGKARA MISA",
+				"symbol": "MISA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sangkara-misa/",
+				"date": "30/04/2022 13:33:33",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6063,
+						"following_count": 132,
+						"tweet_count": 179,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 18699
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19873",
+					"price": "$0.000223",
+					"variation": "17.98%",
+					"variation_is_up": false,
+					"rank": "#3289",
+					"watchlists": "203",
+					"marketcap": "$22,300,892",
+					"fully_diluted_marketcap": "$44,601,783",
+					"volume_24": "$821,729",
+					"volume_marketcap_24": "0.03685",
+					"max_supply": "200,000,000,000",
+					"total_supply": "200,000,000,000",
+					"twitter": "misatokenid",
+					"telegram": "MisaCoin",
+					"contract": "0x934b0633f4874ca9340341ad66ff2f6ce3124b4c (Binance Smart Chain)"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19873",
+				"price": "$0.000261",
+				"variation": "5.21%",
+				"variation_is_up": false,
+				"rank": "#3278",
+				"watchlists": "210",
+				"marketcap": "$26,104,057",
+				"fully_diluted_marketcap": "$52,208,114",
+				"volume_24": "$882,104",
+				"volume_marketcap_24": "0.03379",
+				"max_supply": "200,000,000,000",
+				"total_supply": "200,000,000,000",
+				"twitter": "misatokenid",
+				"telegram": "MisaCoin",
+				"contract": "0x934b0633f4874ca9340341ad66ff2f6ce3124b4c (Binance Smart Chain)"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6085,
+					"following_count": 132,
+					"tweet_count": 179,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 18699
+			}
 		}
 	]
 }
