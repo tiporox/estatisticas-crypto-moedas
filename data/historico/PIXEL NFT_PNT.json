@@ -197,6 +197,39 @@
 			"data_telegram": {
 				"data": 701
 			}
+		},
+		{
+			"date": "30/04/2022 21:27:44",
+			"data_coin": {
+				"id": "19816",
+				"name": "PIXEL NFT",
+				"symbol": "PNT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/pixel-nft/",
+				"date": "27/04/2022 20:56:31"
+			},
+			"data_coinmarketcap": {
+				"id": "19816",
+				"price": "$0.004772",
+				"variation": "4.79%",
+				"variation_is_up": false,
+				"rank": "#6084",
+				"watchlists": "243",
+				"marketcap": "$4,517",
+				"fully_diluted_marketcap": "$4,772",
+				"volume_24": "$3,870",
+				"volume_marketcap_24": "0.8567",
+				"max_supply": "1,000,000",
+				"total_supply": "1,000,000",
+				"contract": "0x0a09d403d6c02a8481c343be84ac8b24709abf98",
+				"telegram": "PixelNFT_Token",
+				"twitter": "NFT_pixel_"
+			},
+			"data_twitter": {},
+			"data_telegram": {
+				"data": 700
+			}
 		}
 	]
 }
