@@ -1114,6 +1114,72 @@
 			"data_telegram": {
 				"data": 569
 			}
+		},
+		{
+			"date": "01/05/2022 10:39:09",
+			"data_coin": {
+				"id": "19798",
+				"name": "TWEELON",
+				"symbol": "TWEELON",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/tweelon/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7413,
+						"following_count": 49,
+						"tweet_count": 161,
+						"listed_count": 6
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 571
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19798",
+					"price": "$0.00009579",
+					"variation": "1.35%",
+					"variation_is_up": false,
+					"rank": "#5337",
+					"watchlists": "2,043",
+					"marketcap": "$957,925",
+					"fully_diluted_marketcap": "$957,925",
+					"volume_24": "$17,384",
+					"volume_marketcap_24": "0.01815",
+					"max_supply": "10,000,000,000",
+					"total_supply": "4,000,000,000",
+					"twitter": "TweelonETH",
+					"telegram": "Tweelon"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19798",
+				"price": "$0.0001027",
+				"variation": "4.80%",
+				"variation_is_up": true,
+				"rank": "#5480",
+				"watchlists": "2,042",
+				"marketcap": "$1,027,493",
+				"fully_diluted_marketcap": "$1,027,493",
+				"volume_24": "$14,724",
+				"volume_marketcap_24": "0.01433",
+				"max_supply": "10,000,000,000",
+				"total_supply": "4,000,000,000",
+				"twitter": "TweelonETH",
+				"telegram": "Tweelon"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7611,
+					"following_count": 49,
+					"tweet_count": 161,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 569
+			}
 		}
 	]
 }
