@@ -466,6 +466,74 @@
 			"data_telegram": {
 				"data": 39308
 			}
+		},
+		{
+			"date": "01/05/2022 00:32:07",
+			"data_coin": {
+				"id": "19821",
+				"name": "LuckyDoge",
+				"symbol": "LUCKYDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/luckydoge/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 20222,
+						"following_count": 30,
+						"tweet_count": 66,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 39310
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19821",
+					"price": "$0.000006133",
+					"variation": "44.20%",
+					"variation_is_up": false,
+					"rank": "#3310",
+					"watchlists": "308",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$613,305",
+					"volume_24": "$691,136",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a11BD0d1e928C98570d85c72398Dd96802705Aa",
+					"twitter": "Luckydogebep20",
+					"telegram": "Luckydogeofficial"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19821",
+				"price": "$0.000005852",
+				"variation": "50.11%",
+				"variation_is_up": false,
+				"rank": "#3311",
+				"watchlists": "309",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$585,187",
+				"volume_24": "$723,469",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a11BD0d1e928C98570d85c72398Dd96802705Aa",
+				"twitter": "Luckydogebep20",
+				"telegram": "Luckydogeofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 19695,
+					"following_count": 30,
+					"tweet_count": 66,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 39308
+			}
 		}
 	]
 }
