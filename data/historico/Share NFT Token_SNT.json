@@ -970,6 +970,74 @@
 			"data_telegram": {
 				"data": 35805
 			}
+		},
+		{
+			"date": "01/05/2022 08:39:01",
+			"data_coin": {
+				"id": "19868",
+				"name": "Share NFT Token",
+				"symbol": "SNT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/share-nft-token/",
+				"date": "29/04/2022 07:38:33",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 38030,
+						"following_count": 47,
+						"tweet_count": 233,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 35837
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19868",
+					"price": "$0.01331",
+					"variation": "24.49%",
+					"variation_is_up": false,
+					"rank": "#4342",
+					"watchlists": "4,194",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$665,585",
+					"volume_24": "$83,248",
+					"volume_marketcap_24": "--",
+					"max_supply": "50,000,000",
+					"total_supply": "49,070,407",
+					"contract": "0x6f3619d033fc96d322aacd22665461f040106a04",
+					"twitter": "share_nft2008",
+					"telegram": "sharenft2008"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19868",
+				"price": "$0.01056",
+				"variation": "35.75%",
+				"variation_is_up": false,
+				"rank": "#4134",
+				"watchlists": "4,197",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$528,199",
+				"volume_24": "$122,508",
+				"volume_marketcap_24": "--",
+				"max_supply": "50,000,000",
+				"total_supply": "49,070,407",
+				"contract": "0x6f3619d033fc96d322aacd22665461f040106a04",
+				"twitter": "share_nft2008",
+				"telegram": "sharenft2008"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 38026,
+					"following_count": 48,
+					"tweet_count": 237,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 35797
+			}
 		}
 	]
 }
