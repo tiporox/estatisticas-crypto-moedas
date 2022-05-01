@@ -982,6 +982,72 @@
 			"data_telegram": {
 				"data": 45683
 			}
+		},
+		{
+			"date": "01/05/2022 08:37:23",
+			"data_coin": {
+				"id": "19819",
+				"name": "REI Network",
+				"symbol": "REI",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/rei-network/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 102460,
+						"following_count": 660,
+						"tweet_count": 1598,
+						"listed_count": 364
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 45707
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19819",
+					"price": "$0.1333",
+					"variation": "4.40%",
+					"variation_is_up": false,
+					"rank": "#2957",
+					"watchlists": "354",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$4,024,241",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"telegram": "GXChain_international",
+					"twitter": "GXChainGlobal"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19819",
+				"price": "$0.1442",
+				"variation": "3.91%",
+				"variation_is_up": true,
+				"rank": "#2897",
+				"watchlists": "361",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$7,371,093",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "GXChain_international",
+				"twitter": "GXChainGlobal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 102535,
+					"following_count": 660,
+					"tweet_count": 1599,
+					"listed_count": 364
+				}
+			},
+			"data_telegram": {
+				"data": 45686
+			}
 		}
 	]
 }
