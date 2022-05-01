@@ -520,6 +520,72 @@
 			"data_telegram": {
 				"data": 906139
 			}
+		},
+		{
+			"date": "01/05/2022 01:33:07",
+			"data_coin": {
+				"id": "19796",
+				"name": "Bamboonium",
+				"symbol": "BAMB",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/bamboonium/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16720,
+						"following_count": 1221,
+						"tweet_count": 2300,
+						"listed_count": 62
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 906160
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19796",
+					"price": "$0.01496",
+					"variation": "11.46%",
+					"variation_is_up": false,
+					"rank": "#5332",
+					"watchlists": "52",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$7,478,219",
+					"volume_24": "$17,047",
+					"volume_marketcap_24": "--",
+					"max_supply": "500,000,000",
+					"total_supply": "500,000,000",
+					"twitter": "Paladin_Pandas",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19796",
+				"price": "$0.01504",
+				"variation": "14.27%",
+				"variation_is_up": false,
+				"rank": "#5441",
+				"watchlists": "52",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$7,518,798",
+				"volume_24": "$14,467",
+				"volume_marketcap_24": "--",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"twitter": "Paladin_Pandas",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16699,
+					"following_count": 1222,
+					"tweet_count": 2300,
+					"listed_count": 62
+				}
+			},
+			"data_telegram": {
+				"data": 906029
+			}
 		}
 	]
 }
