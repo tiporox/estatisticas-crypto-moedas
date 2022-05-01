@@ -1669,6 +1669,72 @@
 			"data_telegram": {
 				"data": 17875
 			}
+		},
+		{
+			"date": "01/05/2022 19:43:55",
+			"data_coin": {
+				"id": "19843",
+				"name": "ApeX Protocol",
+				"symbol": "APEX",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/apex-token/",
+				"date": "28/04/2022 03:40:43",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 40479,
+						"following_count": 9,
+						"tweet_count": 176,
+						"listed_count": 61
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 17863
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19843",
+					"price": "$0.2441",
+					"variation": "2.44%",
+					"variation_is_up": true,
+					"rank": "#3027",
+					"watchlists": "667",
+					"marketcap": "$2,441,297",
+					"fully_diluted_marketcap": "$244,129,735",
+					"volume_24": "$2,374,071",
+					"volume_marketcap_24": "0.9725",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "ApeXdex",
+					"twitter": "OfficialApeXdex"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19843",
+				"price": "$0.2502",
+				"variation": "6.29%",
+				"variation_is_up": true,
+				"rank": "#3018",
+				"watchlists": "674",
+				"marketcap": "$2,502,374",
+				"fully_diluted_marketcap": "$250,237,417",
+				"volume_24": "$2,490,818",
+				"volume_marketcap_24": "0.9954",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "ApeXdex",
+				"twitter": "OfficialApeXdex"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 40462,
+					"following_count": 9,
+					"tweet_count": 176,
+					"listed_count": 61
+				}
+			},
+			"data_telegram": {
+				"data": 17884
+			}
 		}
 	]
 }
