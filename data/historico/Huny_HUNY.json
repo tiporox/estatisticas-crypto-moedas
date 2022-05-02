@@ -2830,6 +2830,72 @@
 			"data_telegram": {
 				"data": 902845
 			}
+		},
+		{
+			"date": "02/05/2022 12:53:10",
+			"data_coin": {
+				"id": "19797",
+				"name": "Huny",
+				"symbol": "HUNY",
+				"blockchain": "Zilliqa",
+				"ativo": true,
+				"link": "/currencies/huny/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4869,
+						"following_count": 257,
+						"tweet_count": 1145,
+						"listed_count": 21
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 902927
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19797",
+					"price": "$0.4237",
+					"variation": "8.21%",
+					"variation_is_up": true,
+					"rank": "#4154",
+					"watchlists": "92",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$681,937",
+					"volume_24": "$120,141",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "1,609,335",
+					"twitter": "bearmarketnft",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19797",
+				"price": "$0.4328",
+				"variation": "9.63%",
+				"variation_is_up": true,
+				"rank": "#4153",
+				"watchlists": "92",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$696,504",
+				"volume_24": "$125,243",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "1,609,335",
+				"twitter": "bearmarketnft",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4869,
+					"following_count": 257,
+					"tweet_count": 1145,
+					"listed_count": 21
+				}
+			},
+			"data_telegram": {
+				"data": 902751
+			}
 		}
 	]
 }
