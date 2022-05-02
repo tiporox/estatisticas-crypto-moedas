@@ -2398,6 +2398,74 @@
 			"data_telegram": {
 				"data": 903506
 			}
+		},
+		{
+			"date": "02/05/2022 05:50:16",
+			"data_coin": {
+				"id": "19856",
+				"name": "CatCoin",
+				"symbol": "CATCOIN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/catcoin-cash/",
+				"date": "29/04/2022 08:39:16",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9124,
+						"following_count": 2,
+						"tweet_count": 39,
+						"listed_count": 22
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 903656
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19856",
+					"price": "$0.0...01001",
+					"variation": "1.19%",
+					"variation_is_up": true,
+					"rank": "#2854",
+					"watchlists": "20,638",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$1,001,370",
+					"volume_24": "$22,099,690",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000,000,000,000",
+					"total_supply": "100,000,000,000,000,000",
+					"contract": "0x3e362283b86c1b45097cc3fb02213b79cf6211df",
+					"twitter": "catcoincash",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19856",
+				"price": "$0.0...01001",
+				"variation": "8.21%",
+				"variation_is_up": false,
+				"rank": "#2857",
+				"watchlists": "20,646",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,001,276",
+				"volume_24": "$20,974,665",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000,000,000",
+				"total_supply": "100,000,000,000,000,000",
+				"contract": "0x3e362283b86c1b45097cc3fb02213b79cf6211df",
+				"twitter": "catcoincash",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9128,
+					"following_count": 2,
+					"tweet_count": 39,
+					"listed_count": 22
+				}
+			},
+			"data_telegram": {
+				"data": 903368
+			}
 		}
 	]
 }
