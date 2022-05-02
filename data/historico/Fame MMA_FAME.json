@@ -93,6 +93,81 @@
 			"data_telegram": {
 				"data": 14571
 			}
+		},
+		{
+			"date": "02/05/2022 03:11:54",
+			"data_coin": {
+				"id": "19886",
+				"name": "Fame MMA",
+				"symbol": "FAME",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/fame-mma/",
+				"price": "$0.4311",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$4,271,485,511",
+				"volume": "$11,294,265",
+				"date": "02/05/2022 01:07:31",
+				"infoCoinMarketCap_1": {
+					"id": "19886",
+					"price": "$0.4311",
+					"variation": "0.00%",
+					"variation_is_up": false,
+					"rank": "#2876",
+					"watchlists": "0",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$4,271,485,326",
+					"volume_24": "$11,294,265",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "9,909,194,789",
+					"contract": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
+					"telegram": "fameio",
+					"twitter": "famemmatv"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 109903,
+						"following_count": 44,
+						"tweet_count": 715,
+						"listed_count": 42
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 14555
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19886",
+				"price": "$0.4084",
+				"variation": "5.26%",
+				"variation_is_up": false,
+				"rank": "#2872",
+				"watchlists": "171",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$4,046,770,932",
+				"volume_24": "$12,623,977",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "9,909,194,789",
+				"contract": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
+				"telegram": "fameio",
+				"twitter": "famemmatv"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 109667,
+					"following_count": 44,
+					"tweet_count": 715,
+					"listed_count": 42
+				}
+			},
+			"data_telegram": {
+				"data": 14573
+			}
 		}
 	]
 }
