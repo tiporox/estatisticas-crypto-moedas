@@ -2118,6 +2118,81 @@
 			"data_telegram": {
 				"data": 17932
 			}
+		},
+		{
+			"date": "02/05/2022 16:47:01",
+			"data_coin": {
+				"id": "19882",
+				"name": "Petoverse",
+				"symbol": "PETO",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/petoverse/",
+				"price": "$5.89",
+				"_1h": "0.08%",
+				"_1h_up": true,
+				"_24h": "0.08%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$4,710,068,070",
+				"volume": "$529,100",
+				"date": "01/05/2022 08:24:49",
+				"infoCoinMarketCap_1": {
+					"id": "19882",
+					"price": "$7.34",
+					"variation": "13.23%",
+					"variation_is_up": false,
+					"rank": "#3181",
+					"watchlists": "1,100",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$5,870,989,583",
+					"volume_24": "$1,211,880",
+					"volume_marketcap_24": "--",
+					"max_supply": "800,000,000",
+					"total_supply": "818,136",
+					"contract": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
+					"telegram": "petoverse",
+					"twitter": "petoverse"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5610,
+						"following_count": 2,
+						"tweet_count": 144,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 17939
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19882",
+				"price": "$7.80",
+				"variation": "13.28%",
+				"variation_is_up": false,
+				"rank": "#3160",
+				"watchlists": "1,121",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$6,238,183,101",
+				"volume_24": "$1,282,801",
+				"volume_marketcap_24": "--",
+				"max_supply": "800,000,000",
+				"total_supply": "818,136",
+				"contract": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
+				"telegram": "petoverse",
+				"twitter": "petoverse"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5619,
+					"following_count": 2,
+					"tweet_count": 144,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 17923
+			}
 		}
 	]
 }
