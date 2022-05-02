@@ -2830,6 +2830,72 @@
 			"data_telegram": {
 				"data": 366
 			}
+		},
+		{
+			"date": "02/05/2022 12:53:21",
+			"data_coin": {
+				"id": "19791",
+				"name": "HubCoin",
+				"symbol": "HUB",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/hubcoin/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3582,
+						"following_count": 3,
+						"tweet_count": 94,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 366
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19791",
+					"price": "$0.1226",
+					"variation": "0.65%",
+					"variation_is_up": true,
+					"rank": "#4729",
+					"watchlists": "110",
+					"marketcap": "$2,817,100",
+					"fully_diluted_marketcap": "$61,277,453",
+					"volume_24": "$48,981",
+					"volume_marketcap_24": "0.01739",
+					"max_supply": "500,000,000",
+					"total_supply": "500,000,000",
+					"twitter": "hubber_space",
+					"telegram": "Hubcoin_Official_EN"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19791",
+				"price": "$0.1254",
+				"variation": "10.24%",
+				"variation_is_up": true,
+				"rank": "#5027",
+				"watchlists": "110",
+				"marketcap": "$2,882,612",
+				"fully_diluted_marketcap": "$62,702,463",
+				"volume_24": "$33,294",
+				"volume_marketcap_24": "0.01155",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"twitter": "hubber_space",
+				"telegram": "Hubcoin_Official_EN"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3591,
+					"following_count": 3,
+					"tweet_count": 94,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 368
+			}
 		}
 	]
 }
