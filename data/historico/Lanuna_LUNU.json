@@ -3214,6 +3214,74 @@
 			"data_telegram": {
 				"data": 22376
 			}
+		},
+		{
+			"date": "02/05/2022 17:57:16",
+			"data_coin": {
+				"id": "19851",
+				"name": "Lanuna",
+				"symbol": "LUNU",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/lanuna/",
+				"date": "28/04/2022 10:16:50",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 18922,
+						"following_count": 11,
+						"tweet_count": 35,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 22371
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19851",
+					"price": "$0.4489",
+					"variation": "9.59%",
+					"variation_is_up": false,
+					"rank": "#4767",
+					"watchlists": "232",
+					"marketcap": "$448,899",
+					"fully_diluted_marketcap": "$44,889,945,137",
+					"volume_24": "$49,807",
+					"volume_marketcap_24": "0.111",
+					"max_supply": "100,000,000,000",
+					"total_supply": "1,000,000",
+					"twitter": "LanunaFinance",
+					"telegram": "lanuna_chat",
+					"contract": "0xc180dc32De23f03768B9F66a1aB47DC16aD76501"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19851",
+				"price": "$0.4499",
+				"variation": "7.93%",
+				"variation_is_up": false,
+				"rank": "#4766",
+				"watchlists": "233",
+				"marketcap": "$449,860",
+				"fully_diluted_marketcap": "$44,985,970,707",
+				"volume_24": "$50,446",
+				"volume_marketcap_24": "0.1121",
+				"max_supply": "100,000,000,000",
+				"total_supply": "1,000,000",
+				"twitter": "LanunaFinance",
+				"telegram": "lanuna_chat",
+				"contract": "0xc180dc32De23f03768B9F66a1aB47DC16aD76501"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 18928,
+					"following_count": 11,
+					"tweet_count": 35,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 22374
+			}
 		}
 	]
 }
