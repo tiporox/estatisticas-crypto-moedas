@@ -2302,6 +2302,74 @@
 			"data_telegram": {
 				"data": 1182
 			}
+		},
+		{
+			"date": "02/05/2022 03:47:57",
+			"data_coin": {
+				"id": "19795",
+				"name": "Tierra Meta",
+				"symbol": "TRMT",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/tierra-meta/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2254,
+						"following_count": 85,
+						"tweet_count": 12,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1181
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19795",
+					"price": "$0.129",
+					"variation": "0.23%",
+					"variation_is_up": false,
+					"rank": "#10082",
+					"watchlists": "68",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$322,557,051",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "2,500,000,000",
+					"contract": "0x1a2dB1E99560757095bd44F82FF5078C13C57a71",
+					"twitter": "tierrameta",
+					"telegram": "TIERRAMETA_COMMUNITY"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19795",
+				"price": "$0.1298",
+				"variation": "0.16%",
+				"variation_is_up": false,
+				"rank": "#10083",
+				"watchlists": "68",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$324,535,134",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "2,500,000,000",
+				"contract": "0x1a2dB1E99560757095bd44F82FF5078C13C57a71",
+				"twitter": "tierrameta",
+				"telegram": "TIERRAMETA_COMMUNITY"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2256,
+					"following_count": 85,
+					"tweet_count": 12,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 1182
+			}
 		}
 	]
 }
