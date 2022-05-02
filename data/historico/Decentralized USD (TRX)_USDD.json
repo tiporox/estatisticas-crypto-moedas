@@ -693,6 +693,81 @@
 			"data_telegram": {
 				"data": 902583
 			}
+		},
+		{
+			"date": "02/05/2022 15:40:15",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.9929",
+					"variation": "0.42%",
+					"variation_is_up": false,
+					"rank": "#3329",
+					"watchlists": "74",
+					"marketcap": "$33,092,655",
+					"fully_diluted_marketcap": "$992,779,469,387",
+					"volume_24": "$738,234",
+					"volume_marketcap_24": "0.02231",
+					"max_supply": "999,900,000,000",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 33603,
+						"following_count": 38,
+						"tweet_count": 35,
+						"listed_count": 32
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 902674
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$0.9941",
+				"variation": "0.30%",
+				"variation_is_up": false,
+				"rank": "#3300",
+				"watchlists": "81",
+				"marketcap": "$33,134,125",
+				"fully_diluted_marketcap": "$994,023,548,458",
+				"volume_24": "$816,791",
+				"volume_marketcap_24": "0.02465",
+				"max_supply": "999,900,000,000",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 33847,
+					"following_count": 38,
+					"tweet_count": 35,
+					"listed_count": 33
+				}
+			},
+			"data_telegram": {
+				"data": 902505
+			}
 		}
 	]
 }
