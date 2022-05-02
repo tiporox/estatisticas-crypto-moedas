@@ -693,6 +693,81 @@
 			"data_telegram": {
 				"data": 2486
 			}
+		},
+		{
+			"date": "02/05/2022 18:58:42",
+			"data_coin": {
+				"id": "19892",
+				"name": "Clear Water",
+				"symbol": "$CLEAR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/clear-water/",
+				"price": "$0.0001986",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,985,621",
+				"volume": "$161,637",
+				"date": "02/05/2022 08:48:59",
+				"infoCoinMarketCap_1": {
+					"id": "19892",
+					"price": "$0.0002017",
+					"variation": "1.59%",
+					"variation_is_up": true,
+					"rank": "#3715",
+					"watchlists": "365",
+					"marketcap": "$1,008,626",
+					"fully_diluted_marketcap": "$2,017,252",
+					"volume_24": "$302,120",
+					"volume_marketcap_24": "0.2995",
+					"max_supply": "10,000,000,000",
+					"total_supply": "5,000,000,000",
+					"contract": "0x09Faf80c7Df27d0Fb8A717324963cB871f6814f7",
+					"telegram": "clearwaterclw",
+					"twitter": "clearwaterclw"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5622,
+						"following_count": 94,
+						"tweet_count": 444,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2481
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19892",
+				"price": "$0.0002013",
+				"variation": "1.40%",
+				"variation_is_up": true,
+				"rank": "#3714",
+				"watchlists": "384",
+				"marketcap": "$1,006,684",
+				"fully_diluted_marketcap": "$2,013,368",
+				"volume_24": "$304,366",
+				"volume_marketcap_24": "0.3023",
+				"max_supply": "10,000,000,000",
+				"total_supply": "5,000,000,000",
+				"contract": "0x09Faf80c7Df27d0Fb8A717324963cB871f6814f7",
+				"telegram": "clearwaterclw",
+				"twitter": "clearwaterclw"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5628,
+					"following_count": 94,
+					"tweet_count": 444,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 2493
+			}
 		}
 	]
 }
