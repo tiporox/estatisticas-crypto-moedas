@@ -2568,6 +2568,81 @@
 			"data_telegram": {
 				"data": 900192
 			}
+		},
+		{
+			"date": "03/05/2022 16:51:53",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$1.01",
+					"variation": "1.39%",
+					"variation_is_up": true,
+					"rank": "#3299",
+					"watchlists": "161",
+					"marketcap": "$48,191,391",
+					"fully_diluted_marketcap": "$33,529,259",
+					"volume_24": "$797,679",
+					"volume_marketcap_24": "0.01655",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 35459,
+						"following_count": 38,
+						"tweet_count": 37,
+						"listed_count": 34
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 900283
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$0.9976",
+				"variation": "0.16%",
+				"variation_is_up": false,
+				"rank": "#3287",
+				"watchlists": "169",
+				"marketcap": "$47,789,066",
+				"fully_diluted_marketcap": "$33,249,341",
+				"volume_24": "$811,764",
+				"volume_marketcap_24": "0.01699",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 35591,
+					"following_count": 38,
+					"tweet_count": 37,
+					"listed_count": 34
+				}
+			},
+			"data_telegram": {
+				"data": 900103
+			}
 		}
 	]
 }
