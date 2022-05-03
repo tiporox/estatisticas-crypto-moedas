@@ -3849,33 +3849,6 @@
 			"infoCoinMarketCap_1": {
 				"id": "19839",
 				"price": "$1.70",
-				"variation": "1.93%",
-				"variation_is_up": false,
-				"rank": "#5314",
-				"watchlists": "81",
-				"marketcap": "$1,255,753",
-				"fully_diluted_marketcap": "$16,969,636",
-				"volume_24": "$17,633",
-				"volume_marketcap_24": "0.01404",
-				"max_supply": "10,000,000",
-				"total_supply": "10,000,000",
-				"twitter": "lavanodes",
-				"telegram": "CoinMarketCapAnnouncements"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 24200,
-					"following_count": 2,
-					"tweet_count": 166,
-					"listed_count": 115
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 902122
-			},
-			"infoCoinMarketCap": {
-				"id": "19839",
-				"price": "$1.70",
 				"variation": "1.50%",
 				"variation_is_up": false,
 				"rank": "#5286",
@@ -3889,7 +3862,7 @@
 				"twitter": "lavanodes",
 				"telegram": "CoinMarketCapAnnouncements"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 24206,
 					"following_count": 2,
@@ -3897,8 +3870,35 @@
 					"listed_count": 115
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 902049
+			},
+			"infoCoinMarketCap": {
+				"id": "19839",
+				"price": "$1.70",
+				"variation": "1.54%",
+				"variation_is_up": false,
+				"rank": "#5297",
+				"watchlists": "82",
+				"marketcap": "$1,257,886",
+				"fully_diluted_marketcap": "$16,998,456",
+				"volume_24": "$18,927",
+				"volume_marketcap_24": "0.01505",
+				"max_supply": "10,000,000",
+				"total_supply": "10,000,000",
+				"twitter": "lavanodes",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 24208,
+					"following_count": 2,
+					"tweet_count": 166,
+					"listed_count": 115
+				}
+			},
+			"dadosTelegram": {
+				"data": 901979
 			}
 		},
 		{
@@ -3919,34 +3919,6 @@
 			"infoCoinMarketCap_1": {
 				"id": "19882",
 				"price": "$7.89",
-				"variation": "10.20%",
-				"variation_is_up": false,
-				"rank": "#3384",
-				"watchlists": "1,142",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$6,309,571,125",
-				"volume_24": "$597,923",
-				"volume_marketcap_24": "--",
-				"max_supply": "800,000,000",
-				"total_supply": "818,136",
-				"contract": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
-				"telegram": "petoverse",
-				"twitter": "petoverse"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 5641,
-					"following_count": 2,
-					"tweet_count": 144,
-					"listed_count": 2
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 17907
-			},
-			"infoCoinMarketCap": {
-				"id": "19882",
-				"price": "$7.89",
 				"variation": "7.57%",
 				"variation_is_up": false,
 				"rank": "#3381",
@@ -3961,7 +3933,7 @@
 				"telegram": "petoverse",
 				"twitter": "petoverse"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 5644,
 					"following_count": 2,
@@ -3969,8 +3941,36 @@
 					"listed_count": 2
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 17903
+			},
+			"infoCoinMarketCap": {
+				"id": "19882",
+				"price": "$8.35",
+				"variation": "0.06%",
+				"variation_is_up": false,
+				"rank": "#3040",
+				"watchlists": "1,156",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$6,682,253,666",
+				"volume_24": "$2,201,188",
+				"volume_marketcap_24": "--",
+				"max_supply": "800,000,000",
+				"total_supply": "818,136",
+				"contract": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
+				"telegram": "petoverse",
+				"twitter": "petoverse"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 5650,
+					"following_count": 2,
+					"tweet_count": 144,
+					"listed_count": 2
+				}
+			},
+			"dadosTelegram": {
+				"data": 17909
 			}
 		},
 		{
@@ -4474,7 +4474,39 @@
 			"dadosTelegram": {
 				"data": 11608
 			}
+		},
+		{
+			"id": "19901",
+			"name": "VR Blocks",
+			"symbol": "VRBLOCKS",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/vr-blocks/",
+			"price": "$0.05686",
+			"_1h": "13.74%",
+			"_1h_up": true,
+			"_24h": "13.74%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$2,843,228",
+			"volume": "$111,949",
+			"date": "02/05/2022 23:52:51"
+		},
+		{
+			"id": "19900",
+			"name": "Argo Finance",
+			"symbol": "ARGO",
+			"blockchain": "Cronos",
+			"ativo": true,
+			"link": "/currencies/argo-finance/",
+			"price": "$0.01527",
+			"_1h": "0.00%",
+			"_1h_up": false,
+			"_24h": "0.00%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "--",
+			"volume": "$28,323",
+			"date": "02/05/2022 23:52:51"
 		}
 	],
-	"total": 69
+	"total": 71
 }
