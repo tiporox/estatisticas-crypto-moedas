@@ -3451,6 +3451,72 @@
 			"data_telegram": {
 				"data": 972
 			}
+		},
+		{
+			"date": "02/05/2022 23:01:11",
+			"data_coin": {
+				"id": "19864",
+				"name": "smolting inu",
+				"symbol": "SMOL",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/smolting-inu/",
+				"date": "29/04/2022 04:18:26",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1719,
+						"following_count": 11,
+						"tweet_count": 366,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 971
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19864",
+					"price": "$10.19",
+					"variation": "41.67%",
+					"variation_is_up": true,
+					"rank": "#3530",
+					"watchlists": "157",
+					"marketcap": "$9,489,146",
+					"fully_diluted_marketcap": "$10,121,717",
+					"volume_24": "$438,446",
+					"volume_marketcap_24": "0.0462",
+					"max_supply": "--",
+					"total_supply": "992,996",
+					"twitter": "smoltinginu",
+					"telegram": "SmoltingInuEntryPortal"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19864",
+				"price": "$9.05",
+				"variation": "14.75%",
+				"variation_is_up": true,
+				"rank": "#3476",
+				"watchlists": "157",
+				"marketcap": "$8,422,238",
+				"fully_diluted_marketcap": "$8,983,687",
+				"volume_24": "$450,560",
+				"volume_marketcap_24": "0.0535",
+				"max_supply": "--",
+				"total_supply": "992,996",
+				"twitter": "smoltinginu",
+				"telegram": "SmoltingInuEntryPortal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1719,
+					"following_count": 11,
+					"tweet_count": 366,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 972
+			}
 		}
 	]
 }
