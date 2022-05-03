@@ -4850,33 +4850,6 @@
 			"date": "03/05/2022 01:19:44",
 			"infoCoinMarketCap_1": {
 				"id": "19907",
-				"price": "$0.001706",
-				"variation": "4.85%",
-				"variation_is_up": true,
-				"rank": "#3959",
-				"watchlists": "152",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "- -",
-				"volume_24": "$170,798",
-				"volume_marketcap_24": "--",
-				"max_supply": "",
-				"total_supply": "",
-				"telegram": "bioficommunity",
-				"twitter": "Finnovant"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 37907,
-					"following_count": 493,
-					"tweet_count": 696,
-					"listed_count": 12
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 24030
-			},
-			"infoCoinMarketCap": {
-				"id": "19907",
 				"price": "$0.001697",
 				"variation": "4.30%",
 				"variation_is_up": true,
@@ -4891,9 +4864,36 @@
 				"telegram": "bioficommunity",
 				"twitter": "Finnovant"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 37900,
+					"following_count": 493,
+					"tweet_count": 697,
+					"listed_count": 12
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 24031
+			},
+			"infoCoinMarketCap": {
+				"id": "19907",
+				"price": "$0.001686",
+				"variation": "3.64%",
+				"variation_is_up": true,
+				"rank": "#4008",
+				"watchlists": "162",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$159,134",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "bioficommunity",
+				"twitter": "Finnovant"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 37903,
 					"following_count": 493,
 					"tweet_count": 697,
 					"listed_count": 12
@@ -5474,7 +5474,23 @@
 			"dadosTelegram": {
 				"data": 107426
 			}
+		},
+		{
+			"id": "19916",
+			"name": "Galaxy",
+			"symbol": "GLXY",
+			"blockchain": "Solana",
+			"ativo": true,
+			"link": "/currencies/galaxy-dao/",
+			"price": "$0.2643",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$79,290,218",
+			"volume": "$763,203",
+			"date": "03/05/2022 14:23:34"
 		}
 	],
-	"total": 83
+	"total": 84
 }
