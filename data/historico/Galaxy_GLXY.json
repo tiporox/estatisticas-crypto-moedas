@@ -45,6 +45,52 @@
 			"data_telegram": {
 				"data": 900321
 			}
+		},
+		{
+			"date": "03/05/2022 15:24:44",
+			"data_coin": {
+				"id": "19916",
+				"name": "Galaxy",
+				"symbol": "GLXY",
+				"blockchain": "Solana",
+				"ativo": true,
+				"link": "/currencies/galaxy-dao/",
+				"price": "$0.2643",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$79,290,218",
+				"volume": "$763,203",
+				"date": "03/05/2022 14:23:34"
+			},
+			"data_coinmarketcap": {
+				"id": "19916",
+				"price": "$0.2319",
+				"variation": "12.26%",
+				"variation_is_up": false,
+				"rank": "#3291",
+				"watchlists": "32",
+				"marketcap": "$69,569,933",
+				"fully_diluted_marketcap": "$69,569,933",
+				"volume_24": "$808,731",
+				"volume_marketcap_24": "0.01162",
+				"max_supply": "299,999,997",
+				"total_supply": "299,999,998",
+				"twitter": "Astrals_NFT",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 35762,
+					"following_count": 682,
+					"tweet_count": 1239,
+					"listed_count": 99
+				}
+			},
+			"data_telegram": {
+				"data": 900235
+			}
 		}
 	]
 }
