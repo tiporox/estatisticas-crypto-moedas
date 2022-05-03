@@ -748,6 +748,79 @@
 			"data_telegram": {
 				"data": 1180
 			}
+		},
+		{
+			"date": "03/05/2022 12:12:31",
+			"data_coin": {
+				"id": "19906",
+				"name": "ChoccySwap",
+				"symbol": "CCY",
+				"blockchain": "Avalanche",
+				"ativo": true,
+				"link": "/currencies/choccyswap/",
+				"price": "$0.02032",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$144,281",
+				"date": "03/05/2022 01:09:38",
+				"infoCoinMarketCap_1": {
+					"id": "19906",
+					"price": "$0.02168",
+					"variation": "6.70%",
+					"variation_is_up": true,
+					"rank": "#4261",
+					"watchlists": "45",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$101,385",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "ChoccySwap",
+					"telegram": "ChoccySwapCommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2763,
+						"following_count": 6,
+						"tweet_count": 95,
+						"listed_count": 12
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1176
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19906",
+				"price": "$0.02209",
+				"variation": "8.71%",
+				"variation_is_up": true,
+				"rank": "#4551",
+				"watchlists": "57",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$63,360",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "ChoccySwap",
+				"telegram": "ChoccySwapCommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2768,
+					"following_count": 6,
+					"tweet_count": 95,
+					"listed_count": 12
+				}
+			},
+			"data_telegram": {
+				"data": 1184
+			}
 		}
 	]
 }
