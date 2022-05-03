@@ -2493,6 +2493,81 @@
 			"data_telegram": {
 				"data": 6627
 			}
+		},
+		{
+			"date": "03/05/2022 20:43:34",
+			"data_coin": {
+				"id": "19898",
+				"name": "Rbicycle",
+				"symbol": "CYCLE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/rbicycle/",
+				"price": "$0.1179",
+				"_1h": "19.56%",
+				"_1h_up": true,
+				"_24h": "19.56%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$5,896,695",
+				"volume": "$9,645,327",
+				"date": "02/05/2022 10:26:54",
+				"infoCoinMarketCap_1": {
+					"id": "19898",
+					"price": "$0.04739",
+					"variation": "40.76%",
+					"variation_is_up": false,
+					"rank": "#2867",
+					"watchlists": "763",
+					"marketcap": "$2,274,856",
+					"fully_diluted_marketcap": "$2,369,641",
+					"volume_24": "$13,660,465",
+					"volume_marketcap_24": "6",
+					"max_supply": "49,999,999",
+					"total_supply": "--",
+					"twitter": "rbicycleio",
+					"telegram": "Rbicycle",
+					"contract": "0x5FE409888504804E329d8A366A26083a088736ab"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4098,
+						"following_count": 11,
+						"tweet_count": 45,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6627
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19898",
+				"price": "$0.04702",
+				"variation": "40.24%",
+				"variation_is_up": false,
+				"rank": "#2866",
+				"watchlists": "765",
+				"marketcap": "$2,257,051",
+				"fully_diluted_marketcap": "$2,351,095",
+				"volume_24": "$13,844,941",
+				"volume_marketcap_24": "6.13",
+				"max_supply": "49,999,999",
+				"total_supply": "--",
+				"twitter": "rbicycleio",
+				"telegram": "Rbicycle",
+				"contract": "0x5FE409888504804E329d8A366A26083a088736ab"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4111,
+					"following_count": 11,
+					"tweet_count": 45,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 6632
+			}
 		}
 	]
 }
