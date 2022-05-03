@@ -4642,6 +4642,74 @@
 			"data_telegram": {
 				"data": 900355
 			}
+		},
+		{
+			"date": "03/05/2022 15:06:45",
+			"data_coin": {
+				"id": "19637",
+				"name": "Miracle Universe",
+				"symbol": "MU",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/miracle-universe/",
+				"date": "28/04/2022 13:07:14",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 38273,
+						"following_count": 49,
+						"tweet_count": 363,
+						"listed_count": 21
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 900444
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19637",
+					"price": "$0.0805",
+					"variation": "15.18%",
+					"variation_is_up": false,
+					"rank": "#2870",
+					"watchlists": "535",
+					"marketcap": "$5,409,629",
+					"fully_diluted_marketcap": "$270,481,436",
+					"volume_24": "$11,764,836",
+					"volume_marketcap_24": "2.17",
+					"max_supply": "3,360,000,000",
+					"total_supply": "3,360,000,000",
+					"contract": "0x4c2D292d4c72Ea7003793d86014941522B821fDa",
+					"twitter": "0xMiracleGame",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19637",
+				"price": "$0.08776",
+				"variation": "0.23%",
+				"variation_is_up": true,
+				"rank": "#2870",
+				"watchlists": "534",
+				"marketcap": "$5,897,296",
+				"fully_diluted_marketcap": "$294,864,818",
+				"volume_24": "$11,799,117",
+				"volume_marketcap_24": "2",
+				"max_supply": "3,360,000,000",
+				"total_supply": "3,360,000,000",
+				"contract": "0x4c2D292d4c72Ea7003793d86014941522B821fDa",
+				"twitter": "0xMiracleGame",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 38286,
+					"following_count": 49,
+					"tweet_count": 363,
+					"listed_count": 21
+				}
+			},
+			"data_telegram": {
+				"data": 900257
+			}
 		}
 	]
 }
