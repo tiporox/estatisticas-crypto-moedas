@@ -1143,6 +1143,81 @@
 			"data_telegram": {
 				"data": 193267
 			}
+		},
+		{
+			"date": "03/05/2022 20:53:45",
+			"data_coin": {
+				"id": "19910",
+				"name": "LOOF",
+				"symbol": "LOOF",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/loof/",
+				"price": "$5.67",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$7,371,053",
+				"volume": "$83,753",
+				"date": "03/05/2022 04:47:53",
+				"infoCoinMarketCap_1": {
+					"id": "19910",
+					"price": "$4.33",
+					"variation": "23.68%",
+					"variation_is_up": false,
+					"rank": "#4088",
+					"watchlists": "49",
+					"marketcap": "$1,125,113",
+					"fully_diluted_marketcap": "$5,625,565",
+					"volume_24": "$136,185",
+					"volume_marketcap_24": "0.121",
+					"max_supply": "1,300,000",
+					"total_supply": "1,300,000",
+					"contract": "0xf04f3b0fe02662c2ca0e0961ac20904593dbaa64",
+					"twitter": "Loof_DAOfi",
+					"telegram": "LOOF_official"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12441,
+						"following_count": 3,
+						"tweet_count": 48,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 193266
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19910",
+				"price": "$4.36",
+				"variation": "23.05%",
+				"variation_is_up": false,
+				"rank": "#4096",
+				"watchlists": "52",
+				"marketcap": "$1,134,379",
+				"fully_diluted_marketcap": "$5,671,897",
+				"volume_24": "$136,655",
+				"volume_marketcap_24": "0.1205",
+				"max_supply": "1,300,000",
+				"total_supply": "1,300,000",
+				"contract": "0xf04f3b0fe02662c2ca0e0961ac20904593dbaa64",
+				"twitter": "Loof_DAOfi",
+				"telegram": "LOOF_official"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12441,
+					"following_count": 3,
+					"tweet_count": 48,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 193262
+			}
 		}
 	]
 }
