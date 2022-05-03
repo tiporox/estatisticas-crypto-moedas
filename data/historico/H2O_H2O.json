@@ -456,6 +456,79 @@
 			"data_telegram": {
 				"data": 900975
 			}
+		},
+		{
+			"date": "03/05/2022 08:57:29",
+			"data_coin": {
+				"id": "19909",
+				"name": "H2O",
+				"symbol": "H2O",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/h2o-token/",
+				"price": "$1.74",
+				"_1h": "0.04%",
+				"_1h_up": false,
+				"_24h": "0.04%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$11,193",
+				"date": "03/05/2022 01:56:06",
+				"infoCoinMarketCap_1": {
+					"id": "19909",
+					"price": "$1.74",
+					"variation": "0.29%",
+					"variation_is_up": true,
+					"rank": "#5669",
+					"watchlists": "33",
+					"marketcap": "$280,016",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$9,866",
+					"volume_marketcap_24": "0.03523",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "H2O_data",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2797,
+						"following_count": 0,
+						"tweet_count": 167,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 901085
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19909",
+				"price": "$1.74",
+				"variation": "0.07%",
+				"variation_is_up": true,
+				"rank": "#5764",
+				"watchlists": "35",
+				"marketcap": "$279,408",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$8,345",
+				"volume_marketcap_24": "0.02987",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "H2O_data",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2800,
+					"following_count": 0,
+					"tweet_count": 167,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 900871
+			}
 		}
 	]
 }
