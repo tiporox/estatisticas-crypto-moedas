@@ -3622,6 +3622,74 @@
 			"data_telegram": {
 				"data": 902040
 			}
+		},
+		{
+			"date": "03/05/2022 00:02:20",
+			"data_coin": {
+				"id": "19871",
+				"name": "Brise Paradise",
+				"symbol": "PRDS",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/brise-paradise/",
+				"date": "30/04/2022 13:33:33",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2352,
+						"following_count": 22,
+						"tweet_count": 133,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 902109
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19871",
+					"price": "$0.001466",
+					"variation": "2.54%",
+					"variation_is_up": false,
+					"rank": "#3383",
+					"watchlists": "1,596",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$594,463",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "token-transfers",
+					"twitter": "BriseParadise",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19871",
+				"price": "$0.001336",
+				"variation": "5.78%",
+				"variation_is_up": false,
+				"rank": "#3422",
+				"watchlists": "1,597",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$530,298",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "token-transfers",
+				"twitter": "BriseParadise",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2358,
+					"following_count": 22,
+					"tweet_count": 133,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 901961
+			}
 		}
 	]
 }
