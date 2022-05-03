@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 7727
 			}
+		},
+		{
+			"date": "03/05/2022 05:59:01",
+			"data_coin": {
+				"id": "19911",
+				"name": "Inverse Protocol",
+				"symbol": "INVERSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/inverse-protocol/",
+				"price": "$1.16",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,773,970,965",
+				"volume": "$44,348",
+				"date": "03/05/2022 04:57:58"
+			},
+			"data_coinmarketcap": {
+				"id": "19911",
+				"price": "$1.23",
+				"variation": "5.57%",
+				"variation_is_up": true,
+				"rank": "#4633",
+				"watchlists": "24",
+				"marketcap": "$1,256,442",
+				"fully_diluted_marketcap": "$3,984,346,626",
+				"volume_24": "$55,480",
+				"volume_marketcap_24": "0.04416",
+				"max_supply": "3,250,000,000",
+				"total_supply": "1,026,702",
+				"contract": "0xef5230e2dc11e9c8b463df8eca77074d7e636def",
+				"telegram": "inverseprotocol",
+				"twitter": "inverseprotcol"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 10984,
+					"following_count": 5,
+					"tweet_count": 462,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7752
+			}
 		}
 	]
 }
