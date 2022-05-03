@@ -4478,6 +4478,74 @@
 			"data_telegram": {
 				"data": 2326
 			}
+		},
+		{
+			"date": "03/05/2022 12:05:21",
+			"data_coin": {
+				"id": "19831",
+				"name": "Cashera",
+				"symbol": "CSR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cashera/",
+				"date": "27/04/2022 21:05:37",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7822,
+						"following_count": 4,
+						"tweet_count": 43,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2334
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19831",
+					"price": "$0.01313",
+					"variation": "11.48%",
+					"variation_is_up": false,
+					"rank": "#2961",
+					"watchlists": "1,051",
+					"marketcap": "$551,340",
+					"fully_diluted_marketcap": "$1,312,715",
+					"volume_24": "$3,442,995",
+					"volume_marketcap_24": "6.24",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0x6e8Ff72962750F0Fa57A906F7833d1C657614abE",
+					"telegram": "Casheracommunity",
+					"twitter": "CasheraOfficial"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19831",
+				"price": "$0.01283",
+				"variation": "18.57%",
+				"variation_is_up": false,
+				"rank": "#2954",
+				"watchlists": "1,054",
+				"marketcap": "$538,919",
+				"fully_diluted_marketcap": "$1,283,141",
+				"volume_24": "$3,520,147",
+				"volume_marketcap_24": "6.53",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x6e8Ff72962750F0Fa57A906F7833d1C657614abE",
+				"telegram": "Casheracommunity",
+				"twitter": "CasheraOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7821,
+					"following_count": 4,
+					"tweet_count": 43,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 2320
+			}
 		}
 	]
 }
