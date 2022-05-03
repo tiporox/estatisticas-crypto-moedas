@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 900611
 			}
+		},
+		{
+			"date": "03/05/2022 12:15:33",
+			"data_coin": {
+				"id": "19915",
+				"name": "Crypto Snack",
+				"symbol": "SNACK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/crypto-snack/",
+				"price": "$0.01975",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$197,532,533",
+				"volume": "$60,948",
+				"date": "03/05/2022 11:14:42"
+			},
+			"data_coinmarketcap": {
+				"id": "19915",
+				"price": "$0.01784",
+				"variation": "9.68%",
+				"variation_is_up": false,
+				"rank": "#4320",
+				"watchlists": "25",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$178,407,533",
+				"volume_24": "$89,669",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000,000",
+				"total_supply": "10,000,000,000",
+				"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+				"twitter": "cryptosnack_",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1433,
+					"following_count": 1239,
+					"tweet_count": 638,
+					"listed_count": 32
+				}
+			},
+			"data_telegram": {
+				"data": 900517
+			}
 		}
 	]
 }
