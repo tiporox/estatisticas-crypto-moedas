@@ -1,1 +1,50 @@
-{}
+{
+	"data": [
+		{
+			"date": "03/05/2022 15:45:00",
+			"data_coin": {
+				"id": "19917",
+				"name": "ZipSwap",
+				"symbol": "ZIP",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/zipswap/",
+				"price": "$0.04297",
+				"_1h": "0.24%",
+				"_1h_up": false,
+				"_24h": "0.24%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "--",
+				"volume": "--",
+				"date": "03/05/2022 15:44:28"
+			},
+			"data_coinmarketcap": {
+				"id": "19917",
+				"price": "$0.04307",
+				"variation": "0.00%",
+				"variation_is_up": true,
+				"rank": "# -",
+				"watchlists": "0",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "Zip_swap",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3847,
+					"following_count": 5,
+					"tweet_count": 111,
+					"listed_count": 28
+				}
+			},
+			"data_telegram": {
+				"data": 900200
+			}
+		}
+	]
+}
