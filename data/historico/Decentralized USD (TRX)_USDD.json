@@ -2118,6 +2118,81 @@
 			"data_telegram": {
 				"data": 900779
 			}
+		},
+		{
+			"date": "03/05/2022 10:49:25",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$1.01",
+					"variation": "1.80%",
+					"variation_is_up": true,
+					"rank": "#3273",
+					"watchlists": "139",
+					"marketcap": "$48,556,509",
+					"fully_diluted_marketcap": "$33,783,291",
+					"volume_24": "$831,511",
+					"volume_marketcap_24": "0.01712",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 34867,
+						"following_count": 38,
+						"tweet_count": 37,
+						"listed_count": 33
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 900888
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$1.01",
+				"variation": "2.96%",
+				"variation_is_up": true,
+				"rank": "#3242",
+				"watchlists": "151",
+				"marketcap": "$48,576,494",
+				"fully_diluted_marketcap": "$33,797,195",
+				"volume_24": "$934,893",
+				"volume_marketcap_24": "0.01925",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 35076,
+					"following_count": 38,
+					"tweet_count": 37,
+					"listed_count": 34
+				}
+			},
+			"data_telegram": {
+				"data": 900659
+			}
 		}
 	]
 }
