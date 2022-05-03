@@ -4414,6 +4414,72 @@
 			"data_telegram": {
 				"data": 900537
 			}
+		},
+		{
+			"date": "03/05/2022 13:05:20",
+			"data_coin": {
+				"id": "19794",
+				"name": "Equinox",
+				"symbol": "ENX",
+				"blockchain": "Solana",
+				"ativo": true,
+				"link": "/currencies/equinox/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 17571,
+						"following_count": 9,
+						"tweet_count": 235,
+						"listed_count": 16
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 900628
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19794",
+					"price": "$0.01533",
+					"variation": "4.45%",
+					"variation_is_up": false,
+					"rank": "#6779",
+					"watchlists": "146",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$3,066,808",
+					"volume_24": "$1,178",
+					"volume_marketcap_24": "--",
+					"max_supply": "200,000,000",
+					"total_supply": "200,000,000",
+					"twitter": "SolminatorNFT",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19794",
+				"price": "$0.01514",
+				"variation": "5.61%",
+				"variation_is_up": false,
+				"rank": "#6774",
+				"watchlists": "146",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$3,027,276",
+				"volume_24": "$1,356",
+				"volume_marketcap_24": "--",
+				"max_supply": "200,000,000",
+				"total_supply": "200,000,000",
+				"twitter": "SolminatorNFT",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 17570,
+					"following_count": 9,
+					"tweet_count": 235,
+					"listed_count": 16
+				}
+			},
+			"data_telegram": {
+				"data": 900444
+			}
 		}
 	]
 }
