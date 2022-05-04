@@ -5118,6 +5118,74 @@
 			"data_telegram": {
 				"data": 4769
 			}
+		},
+		{
+			"date": "03/05/2022 22:10:42",
+			"data_coin": {
+				"id": "19862",
+				"name": "Jetset",
+				"symbol": "JTS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/jetset/",
+				"date": "29/04/2022 03:11:37",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 15726,
+						"following_count": 823,
+						"tweet_count": 480,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4765
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19862",
+					"price": "$0.001254",
+					"variation": "7.94%",
+					"variation_is_up": false,
+					"rank": "#4814",
+					"watchlists": "1,408",
+					"marketcap": "$752,541",
+					"fully_diluted_marketcap": "$1,254,234",
+					"volume_24": "$47,141",
+					"volume_marketcap_24": "0.06264",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0xbf675ed044f2092a4f004aa5709bfa858641ce8b",
+					"telegram": "JetSettoken",
+					"twitter": "JetSetToken"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19862",
+				"price": "$0.00124",
+				"variation": "7.35%",
+				"variation_is_up": false,
+				"rank": "#5465",
+				"watchlists": "1,408",
+				"marketcap": "$744,010",
+				"fully_diluted_marketcap": "$1,240,016",
+				"volume_24": "$13,185",
+				"volume_marketcap_24": "0.01772",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0xbf675ed044f2092a4f004aa5709bfa858641ce8b",
+				"telegram": "JetSettoken",
+				"twitter": "JetSetToken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 15721,
+					"following_count": 823,
+					"tweet_count": 480,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 4769
+			}
 		}
 	]
 }
