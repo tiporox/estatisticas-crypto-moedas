@@ -3468,6 +3468,81 @@
 			"data_telegram": {
 				"data": 899340
 			}
+		},
+		{
+			"date": "04/05/2022 04:59:03",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.9994",
+					"variation": "1.23%",
+					"variation_is_up": false,
+					"rank": "#3244",
+					"watchlists": "203",
+					"marketcap": "$47,878,383",
+					"fully_diluted_marketcap": "$33,311,483",
+					"volume_24": "$888,716",
+					"volume_marketcap_24": "0.01856",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 36332,
+						"following_count": 38,
+						"tweet_count": 38,
+						"listed_count": 35
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899459
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$1.02",
+				"variation": "0.91%",
+				"variation_is_up": true,
+				"rank": "#3135",
+				"watchlists": "209",
+				"marketcap": "$48,861,784",
+				"fully_diluted_marketcap": "$33,995,687",
+				"volume_24": "$1,301,652",
+				"volume_marketcap_24": "0.02664",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 36525,
+					"following_count": 38,
+					"tweet_count": 39,
+					"listed_count": 35
+				}
+			},
+			"data_telegram": {
+				"data": 899236
+			}
 		}
 	]
 }
