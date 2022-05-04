@@ -1,1 +1,50 @@
-{}
+{
+	"data": [
+		{
+			"date": "04/05/2022 07:34:53",
+			"data_coin": {
+				"id": "19934",
+				"name": "Jelly",
+				"symbol": "JELLY",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/jelly/",
+				"price": "$0.06682",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$66,821,093",
+				"volume": "$1,041,013",
+				"date": "04/05/2022 07:34:29"
+			},
+			"data_coinmarketcap": {
+				"id": "19934",
+				"price": "$0",
+				"variation": "0.00%",
+				"variation_is_up": true,
+				"rank": "# -",
+				"watchlists": "0",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "--",
+				"twitter": "jellyprotocol",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7787,
+					"following_count": 655,
+					"tweet_count": 1226,
+					"listed_count": 19
+				}
+			},
+			"data_telegram": {
+				"data": 898965
+			}
+		}
+	]
+}
