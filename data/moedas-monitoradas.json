@@ -4062,34 +4062,6 @@
 			"date": "02/05/2022 01:07:31",
 			"infoCoinMarketCap_1": {
 				"id": "19886",
-				"price": "$0.3334",
-				"variation": "1.52%",
-				"variation_is_up": false,
-				"rank": "#2870",
-				"watchlists": "1,786",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$3,304,071,007",
-				"volume_24": "$12,705,311",
-				"volume_marketcap_24": "--",
-				"max_supply": "--",
-				"total_supply": "9,909,194,789",
-				"contract": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
-				"telegram": "fameio",
-				"twitter": "famemmatv"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 112096,
-					"following_count": 44,
-					"tweet_count": 725,
-					"listed_count": 41
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 14402
-			},
-			"infoCoinMarketCap": {
-				"id": "19886",
 				"price": "$0.3303",
 				"variation": "3.05%",
 				"variation_is_up": true,
@@ -4105,7 +4077,7 @@
 				"telegram": "fameio",
 				"twitter": "famemmatv"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 112166,
 					"following_count": 44,
@@ -4113,8 +4085,36 @@
 					"listed_count": 41
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 14395
+			},
+			"infoCoinMarketCap": {
+				"id": "19886",
+				"price": "$0.3347",
+				"variation": "5.41%",
+				"variation_is_up": true,
+				"rank": "#2891",
+				"watchlists": "1,824",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$3,317,008,080",
+				"volume_24": "$7,913,013",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "9,909,194,789",
+				"contract": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
+				"telegram": "fameio",
+				"twitter": "famemmatv"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 112208,
+					"following_count": 44,
+					"tweet_count": 725,
+					"listed_count": 41
+				}
+			},
+			"dadosTelegram": {
+				"data": 14387
 			}
 		},
 		{
@@ -6336,7 +6336,23 @@
 			"dadosTelegram": {
 				"data": 898951
 			}
+		},
+		{
+			"id": "19939",
+			"name": "Diviner",
+			"symbol": "DIV",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/diviner/",
+			"price": "$260.25",
+			"_1h": "1.37%",
+			"_1h_up": false,
+			"_24h": "1.37%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$3,096,961,112",
+			"volume": "$1,808,397",
+			"date": "04/05/2022 08:41:09"
 		}
 	],
-	"total": 96
+	"total": 97
 }
