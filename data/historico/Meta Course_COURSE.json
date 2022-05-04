@@ -2568,6 +2568,81 @@
 			"data_telegram": {
 				"data": 2752
 			}
+		},
+		{
+			"date": "04/05/2022 11:51:13",
+			"data_coin": {
+				"id": "19904",
+				"name": "Meta Course",
+				"symbol": "COURSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-course/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "03/05/2022 00:27:12",
+				"infoCoinMarketCap_1": {
+					"id": "19904",
+					"price": "$0.0...08793",
+					"variation": "212.26%",
+					"variation_is_up": true,
+					"rank": "#3231",
+					"watchlists": "393",
+					"marketcap": "$1",
+					"fully_diluted_marketcap": "$1",
+					"volume_24": "$977,970",
+					"volume_marketcap_24": "1,112,227.05",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+					"twitter": "metacoursetoken",
+					"telegram": "metacoursetoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 248,
+						"following_count": 2,
+						"tweet_count": 27,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2746
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19904",
+				"price": "$0.0...03801",
+				"variation": "42.99%",
+				"variation_is_up": true,
+				"rank": "#4072",
+				"watchlists": "408",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$0",
+				"volume_24": "$142,966",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+				"telegram": "metacoursetoken",
+				"twitter": "metacoursetoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 252,
+					"following_count": 2,
+					"tweet_count": 27,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 2756
+			}
 		}
 	]
 }
