@@ -918,6 +918,81 @@
 			"data_telegram": {
 				"data": 899733
 			}
+		},
+		{
+			"date": "04/05/2022 00:21:28",
+			"data_coin": {
+				"id": "19915",
+				"name": "Crypto Snack",
+				"symbol": "SNACK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/crypto-snack/",
+				"price": "$0.01975",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$197,532,533",
+				"volume": "$60,948",
+				"date": "03/05/2022 11:14:42",
+				"infoCoinMarketCap_1": {
+					"id": "19915",
+					"price": "$0.01994",
+					"variation": "0.95%",
+					"variation_is_up": true,
+					"rank": "#3237",
+					"watchlists": "100",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$199,409,947",
+					"volume_24": "$877,529",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000,000",
+					"total_supply": "10,000,000,000",
+					"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+					"twitter": "cryptosnack_",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1445,
+						"following_count": 1264,
+						"tweet_count": 646,
+						"listed_count": 32
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899788
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19915",
+				"price": "$0.02018",
+				"variation": "2.17%",
+				"variation_is_up": true,
+				"rank": "#3234",
+				"watchlists": "114",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$201,810,317",
+				"volume_24": "$902,352",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000,000",
+				"total_supply": "10,000,000,000",
+				"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+				"twitter": "cryptosnack_",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1447,
+					"following_count": 1260,
+					"tweet_count": 646,
+					"listed_count": 32
+				}
+			},
+			"data_telegram": {
+				"data": 899677
+			}
 		}
 	]
 }
