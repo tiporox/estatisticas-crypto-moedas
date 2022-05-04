@@ -93,6 +93,81 @@
 			"data_telegram": {
 				"data": 7448
 			}
+		},
+		{
+			"date": "04/05/2022 06:41:10",
+			"data_coin": {
+				"id": "19924",
+				"name": "Ellipsis",
+				"symbol": "EPX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/ellipsis-epx/",
+				"price": "$0.00169",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,689,998",
+				"volume": "$96,548",
+				"date": "04/05/2022 04:38:44",
+				"infoCoinMarketCap_1": {
+					"id": "19924",
+					"price": "",
+					"variation": "",
+					"variation_is_up": false,
+					"rank": "#4255",
+					"watchlists": "2",
+					"marketcap": "",
+					"fully_diluted_marketcap": "",
+					"volume_24": "",
+					"volume_marketcap_24": "",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "ellipsisfi",
+					"telegram": "ellipsisfinance",
+					"contract": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 36028,
+						"following_count": 12,
+						"tweet_count": 412,
+						"listed_count": 285
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7432
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19924",
+				"price": "$0.001773",
+				"variation": "4.91%",
+				"variation_is_up": true,
+				"rank": "#4102",
+				"watchlists": "35",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,773,007",
+				"volume_24": "$127,507",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "--",
+				"twitter": "ellipsisfi",
+				"telegram": "ellipsisfinance",
+				"contract": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 36046,
+					"following_count": 12,
+					"tweet_count": 412,
+					"listed_count": 285
+				}
+			},
+			"data_telegram": {
+				"data": 7462
+			}
 		}
 	]
 }
