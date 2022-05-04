@@ -5668,6 +5668,72 @@
 			"data_telegram": {
 				"data": 623
 			}
+		},
+		{
+			"date": "04/05/2022 08:15:09",
+			"data_coin": {
+				"id": "19824",
+				"name": "TABI",
+				"symbol": "TABI",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/tabi/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 49898,
+						"following_count": 593,
+						"tweet_count": 283,
+						"listed_count": 41
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 623
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19824",
+					"price": "$0.0794",
+					"variation": "0.16%",
+					"variation_is_up": false,
+					"rank": "#10086",
+					"watchlists": "71",
+					"marketcap": "$794,010",
+					"fully_diluted_marketcap": "$794,010",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000",
+					"total_supply": "10,000,000",
+					"twitter": "TabinekoKIKI",
+					"telegram": "TABIPortal"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19824",
+				"price": "$0.08",
+				"variation": "1.08%",
+				"variation_is_up": true,
+				"rank": "#10092",
+				"watchlists": "71",
+				"marketcap": "$800,020",
+				"fully_diluted_marketcap": "$800,020",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000",
+				"total_supply": "10,000,000",
+				"twitter": "TabinekoKIKI",
+				"telegram": "TABIPortal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 49900,
+					"following_count": 593,
+					"tweet_count": 283,
+					"listed_count": 41
+				}
+			},
+			"data_telegram": {
+				"data": 623
+			}
 		}
 	]
 }
