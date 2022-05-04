@@ -543,6 +543,81 @@
 			"data_telegram": {
 				"data": 7945
 			}
+		},
+		{
+			"date": "04/05/2022 08:56:13",
+			"data_coin": {
+				"id": "19921",
+				"name": "Sukuna Inu",
+				"symbol": "SUKUNA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sukuna-inu/",
+				"price": "$0.000000001835",
+				"_1h": "10.64%",
+				"_1h_up": false,
+				"_24h": "10.64%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$1,835,320",
+				"volume": "$469,376",
+				"date": "04/05/2022 00:48:28",
+				"infoCoinMarketCap_1": {
+					"id": "19921",
+					"price": "$0.000000001965",
+					"variation": "4.30%",
+					"variation_is_up": false,
+					"rank": "#3270",
+					"watchlists": "298",
+					"marketcap": "$1,908,409",
+					"fully_diluted_marketcap": "$1,965,405",
+					"volume_24": "$861,460",
+					"volume_marketcap_24": "0.4514",
+					"max_supply": "1,000,000,000,000,000",
+					"total_supply": "1,000,000,000,000,000",
+					"contract": "0x0FE4700370399e49E52959aff211fe6b0E9426B7",
+					"twitter": "sukunainux1000",
+					"telegram": "sukunainux1000"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 11480,
+						"following_count": 3,
+						"tweet_count": 40,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7944
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19921",
+				"price": "$0.000000002057",
+				"variation": "0.14%",
+				"variation_is_up": true,
+				"rank": "#3259",
+				"watchlists": "321",
+				"marketcap": "$1,997,099",
+				"fully_diluted_marketcap": "$2,056,745",
+				"volume_24": "$898,903",
+				"volume_marketcap_24": "0.4501",
+				"max_supply": "1,000,000,000,000,000",
+				"total_supply": "1,000,000,000,000,000",
+				"contract": "0x0FE4700370399e49E52959aff211fe6b0E9426B7",
+				"twitter": "sukunainux1000",
+				"telegram": "sukunainux1000"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 11495,
+					"following_count": 3,
+					"tweet_count": 40,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 7958
+			}
 		}
 	]
 }
