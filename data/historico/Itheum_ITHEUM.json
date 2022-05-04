@@ -5118,6 +5118,74 @@
 			"data_telegram": {
 				"data": 19664
 			}
+		},
+		{
+			"date": "03/05/2022 22:10:58",
+			"data_coin": {
+				"id": "18978",
+				"name": "Itheum",
+				"symbol": "ITHEUM",
+				"blockchain": "Elrond",
+				"ativo": true,
+				"link": "/currencies/itheum/",
+				"date": "30/04/2022 13:33:33",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 58588,
+						"following_count": 128,
+						"tweet_count": 867,
+						"listed_count": 107
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 19665
+				},
+				"infoCoinMarketCap_1": {
+					"id": "18978",
+					"price": "$0.6386",
+					"variation": "4.12%",
+					"variation_is_up": true,
+					"rank": "#3088",
+					"watchlists": "3,118",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$1,677,170",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"telegram": "itheum",
+					"twitter": "itheum",
+					"contract": "ITHEUM-df6f26"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "18978",
+				"price": "$0.644",
+				"variation": "5.62%",
+				"variation_is_up": true,
+				"rank": "#3085",
+				"watchlists": "3,122",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$1,590,836",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "itheum",
+				"twitter": "itheum",
+				"contract": "ITHEUM-df6f26"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 58590,
+					"following_count": 128,
+					"tweet_count": 867,
+					"listed_count": 107
+				}
+			},
+			"data_telegram": {
+				"data": 19665
+			}
 		}
 	]
 }
