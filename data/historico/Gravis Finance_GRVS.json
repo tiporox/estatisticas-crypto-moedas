@@ -5498,6 +5498,74 @@
 			"data_telegram": {
 				"data": 3450
 			}
+		},
+		{
+			"date": "04/05/2022 03:13:09",
+			"data_coin": {
+				"id": "19788",
+				"name": "Gravis Finance",
+				"symbol": "GRVS",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/gravis-finance/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 22736,
+						"following_count": 224,
+						"tweet_count": 337,
+						"listed_count": 24
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 3451
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19788",
+					"price": "$0.09327",
+					"variation": "0.69%",
+					"variation_is_up": false,
+					"rank": "#4801",
+					"watchlists": "210",
+					"marketcap": "$980,852",
+					"fully_diluted_marketcap": "$13,990,835",
+					"volume_24": "$40,589",
+					"volume_marketcap_24": "0.04138",
+					"max_supply": "150,000,000",
+					"total_supply": "10,516,008",
+					"telegram": "Gravis_Finance_News",
+					"contract": "0x190CEC0657a02E9eAB1C1DF5d59f9139131cf539",
+					"twitter": "gammarosigma"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19788",
+				"price": "$0.09376",
+				"variation": "0.69%",
+				"variation_is_up": true,
+				"rank": "#4767",
+				"watchlists": "210",
+				"marketcap": "$985,958",
+				"fully_diluted_marketcap": "$14,063,674",
+				"volume_24": "$43,461",
+				"volume_marketcap_24": "0.04408",
+				"max_supply": "150,000,000",
+				"total_supply": "10,516,008",
+				"telegram": "Gravis_Finance_News",
+				"contract": "0x190CEC0657a02E9eAB1C1DF5d59f9139131cf539",
+				"twitter": "gammarosigma"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 22738,
+					"following_count": 224,
+					"tweet_count": 337,
+					"listed_count": 24
+				}
+			},
+			"data_telegram": {
+				"data": 3450
+			}
 		}
 	]
 }
