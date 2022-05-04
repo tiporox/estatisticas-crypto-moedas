@@ -5695,6 +5695,72 @@
 			"data_telegram": {
 				"data": 1273
 			}
+		},
+		{
+			"date": "04/05/2022 09:18:49",
+			"data_coin": {
+				"id": "19869",
+				"name": "Kizo Inu",
+				"symbol": "KIZO",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/kizo-inu/",
+				"date": "29/04/2022 05:35:14",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1461,
+						"following_count": 96,
+						"tweet_count": 405,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1273
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19869",
+					"price": "$0.3202",
+					"variation": "28.13%",
+					"variation_is_up": false,
+					"rank": "#4863",
+					"watchlists": "1,134",
+					"marketcap": "$320,234",
+					"fully_diluted_marketcap": "$320,234",
+					"volume_24": "$39,702",
+					"volume_marketcap_24": "0.124",
+					"max_supply": "1,000,000",
+					"total_supply": "--",
+					"twitter": "KizoInu",
+					"telegram": "kizoinu"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19869",
+				"price": "$0.3244",
+				"variation": "27.59%",
+				"variation_is_up": false,
+				"rank": "#4958",
+				"watchlists": "1,135",
+				"marketcap": "$324,440",
+				"fully_diluted_marketcap": "$324,440",
+				"volume_24": "$36,185",
+				"volume_marketcap_24": "0.1115",
+				"max_supply": "1,000,000",
+				"total_supply": "--",
+				"twitter": "KizoInu",
+				"telegram": "kizoinu"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1461,
+					"following_count": 96,
+					"tweet_count": 405,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 1270
+			}
 		}
 	]
 }
