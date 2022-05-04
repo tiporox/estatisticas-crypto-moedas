@@ -4068,6 +4068,81 @@
 			"data_telegram": {
 				"data": 898632
 			}
+		},
+		{
+			"date": "04/05/2022 13:03:47",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.9955",
+					"variation": "1.50%",
+					"variation_is_up": false,
+					"rank": "#3041",
+					"watchlists": "233",
+					"marketcap": "$47,688,888",
+					"fully_diluted_marketcap": "$33,179,642",
+					"volume_24": "$2,092,739",
+					"volume_marketcap_24": "0.04388",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 37162,
+						"following_count": 38,
+						"tweet_count": 42,
+						"listed_count": 35
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898713
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$0.9992",
+				"variation": "0.35%",
+				"variation_is_up": false,
+				"rank": "#3018",
+				"watchlists": "238",
+				"marketcap": "$47,868,799",
+				"fully_diluted_marketcap": "$33,304,815",
+				"volume_24": "$2,387,925",
+				"volume_marketcap_24": "0.04988",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 37365,
+					"following_count": 38,
+					"tweet_count": 43,
+					"listed_count": 35
+				}
+			},
+			"data_telegram": {
+				"data": 898557
+			}
 		}
 	]
 }
