@@ -2943,6 +2943,81 @@
 			"data_telegram": {
 				"data": 899864
 			}
+		},
+		{
+			"date": "03/05/2022 21:54:12",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.9938",
+					"variation": "1.29%",
+					"variation_is_up": false,
+					"rank": "#3282",
+					"watchlists": "180",
+					"marketcap": "$47,606,054",
+					"fully_diluted_marketcap": "$33,122,010",
+					"volume_24": "$825,805",
+					"volume_marketcap_24": "0.01735",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 35749,
+						"following_count": 38,
+						"tweet_count": 37,
+						"listed_count": 35
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899903
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$1.01",
+				"variation": "0.83%",
+				"variation_is_up": false,
+				"rank": "#3219",
+				"watchlists": "187",
+				"marketcap": "$48,342,838",
+				"fully_diluted_marketcap": "$33,634,628",
+				"volume_24": "$924,635",
+				"volume_marketcap_24": "0.01913",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 35839,
+					"following_count": 38,
+					"tweet_count": 37,
+					"listed_count": 35
+				}
+			},
+			"data_telegram": {
+				"data": 899806
+			}
 		}
 	]
 }
