@@ -4518,6 +4518,81 @@
 			"data_telegram": {
 				"data": 14975
 			}
+		},
+		{
+			"date": "04/05/2022 03:45:55",
+			"data_coin": {
+				"id": "19885",
+				"name": "MetaKeeper",
+				"symbol": "MKP",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/metakeeper/",
+				"price": "$0.0546",
+				"_1h": "0.23%",
+				"_1h_up": false,
+				"_24h": "0.23%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,729,994",
+				"volume": "$90,620",
+				"date": "01/05/2022 14:07:17",
+				"infoCoinMarketCap_1": {
+					"id": "19885",
+					"price": "$0.06512",
+					"variation": "4.16%",
+					"variation_is_up": false,
+					"rank": "#4622",
+					"watchlists": "331",
+					"marketcap": "$3,256,084",
+					"fully_diluted_marketcap": "$3,256,084",
+					"volume_24": "$53,169",
+					"volume_marketcap_24": "0.01633",
+					"max_supply": "50,000,000",
+					"total_supply": "50,000,000",
+					"contract": "0x9BfaD67b5477e2Daf1C15Ef4b43B34F2d007B968",
+					"telegram": "MetaKeeperEN",
+					"twitter": "Meta_Keeper"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 11634,
+						"following_count": 36,
+						"tweet_count": 84,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 14973
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19885",
+				"price": "$0.06449",
+				"variation": "7.55%",
+				"variation_is_up": false,
+				"rank": "#4605",
+				"watchlists": "334",
+				"marketcap": "$3,224,698",
+				"fully_diluted_marketcap": "$3,224,698",
+				"volume_24": "$55,463",
+				"volume_marketcap_24": "0.0172",
+				"max_supply": "50,000,000",
+				"total_supply": "50,000,000",
+				"contract": "0x9BfaD67b5477e2Daf1C15Ef4b43B34F2d007B968",
+				"telegram": "MetaKeeperEN",
+				"twitter": "Meta_Keeper"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 11632,
+					"following_count": 36,
+					"tweet_count": 84,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 14973
+			}
 		}
 	]
 }
