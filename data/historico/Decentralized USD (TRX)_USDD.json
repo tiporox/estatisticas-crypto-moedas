@@ -3168,6 +3168,81 @@
 			"data_telegram": {
 				"data": 899705
 			}
+		},
+		{
+			"date": "04/05/2022 00:56:03",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$1.01",
+					"variation": "1.07%",
+					"variation_is_up": false,
+					"rank": "#3247",
+					"watchlists": "190",
+					"marketcap": "$48,340,965",
+					"fully_diluted_marketcap": "$33,633,325",
+					"volume_24": "$856,279",
+					"volume_marketcap_24": "0.01771",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 35950,
+						"following_count": 38,
+						"tweet_count": 37,
+						"listed_count": 35
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899758
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$0.9997",
+				"variation": "1.64%",
+				"variation_is_up": false,
+				"rank": "#3243",
+				"watchlists": "198",
+				"marketcap": "$47,890,713",
+				"fully_diluted_marketcap": "$33,320,061",
+				"volume_24": "$885,147",
+				"volume_marketcap_24": "0.01848",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 36097,
+					"following_count": 38,
+					"tweet_count": 37,
+					"listed_count": 35
+				}
+			},
+			"data_telegram": {
+				"data": 899644
+			}
 		}
 	]
 }
