@@ -44,6 +44,51 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "03/05/2022 21:13:35",
+			"data_coin": {
+				"id": "19918",
+				"name": "ZeldaVerse",
+				"symbol": "ZVRS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/zeldaverse/",
+				"price": "$0.01695",
+				"_1h": "0.89%",
+				"_1h_up": false,
+				"_24h": "0.89%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$101,702",
+				"volume": "$2,951,779",
+				"date": "03/05/2022 20:12:35"
+			},
+			"data_coinmarketcap": {
+				"id": "19918",
+				"price": "$0.01752",
+				"variation": "2.46%",
+				"variation_is_up": true,
+				"rank": "#3394",
+				"watchlists": "98",
+				"marketcap": "$105,145",
+				"fully_diluted_marketcap": "$105,145",
+				"volume_24": "$529,011",
+				"volume_marketcap_24": "5.03",
+				"max_supply": "6,000,000",
+				"total_supply": "6,000,000",
+				"twitter": "ZeldaVerseToken",
+				"telegram": "ZELDAVERSEOFFICIAL  - we have a decoy telegram set up to defend against bots and scammers during launch.",
+				"contract": "0x2B53D7014865c705DF383AB58B3C1DE5388ad567"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6858,
+					"following_count": 9,
+					"tweet_count": 48,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
