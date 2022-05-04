@@ -1533,6 +1533,81 @@
 			"data_telegram": {
 				"data": 1804
 			}
+		},
+		{
+			"date": "04/05/2022 18:25:13",
+			"data_coin": {
+				"id": "19918",
+				"name": "ZeldaVerse",
+				"symbol": "ZVRS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/zeldaverse/",
+				"price": "$0.01695",
+				"_1h": "0.89%",
+				"_1h_up": false,
+				"_24h": "0.89%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$101,702",
+				"volume": "$2,951,779",
+				"date": "03/05/2022 20:12:35",
+				"infoCoinMarketCap_1": {
+					"id": "19918",
+					"price": "$0.01959",
+					"variation": "14.52%",
+					"variation_is_up": true,
+					"rank": "#3303",
+					"watchlists": "603",
+					"marketcap": "$6,463,622",
+					"fully_diluted_marketcap": "$11,752,040",
+					"volume_24": "$849,736",
+					"volume_marketcap_24": "0.1315",
+					"max_supply": "600,000,000",
+					"total_supply": "600,000,000",
+					"twitter": "ZeldaVerseToken",
+					"telegram": "ZELDAVERSEOFFICIAL",
+					"contract": "0x2B53D7014865c705DF383AB58B3C1DE5388ad567"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7417,
+						"following_count": 9,
+						"tweet_count": 52,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1799
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19918",
+				"price": "$0.01968",
+				"variation": "15.09%",
+				"variation_is_up": true,
+				"rank": "#3296",
+				"watchlists": "2,822",
+				"marketcap": "$6,495,388",
+				"fully_diluted_marketcap": "$11,809,796",
+				"volume_24": "$888,157",
+				"volume_marketcap_24": "0.1367",
+				"max_supply": "600,000,000",
+				"total_supply": "600,000,000",
+				"twitter": "ZeldaVerseToken",
+				"telegram": "ZELDAVERSEOFFICIAL",
+				"contract": "0x2B53D7014865c705DF383AB58B3C1DE5388ad567"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7485,
+					"following_count": 10,
+					"tweet_count": 52,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 1803
+			}
 		}
 	]
 }
