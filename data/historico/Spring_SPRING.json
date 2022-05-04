@@ -1,1 +1,50 @@
-{}
+{
+	"data": [
+		{
+			"date": "04/05/2022 07:45:04",
+			"data_coin": {
+				"id": "19935",
+				"name": "Spring",
+				"symbol": "SPRING",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/spring/",
+				"price": "$0.02803",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$927,929",
+				"volume": "$53,935",
+				"date": "04/05/2022 07:44:34"
+			},
+			"data_coinmarketcap": {
+				"id": "19935",
+				"price": "$0",
+				"variation": "0.00%",
+				"variation_is_up": true,
+				"rank": "# -",
+				"watchlists": "0",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "33,100,000",
+				"total_supply": "--",
+				"twitter": "Seasonal_Tokens",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6735,
+					"following_count": 590,
+					"tweet_count": 164,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 898951
+			}
+		}
+	]
+}
