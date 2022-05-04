@@ -5880,6 +5880,70 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "04/05/2022 14:19:22",
+			"data_coin": {
+				"id": "19803",
+				"name": "Metars",
+				"symbol": "MTSC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/metars/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12511,
+						"following_count": 20,
+						"tweet_count": 28,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {},
+				"infoCoinMarketCap_1": {
+					"id": "19803",
+					"price": "$0.004075",
+					"variation": "0.16%",
+					"variation_is_up": true,
+					"rank": "#6642",
+					"watchlists": "54",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$6,112,534",
+					"volume_24": "$1,849",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,500,000,000",
+					"total_supply": "1,500,000,000",
+					"contract": "0x54a1d188461DC254C19B8f8CbEb0dFf1Ec960281",
+					"twitter": "XxCunh",
+					"telegram": "+OfsSq0fsJvdmYzdl"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19803",
+				"price": "$0.004056",
+				"variation": "0.29%",
+				"variation_is_up": false,
+				"rank": "#6638",
+				"watchlists": "54",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$6,084,689",
+				"volume_24": "$1,965",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,500,000,000",
+				"total_supply": "1,500,000,000",
+				"contract": "0x54a1d188461DC254C19B8f8CbEb0dFf1Ec960281",
+				"twitter": "XxCunh",
+				"telegram": "+OfsSq0fsJvdmYzdl"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12511,
+					"following_count": 20,
+					"tweet_count": 28,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
