@@ -4143,6 +4143,81 @@
 			"data_telegram": {
 				"data": 898557
 			}
+		},
+		{
+			"date": "04/05/2022 14:04:02",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.998",
+					"variation": "0.76%",
+					"variation_is_up": false,
+					"rank": "#3021",
+					"watchlists": "236",
+					"marketcap": "$47,807,375",
+					"fully_diluted_marketcap": "$33,262,079",
+					"volume_24": "$2,337,667",
+					"volume_marketcap_24": "0.0489",
+					"max_supply": "--",
+					"total_supply": "33,330,007",
+					"twitter": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 37292,
+						"following_count": 38,
+						"tweet_count": 42,
+						"listed_count": 35
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898632
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$1.00",
+				"variation": "0.10%",
+				"variation_is_up": false,
+				"rank": "#3017",
+				"watchlists": "240",
+				"marketcap": "$48,046,283",
+				"fully_diluted_marketcap": "$33,428,300",
+				"volume_24": "$2,445,617",
+				"volume_marketcap_24": "0.0509",
+				"max_supply": "--",
+				"total_supply": "33,330,007",
+				"twitter": "usddio",
+				"telegram": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 37466,
+					"following_count": 38,
+					"tweet_count": 43,
+					"listed_count": 36
+				}
+			},
+			"data_telegram": {
+				"data": 10425
+			}
 		}
 	]
 }
