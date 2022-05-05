@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 39645
 			}
+		},
+		{
+			"date": "05/05/2022 05:18:20",
+			"data_coin": {
+				"id": "19971",
+				"name": "SpaceSHIB",
+				"symbol": "SPACESHIB",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/spaceshib/",
+				"price": "$0.0000001272",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$127,195",
+				"volume": "$143,955",
+				"date": "05/05/2022 04:17:20"
+			},
+			"data_coinmarketcap": {
+				"id": "19971",
+				"price": "$0.0000003095",
+				"variation": "143.30%",
+				"variation_is_up": true,
+				"rank": "#3517",
+				"watchlists": "144",
+				"marketcap": "$309,466",
+				"fully_diluted_marketcap": "$309,466",
+				"volume_24": "$450,819",
+				"volume_marketcap_24": "1.46",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xd95Ef50d1EddD977765D8A370A7e464Fc46Cb4a9",
+				"telegram": "spaceshibcoofficial",
+				"twitter": "spaceshibco"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 21222,
+					"following_count": 1,
+					"tweet_count": 94,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 39708
+			}
 		}
 	]
 }
