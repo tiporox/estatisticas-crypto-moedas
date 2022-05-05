@@ -5505,6 +5505,60 @@
 			"data_telegram": {
 				"data": 14756
 			}
+		},
+		{
+			"date": "05/05/2022 05:40:31",
+			"data_coin": {
+				"id": "19830",
+				"name": "Falcon9",
+				"symbol": "FALCON9",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/falcon9/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {},
+				"dadosTelegram_1": {
+					"data": 14755
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19830",
+					"price": "$0.0...01165",
+					"variation": "0.08%",
+					"variation_is_up": true,
+					"rank": "#4734",
+					"watchlists": "629",
+					"marketcap": "$116,492",
+					"fully_diluted_marketcap": "$116,492",
+					"volume_24": "$53,116",
+					"volume_marketcap_24": "0.456",
+					"max_supply": "1,000,000,000,000,000",
+					"total_supply": "1,000,000,000,000,000",
+					"contract": "0x19cd66da492b74632f86f0b028b17ec3cfc86e56",
+					"twitter": "Falcon9BSC?t=aenOdbX2E_A9EV0c8CIL3g&s=05",
+					"telegram": "Falcon9English"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19830",
+				"price": "$0.0...01152",
+				"variation": "4.94%",
+				"variation_is_up": false,
+				"rank": "#4728",
+				"watchlists": "629",
+				"marketcap": "$115,188",
+				"fully_diluted_marketcap": "$115,188",
+				"volume_24": "$54,401",
+				"volume_marketcap_24": "0.4723",
+				"max_supply": "1,000,000,000,000,000",
+				"total_supply": "1,000,000,000,000,000",
+				"contract": "0x19cd66da492b74632f86f0b028b17ec3cfc86e56",
+				"twitter": "Falcon9BSC?t=aenOdbX2E_A9EV0c8CIL3g&s=05",
+				"telegram": "Falcon9English"
+			},
+			"data_twitter": {},
+			"data_telegram": {
+				"data": 14755
+			}
 		}
 	]
 }
