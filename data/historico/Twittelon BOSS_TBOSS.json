@@ -168,6 +168,81 @@
 			"data_telegram": {
 				"data": 7167
 			}
+		},
+		{
+			"date": "05/05/2022 16:30:53",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000002623",
+					"variation": "20.45%",
+					"variation_is_up": false,
+					"rank": "#3407",
+					"watchlists": "61",
+					"marketcap": "$262,341",
+					"fully_diluted_marketcap": "$262,341",
+					"volume_24": "$624,618",
+					"volume_marketcap_24": "2.38",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6403,
+						"following_count": 28,
+						"tweet_count": 39,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7162
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000003309",
+				"variation": "0.34%",
+				"variation_is_up": true,
+				"rank": "#3399",
+				"watchlists": "91",
+				"marketcap": "$330,875",
+				"fully_diluted_marketcap": "$330,875",
+				"volume_24": "$620,590",
+				"volume_marketcap_24": "1.88",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6407,
+					"following_count": 28,
+					"tweet_count": 39,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7186
+			}
 		}
 	]
 }
