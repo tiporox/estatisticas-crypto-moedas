@@ -6790,6 +6790,74 @@
 			"data_telegram": {
 				"data": 38758
 			}
+		},
+		{
+			"date": "05/05/2022 03:40:00",
+			"data_coin": {
+				"id": "19783",
+				"name": "Marble Heroes",
+				"symbol": "MBH",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/marble-heroes/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 28926,
+						"following_count": 23,
+						"tweet_count": 175,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 38868
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19783",
+					"price": "$0.07335",
+					"variation": "2.11%",
+					"variation_is_up": false,
+					"rank": "#5199",
+					"watchlists": "20,190",
+					"marketcap": "$556,581",
+					"fully_diluted_marketcap": "$40,340,631",
+					"volume_24": "$29,829",
+					"volume_marketcap_24": "0.05359",
+					"max_supply": "550,000,000",
+					"total_supply": "550,000,000",
+					"contract": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+					"telegram": "marbleheroes_chat",
+					"twitter": "marble_heroes"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19783",
+				"price": "$0.07399",
+				"variation": "1.17%",
+				"variation_is_up": false,
+				"rank": "#5376",
+				"watchlists": "20,190",
+				"marketcap": "$561,494",
+				"fully_diluted_marketcap": "$40,696,692",
+				"volume_24": "$18,680",
+				"volume_marketcap_24": "0.03327",
+				"max_supply": "550,000,000",
+				"total_supply": "550,000,000",
+				"contract": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+				"telegram": "marbleheroes_chat",
+				"twitter": "marble_heroes"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 28909,
+					"following_count": 23,
+					"tweet_count": 175,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 38727
+			}
 		}
 	]
 }
