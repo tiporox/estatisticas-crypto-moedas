@@ -1,1 +1,50 @@
-{}
+{
+	"data": [
+		{
+			"date": "05/05/2022 06:52:56",
+			"data_coin": {
+				"id": "19972",
+				"name": "rLoop",
+				"symbol": "RLOOP",
+				"blockchain": "Avalanche",
+				"ativo": true,
+				"link": "/currencies/rloop/",
+				"price": "$0.1775",
+				"_1h": "0.19%",
+				"_1h_up": false,
+				"_24h": "0.19%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$177,460,550",
+				"volume": "$2,348,373",
+				"date": "05/05/2022 06:51:01"
+			},
+			"data_coinmarketcap": {
+				"id": "19972",
+				"price": "$0.1775",
+				"variation": "0.19%",
+				"variation_is_up": false,
+				"rank": "#3029",
+				"watchlists": "2",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$177,460,550",
+				"volume_24": "$2,348,373",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "57,701,094",
+				"twitter": "rLoopDAO",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 20763,
+					"following_count": 386,
+					"tweet_count": 2379,
+					"listed_count": 114
+				}
+			},
+			"data_telegram": {
+				"data": 897317
+			}
+		}
+	]
+}
