@@ -45,6 +45,52 @@
 			"data_telegram": {
 				"data": 897979
 			}
+		},
+		{
+			"date": "05/05/2022 15:12:01",
+			"data_coin": {
+				"id": "19994",
+				"name": "Knights & Peasants",
+				"symbol": "KNIGHT",
+				"blockchain": "Harmony",
+				"ativo": true,
+				"link": "/currencies/knights-peasants/",
+				"price": "$0.4174",
+				"_1h": "0.27%",
+				"_1h_up": true,
+				"_24h": "0.27%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$16,697,856",
+				"volume": "$4",
+				"date": "05/05/2022 14:10:45"
+			},
+			"data_coinmarketcap": {
+				"id": "19994",
+				"price": "$0.4137",
+				"variation": "0.63%",
+				"variation_is_up": false,
+				"rank": "#7392",
+				"watchlists": "3",
+				"marketcap": "$496,430",
+				"fully_diluted_marketcap": "$16,547,670",
+				"volume_24": "$507",
+				"volume_marketcap_24": "0.001021",
+				"max_supply": "40,000,000",
+				"total_supply": "--",
+				"twitter": "KnightsPeasants",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2835,
+					"following_count": 45,
+					"tweet_count": 162,
+					"listed_count": 10
+				}
+			},
+			"data_telegram": {
+				"data": 898220
+			}
 		}
 	]
 }
