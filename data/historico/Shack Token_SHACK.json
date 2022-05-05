@@ -1518,6 +1518,81 @@
 			"data_telegram": {
 				"data": 11914
 			}
+		},
+		{
+			"date": "05/05/2022 13:48:12",
+			"data_coin": {
+				"id": "19952",
+				"name": "Shack Token",
+				"symbol": "SHACK",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/shack-token/",
+				"price": "$0.01491",
+				"_1h": "0.14%",
+				"_1h_up": true,
+				"_24h": "0.14%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$15,213,095",
+				"volume": "$521",
+				"date": "04/05/2022 11:45:04",
+				"infoCoinMarketCap_1": {
+					"id": "19952",
+					"price": "$0.01508",
+					"variation": "1.11%",
+					"variation_is_up": true,
+					"rank": "#5326",
+					"watchlists": "59",
+					"marketcap": "$15,382,061",
+					"fully_diluted_marketcap": "$15,382,061",
+					"volume_24": "$22,740",
+					"volume_marketcap_24": "0.001478",
+					"max_supply": "1,020,000,002",
+					"total_supply": "1,020,000,002",
+					"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+					"twitter": "radioshack",
+					"telegram": "radioshackfairlaunch"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 189140,
+						"following_count": 4173,
+						"tweet_count": 30728,
+						"listed_count": 1624
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 11914
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19952",
+				"price": "$0.01491",
+				"variation": "0.17%",
+				"variation_is_up": false,
+				"rank": "#5311",
+				"watchlists": "60",
+				"marketcap": "$15,205,315",
+				"fully_diluted_marketcap": "$15,205,315",
+				"volume_24": "$24,779",
+				"volume_marketcap_24": "0.00163",
+				"max_supply": "1,020,000,002",
+				"total_supply": "1,020,000,002",
+				"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+				"twitter": "radioshack",
+				"telegram": "radioshackfairlaunch"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 189269,
+					"following_count": 4173,
+					"tweet_count": 30728,
+					"listed_count": 1624
+				}
+			},
+			"data_telegram": {
+				"data": 11913
+			}
 		}
 	]
 }
