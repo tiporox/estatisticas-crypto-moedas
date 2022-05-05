@@ -9042,6 +9042,34 @@
 			"date": "05/05/2022 13:38:25",
 			"infoCoinMarketCap": {
 				"id": "19990",
+				"price": "$0.001444",
+				"variation": "7.38%",
+				"variation_is_up": false,
+				"rank": "#4470",
+				"watchlists": "17",
+				"marketcap": "$288,815",
+				"fully_diluted_marketcap": "$28,881,475",
+				"volume_24": "$85,556",
+				"volume_marketcap_24": "0.2962",
+				"max_supply": "20,000,000,000",
+				"total_supply": "20,000,000,000",
+				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+				"telegram": "CowboySnakeGlobal",
+				"twitter": "CowboySnake"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 91402,
+					"following_count": 108,
+					"tweet_count": 512,
+					"listed_count": 59
+				}
+			},
+			"dadosTelegram": {
+				"data": 72956
+			},
+			"infoCoinMarketCap_1": {
+				"id": "19990",
 				"price": "$0.001559",
 				"variation": "0.00%",
 				"variation_is_up": true,
@@ -9057,7 +9085,7 @@
 				"telegram": "CowboySnakeGlobal",
 				"twitter": "CowboySnake"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 91405,
 					"following_count": 108,
@@ -9065,7 +9093,7 @@
 					"listed_count": 59
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 72948
 			}
 		},
@@ -9155,7 +9183,23 @@
 			"dadosTelegram": {
 				"data": 10625
 			}
+		},
+		{
+			"id": "19997",
+			"name": "Shiba Universe",
+			"symbol": "SHIBU",
+			"blockchain": "Ethereum",
+			"ativo": true,
+			"link": "/currencies/shiba-universe/",
+			"price": "$0",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "-",
+			"volume": "--",
+			"date": "05/05/2022 14:40:55"
 		}
 	],
-	"total": 136
+	"total": 137
 }
