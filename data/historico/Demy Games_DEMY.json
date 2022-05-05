@@ -1,1 +1,51 @@
-{}
+{
+	"data": [
+		{
+			"date": "05/05/2022 08:10:17",
+			"data_coin": {
+				"id": "19984",
+				"name": "Demy Games",
+				"symbol": "DEMY",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/demy-games/",
+				"price": "$0.00008015",
+				"_1h": "0.03%",
+				"_1h_up": true,
+				"_24h": "618.68%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$400,770",
+				"volume": "$503,984",
+				"date": "05/05/2022 08:09:55"
+			},
+			"data_coinmarketcap": {
+				"id": "19984",
+				"price": "$0.00008016",
+				"variation": "618.70%",
+				"variation_is_up": true,
+				"rank": "#3465",
+				"watchlists": "0",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$400,777",
+				"volume_24": "$503,145",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "5,000,000,000",
+				"contract": "0x6a146b19b4fd0ab90b474e44320edacf63418ae0",
+				"twitter": "demygames_app",
+				"telegram": "demy_games"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2275,
+					"following_count": 4,
+					"tweet_count": 7,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7764
+			}
+		}
+	]
+}
