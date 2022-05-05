@@ -318,6 +318,81 @@
 			"data_telegram": {
 				"data": 121254
 			}
+		},
+		{
+			"date": "05/05/2022 17:38:28",
+			"data_coin": {
+				"id": "19989",
+				"name": "Omnisphere DAO",
+				"symbol": "OSPD",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/omnisphere-dao/",
+				"price": "$0.00003618",
+				"_1h": "0.01%",
+				"_1h_up": false,
+				"_24h": "0.01%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,713,457",
+				"volume": "$322,509",
+				"date": "05/05/2022 12:35:45",
+				"infoCoinMarketCap_1": {
+					"id": "19989",
+					"price": "$0.00004426",
+					"variation": "22.33%",
+					"variation_is_up": true,
+					"rank": "#3619",
+					"watchlists": "140",
+					"marketcap": "$1,549,103",
+					"fully_diluted_marketcap": "$3,319,506",
+					"volume_24": "$387,613",
+					"volume_marketcap_24": "0.2502",
+					"max_supply": "75,000,000,000",
+					"total_supply": "100,000,000,000",
+					"twitter": "OmnisphereDAO",
+					"telegram": "OmnisphereDaoGlobal",
+					"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 71385,
+						"following_count": 65,
+						"tweet_count": 45,
+						"listed_count": 13
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 121081
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19989",
+				"price": "$0.00004557",
+				"variation": "25.95%",
+				"variation_is_up": true,
+				"rank": "#3600",
+				"watchlists": "165",
+				"marketcap": "$1,595,002",
+				"fully_diluted_marketcap": "$3,417,862",
+				"volume_24": "$396,159",
+				"volume_marketcap_24": "0.2484",
+				"max_supply": "75,000,000,000",
+				"total_supply": "100,000,000,000",
+				"twitter": "OmnisphereDAO",
+				"telegram": "OmnisphereDaoGlobal",
+				"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 71539,
+					"following_count": 65,
+					"tweet_count": 45,
+					"listed_count": 13
+				}
+			},
+			"data_telegram": {
+				"data": 121414
+			}
 		}
 	]
 }
