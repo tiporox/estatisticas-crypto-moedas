@@ -1908,6 +1908,81 @@
 			"data_telegram": {
 				"data": 1945
 			}
+		},
+		{
+			"date": "05/05/2022 04:43:03",
+			"data_coin": {
+				"id": "19918",
+				"name": "ZeldaVerse",
+				"symbol": "ZVRS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/zeldaverse/",
+				"price": "$0.01695",
+				"_1h": "0.89%",
+				"_1h_up": false,
+				"_24h": "0.89%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$101,702",
+				"volume": "$2,951,779",
+				"date": "03/05/2022 20:12:35",
+				"infoCoinMarketCap_1": {
+					"id": "19918",
+					"price": "$0.02054",
+					"variation": "0.25%",
+					"variation_is_up": true,
+					"rank": "#3546",
+					"watchlists": "2,902",
+					"marketcap": "$12,321,815",
+					"fully_diluted_marketcap": "$123,218",
+					"volume_24": "$414,350",
+					"volume_marketcap_24": "0.03363",
+					"max_supply": "6,000,000",
+					"total_supply": "6,000,000",
+					"twitter": "ZeldaVerseToken",
+					"telegram": "ZELDAVERSEOFFICIAL",
+					"contract": "0x2B53D7014865c705DF383AB58B3C1DE5388ad567"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7753,
+						"following_count": 12,
+						"tweet_count": 55,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1925
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19918",
+				"price": "$0.02029",
+				"variation": "0.47%",
+				"variation_is_up": false,
+				"rank": "#3548",
+				"watchlists": "2,910",
+				"marketcap": "$121,721",
+				"fully_diluted_marketcap": "$121,721",
+				"volume_24": "$418,461",
+				"volume_marketcap_24": "3.44",
+				"max_supply": "6,000,000",
+				"total_supply": "6,000,000",
+				"twitter": "ZeldaVerseToken",
+				"telegram": "ZELDAVERSEOFFICIAL",
+				"contract": "0x2B53D7014865c705DF383AB58B3C1DE5388ad567"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7821,
+					"following_count": 12,
+					"tweet_count": 55,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 1953
+			}
 		}
 	]
 }
