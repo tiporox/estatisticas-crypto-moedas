@@ -7408,33 +7408,6 @@
 			"date": "05/05/2022 02:51:29",
 			"infoCoinMarketCap_1": {
 				"id": "19963",
-				"price": "$0.1364",
-				"variation": "1.21%",
-				"variation_is_up": false,
-				"rank": "#5043",
-				"watchlists": "7",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$613,537",
-				"volume_24": "$33,103",
-				"volume_marketcap_24": "--",
-				"max_supply": "--",
-				"total_supply": "4,497,492",
-				"twitter": "metaderby",
-				"telegram": "CoinMarketCapAnnouncements"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 36279,
-					"following_count": 103,
-					"tweet_count": 360,
-					"listed_count": 75
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 897513
-			},
-			"infoCoinMarketCap": {
-				"id": "19963",
 				"price": "$0.1363",
 				"variation": "1.27%",
 				"variation_is_up": false,
@@ -7449,7 +7422,7 @@
 				"twitter": "metaderby",
 				"telegram": "CoinMarketCapAnnouncements"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 36278,
 					"following_count": 105,
@@ -7457,8 +7430,35 @@
 					"listed_count": 75
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 897410
+			},
+			"infoCoinMarketCap": {
+				"id": "19963",
+				"price": "$0.1344",
+				"variation": "2.66%",
+				"variation_is_up": false,
+				"rank": "#5032",
+				"watchlists": "12",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$604,520",
+				"volume_24": "$33,619",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "4,497,492",
+				"twitter": "metaderby",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 36277,
+					"following_count": 105,
+					"tweet_count": 362,
+					"listed_count": 75
+				}
+			},
+			"dadosTelegram": {
+				"data": 897316
 			}
 		},
 		{
@@ -8164,7 +8164,23 @@
 			"dadosTelegram": {
 				"data": 897317
 			}
+		},
+		{
+			"id": "19979",
+			"name": "Yuse",
+			"symbol": "YUSE",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/yuse/",
+			"price": "$0.03952",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$43,907,213",
+			"volume": "$159,261",
+			"date": "05/05/2022 06:55:03"
 		}
 	],
-	"total": 124
+	"total": 125
 }
