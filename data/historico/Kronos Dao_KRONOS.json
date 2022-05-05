@@ -1968,6 +1968,81 @@
 			"data_telegram": {
 				"data": 5003
 			}
+		},
+		{
+			"date": "05/05/2022 18:50:50",
+			"data_coin": {
+				"id": "19947",
+				"name": "Kronos Dao",
+				"symbol": "KRONOS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/kronosdao/",
+				"price": "$0.1006",
+				"_1h": "0.99%",
+				"_1h_up": false,
+				"_24h": "0.99%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$311,968",
+				"volume": "$2,447",
+				"date": "04/05/2022 10:48:29",
+				"infoCoinMarketCap_1": {
+					"id": "19947",
+					"price": "$0.1053",
+					"variation": "5.11%",
+					"variation_is_up": false,
+					"rank": "#5366",
+					"watchlists": "142",
+					"marketcap": "$432,631",
+					"fully_diluted_marketcap": "$326,432",
+					"volume_24": "$23,670",
+					"volume_marketcap_24": "0.05471",
+					"max_supply": "--",
+					"total_supply": "3,100,000",
+					"telegram": "KRONOS_community",
+					"twitter": "dao_kronos",
+					"contract": "0xbeC68a941feCC79E57762e258fd1490F29235D75"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 21219,
+						"following_count": 118,
+						"tweet_count": 257,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 5006
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19947",
+				"price": "$0.1043",
+				"variation": "1.82%",
+				"variation_is_up": false,
+				"rank": "#5353",
+				"watchlists": "143",
+				"marketcap": "$428,687",
+				"fully_diluted_marketcap": "$323,456",
+				"volume_24": "$24,393",
+				"volume_marketcap_24": "0.0569",
+				"max_supply": "--",
+				"total_supply": "3,100,000",
+				"telegram": "KRONOS_community",
+				"twitter": "dao_kronos",
+				"contract": "0xbeC68a941feCC79E57762e258fd1490F29235D75"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 21221,
+					"following_count": 118,
+					"tweet_count": 257,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 5002
+			}
 		}
 	]
 }
