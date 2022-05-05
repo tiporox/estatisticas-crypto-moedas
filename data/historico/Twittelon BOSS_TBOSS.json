@@ -1,1 +1,51 @@
-{}
+{
+	"data": [
+		{
+			"date": "05/05/2022 13:29:04",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19"
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000003106",
+				"variation": "5.80%",
+				"variation_is_up": false,
+				"rank": "#3423",
+				"watchlists": "0",
+				"marketcap": "$310,647",
+				"fully_diluted_marketcap": "$310,647",
+				"volume_24": "$594,932",
+				"volume_marketcap_24": "1.92",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6395,
+					"following_count": 28,
+					"tweet_count": 39,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7126
+			}
+		}
+	]
+}
