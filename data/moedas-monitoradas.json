@@ -7478,33 +7478,6 @@
 			"date": "05/05/2022 02:57:37",
 			"infoCoinMarketCap_1": {
 				"id": "19964",
-				"price": "$0.4479",
-				"variation": "11.64%",
-				"variation_is_up": false,
-				"rank": "#3336",
-				"watchlists": "10",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$44,787,311",
-				"volume_24": "$729,661",
-				"volume_marketcap_24": "--",
-				"max_supply": "--",
-				"total_supply": "100,000,000",
-				"twitter": "PlutusDAO_io",
-				"telegram": "CoinMarketCapAnnouncements"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 3836,
-					"following_count": 0,
-					"tweet_count": 92,
-					"listed_count": 54
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 897504
-			},
-			"infoCoinMarketCap": {
-				"id": "19964",
 				"price": "$0.4505",
 				"variation": "11.13%",
 				"variation_is_up": false,
@@ -7519,7 +7492,7 @@
 				"twitter": "PlutusDAO_io",
 				"telegram": "CoinMarketCapAnnouncements"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 3838,
 					"following_count": 0,
@@ -7527,8 +7500,35 @@
 					"listed_count": 54
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 897401
+			},
+			"infoCoinMarketCap": {
+				"id": "19964",
+				"price": "$0.452",
+				"variation": "10.83%",
+				"variation_is_up": false,
+				"rank": "#3334",
+				"watchlists": "19",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$45,197,358",
+				"volume_24": "$729,236",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "100,000,000",
+				"twitter": "PlutusDAO_io",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 3843,
+					"following_count": 0,
+					"tweet_count": 92,
+					"listed_count": 54
+				}
+			},
+			"dadosTelegram": {
+				"data": 897297
 			}
 		},
 		{
@@ -8208,7 +8208,39 @@
 			"dadosTelegram": {
 				"data": 33664
 			}
+		},
+		{
+			"id": "19983",
+			"name": "Graphen",
+			"symbol": "ELTG",
+			"blockchain": "",
+			"ativo": true,
+			"link": "/currencies/graphen/",
+			"price": "$0.000259",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "--",
+			"volume": "$143,745",
+			"date": "05/05/2022 07:01:09"
+		},
+		{
+			"id": "19982",
+			"name": "Numitor",
+			"symbol": "NUMI",
+			"blockchain": "",
+			"ativo": true,
+			"link": "/currencies/numitor/",
+			"price": "$0.8004",
+			"_1h": "0.00%",
+			"_1h_up": false,
+			"_24h": "0.00%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$800,416",
+			"volume": "$94,955",
+			"date": "05/05/2022 07:01:09"
 		}
 	],
-	"total": 125
+	"total": 127
 }
