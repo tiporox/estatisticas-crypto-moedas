@@ -3168,6 +3168,81 @@
 			"data_telegram": {
 				"data": 8664
 			}
+		},
+		{
+			"date": "05/05/2022 05:43:37",
+			"data_coin": {
+				"id": "19911",
+				"name": "Inverse Protocol",
+				"symbol": "INVERSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/inverse-protocol/",
+				"price": "$1.16",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,773,970,965",
+				"volume": "$44,348",
+				"date": "03/05/2022 04:57:58",
+				"infoCoinMarketCap_1": {
+					"id": "19911",
+					"price": "$0.5863",
+					"variation": "38.85%",
+					"variation_is_up": false,
+					"rank": "#4758",
+					"watchlists": "224",
+					"marketcap": "$600,899",
+					"fully_diluted_marketcap": "$1,905,529,933",
+					"volume_24": "$50,788",
+					"volume_marketcap_24": "0.08452",
+					"max_supply": "3,250,000,000",
+					"total_supply": "1,026,702",
+					"contract": "0xef5230e2dc11e9c8b463df8eca77074d7e636def",
+					"telegram": "inverseprotocol",
+					"twitter": "inverseprotcol"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 10996,
+						"following_count": 5,
+						"tweet_count": 462,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8670
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19911",
+				"price": "$0.5587",
+				"variation": "43.76%",
+				"variation_is_up": false,
+				"rank": "#4766",
+				"watchlists": "221",
+				"marketcap": "$572,584",
+				"fully_diluted_marketcap": "$1,815,740,883",
+				"volume_24": "$50,916",
+				"volume_marketcap_24": "0.08892",
+				"max_supply": "3,250,000,000",
+				"total_supply": "1,026,702",
+				"contract": "0xef5230e2dc11e9c8b463df8eca77074d7e636def",
+				"telegram": "inverseprotocol",
+				"twitter": "inverseprotcol"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 11011,
+					"following_count": 5,
+					"tweet_count": 462,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 8651
+			}
 		}
 	]
 }
