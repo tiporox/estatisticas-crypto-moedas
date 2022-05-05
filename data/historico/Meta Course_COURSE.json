@@ -4368,6 +4368,81 @@
 			"data_telegram": {
 				"data": 2773
 			}
+		},
+		{
+			"date": "05/05/2022 16:48:49",
+			"data_coin": {
+				"id": "19904",
+				"name": "Meta Course",
+				"symbol": "COURSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-course/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "03/05/2022 00:27:12",
+				"infoCoinMarketCap_1": {
+					"id": "19904",
+					"price": "$0.0...02408",
+					"variation": "0.97%",
+					"variation_is_up": false,
+					"rank": "#4223",
+					"watchlists": "452",
+					"marketcap": "$963,013",
+					"fully_diluted_marketcap": "$2,407,533",
+					"volume_24": "$126,723",
+					"volume_marketcap_24": "0.1316",
+					"max_supply": "10,000,000,000,000,000",
+					"total_supply": "10,000,000,000,000,000",
+					"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+					"telegram": "metacoursetoken",
+					"twitter": "metacoursetoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 278,
+						"following_count": 2,
+						"tweet_count": 28,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2772
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19904",
+				"price": "$0.0...02398",
+				"variation": "58.57%",
+				"variation_is_up": false,
+				"rank": "#4217",
+				"watchlists": "454",
+				"marketcap": "$959,281",
+				"fully_diluted_marketcap": "$2,398,201",
+				"volume_24": "$126,565",
+				"volume_marketcap_24": "0.1319",
+				"max_supply": "10,000,000,000,000,000",
+				"total_supply": "10,000,000,000,000,000",
+				"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+				"telegram": "metacoursetoken",
+				"twitter": "metacoursetoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 278,
+					"following_count": 2,
+					"tweet_count": 28,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 2770
+			}
 		}
 	]
 }
