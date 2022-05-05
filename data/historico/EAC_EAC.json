@@ -6814,6 +6814,68 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "05/05/2022 13:44:39",
+			"data_coin": {
+				"id": "19812",
+				"name": "EAC",
+				"symbol": "EAC",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/eac/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 17775,
+						"following_count": 33,
+						"tweet_count": 20,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {},
+				"infoCoinMarketCap_1": {
+					"id": "19812",
+					"price": "$1.95",
+					"variation": "2.27%",
+					"variation_is_up": false,
+					"rank": "#4674",
+					"watchlists": "58",
+					"marketcap": "$584,042,165",
+					"fully_diluted_marketcap": "$973,403,609",
+					"volume_24": "$59,700",
+					"volume_marketcap_24": "0.0001022",
+					"max_supply": "500,000,000",
+					"total_supply": "1,000,000,000",
+					"twitter": "eacplatform",
+					"telegram": "+I4Tlqq-pwkM1MzU1"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19812",
+				"price": "$1.99",
+				"variation": "1.90%",
+				"variation_is_up": true,
+				"rank": "#4694",
+				"watchlists": "58",
+				"marketcap": "$597,463,034",
+				"fully_diluted_marketcap": "$995,771,723",
+				"volume_24": "$61,240",
+				"volume_marketcap_24": "0.0001025",
+				"max_supply": "500,000,000",
+				"total_supply": "1,000,000,000",
+				"twitter": "eacplatform",
+				"telegram": "+I4Tlqq-pwkM1MzU1"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 17878,
+					"following_count": 33,
+					"tweet_count": 20,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
