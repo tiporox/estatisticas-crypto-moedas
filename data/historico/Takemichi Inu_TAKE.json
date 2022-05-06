@@ -308,6 +308,77 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "06/05/2022 09:12:47",
+			"data_coin": {
+				"id": "20001",
+				"name": "Takemichi Inu",
+				"symbol": "TAKE",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/takemichi-inu/",
+				"price": "$0.000001057",
+				"_1h": "0.52%",
+				"_1h_up": true,
+				"_24h": "0.52%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,114,678",
+				"volume": "$131,007",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20001",
+					"price": "$0.000001032",
+					"variation": "1.93%",
+					"variation_is_up": false,
+					"rank": "#4102",
+					"watchlists": "23",
+					"marketcap": "$2,063,276",
+					"fully_diluted_marketcap": "$2,063,276",
+					"volume_24": "$139,054",
+					"volume_marketcap_24": "0.06739",
+					"max_supply": "2,000,000,000,000",
+					"total_supply": "--",
+					"telegram": "Takemichi_Inu",
+					"twitter": "TakemichiInu"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 401,
+						"following_count": 73,
+						"tweet_count": 247,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 780
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20001",
+				"price": "$0.000000911",
+				"variation": "13.39%",
+				"variation_is_up": false,
+				"rank": "#4134",
+				"watchlists": "28",
+				"marketcap": "$1,822,067",
+				"fully_diluted_marketcap": "$1,822,067",
+				"volume_24": "$133,471",
+				"volume_marketcap_24": "0.07325",
+				"max_supply": "2,000,000,000,000",
+				"total_supply": "--",
+				"telegram": "Takemichi_Inu",
+				"twitter": "TakemichiInu"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 401,
+					"following_count": 73,
+					"tweet_count": 247,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
