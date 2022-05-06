@@ -1743,6 +1743,81 @@
 			"data_telegram": {
 				"data": 7217
 			}
+		},
+		{
+			"date": "06/05/2022 13:45:49",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000003034",
+					"variation": "8.00%",
+					"variation_is_up": false,
+					"rank": "#3916",
+					"watchlists": "307",
+					"marketcap": "$303,378",
+					"fully_diluted_marketcap": "$303,378",
+					"volume_24": "$205,031",
+					"volume_marketcap_24": "0.6758",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6409,
+						"following_count": 28,
+						"tweet_count": 43,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7226
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000002539",
+				"variation": "29.59%",
+				"variation_is_up": false,
+				"rank": "#3895",
+				"watchlists": "314",
+				"marketcap": "$253,949",
+				"fully_diluted_marketcap": "$253,949",
+				"volume_24": "$213,128",
+				"volume_marketcap_24": "0.8393",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6407,
+					"following_count": 28,
+					"tweet_count": 43,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7214
+			}
 		}
 	]
 }
