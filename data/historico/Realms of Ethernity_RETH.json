@@ -464,6 +464,81 @@
 			"data_telegram": {
 				"data": 28890
 			}
+		},
+		{
+			"date": "06/05/2022 18:27:23",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.05332",
+					"variation": "21.20%",
+					"variation_is_up": true,
+					"rank": "#4267",
+					"watchlists": "180",
+					"marketcap": "$933,079",
+					"fully_diluted_marketcap": "$73,473,277",
+					"volume_24": "$110,372",
+					"volume_marketcap_24": "0.1183",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 124115,
+						"following_count": 53,
+						"tweet_count": 1408,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28885
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.05172",
+				"variation": "17.57%",
+				"variation_is_up": true,
+				"rank": "#5628",
+				"watchlists": "231",
+				"marketcap": "$905,146",
+				"fully_diluted_marketcap": "$71,273,791",
+				"volume_24": "$12,855",
+				"volume_marketcap_24": "0.0142",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 124103,
+					"following_count": 53,
+					"tweet_count": 1408,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28896
+			}
 		}
 	]
 }
