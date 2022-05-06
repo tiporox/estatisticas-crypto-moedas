@@ -2493,6 +2493,81 @@
 			"data_telegram": {
 				"data": 899284
 			}
+		},
+		{
+			"date": "06/05/2022 13:44:44",
+			"data_coin": {
+				"id": "19966",
+				"name": "Quickswap[New]",
+				"symbol": "QUICK",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/quickswap-new/",
+				"price": "$0.1735",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$7,373",
+				"date": "05/05/2022 03:22:55",
+				"infoCoinMarketCap_1": {
+					"id": "19966",
+					"price": "$0.1389",
+					"variation": "13.65%",
+					"variation_is_up": false,
+					"rank": "#5217",
+					"watchlists": "150",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$28,323",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+					"twitter": "QuickswapDEX",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 71674,
+						"following_count": 771,
+						"tweet_count": 2731,
+						"listed_count": 635
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899298
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19966",
+				"price": "$0.1464",
+				"variation": "1.05%",
+				"variation_is_up": false,
+				"rank": "#5149",
+				"watchlists": "150",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$30,242",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+				"twitter": "QuickswapDEX",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 71675,
+					"following_count": 771,
+					"tweet_count": 2731,
+					"listed_count": 636
+				}
+			},
+			"data_telegram": {
+				"data": 899317
+			}
 		}
 	]
 }
