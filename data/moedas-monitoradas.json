@@ -9042,34 +9042,6 @@
 			"date": "05/05/2022 13:38:25",
 			"infoCoinMarketCap_1": {
 				"id": "19990",
-				"price": "$0.001419",
-				"variation": "8.96%",
-				"variation_is_up": false,
-				"rank": "#4362",
-				"watchlists": "46",
-				"marketcap": "$283,864",
-				"fully_diluted_marketcap": "$28,386,435",
-				"volume_24": "$87,828",
-				"volume_marketcap_24": "0.3094",
-				"max_supply": "20,000,000,000",
-				"total_supply": "20,000,000,000",
-				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
-				"telegram": "CowboySnakeGlobal",
-				"twitter": "CowboySnake"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 91331,
-					"following_count": 108,
-					"tweet_count": 512,
-					"listed_count": 59
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 72895
-			},
-			"infoCoinMarketCap": {
-				"id": "19990",
 				"price": "$0.001409",
 				"variation": "9.63%",
 				"variation_is_up": false,
@@ -9085,6 +9057,34 @@
 				"telegram": "CowboySnakeGlobal",
 				"twitter": "CowboySnake"
 			},
+			"dadosTwitter_1": {
+				"data": {
+					"followers_count": 91344,
+					"following_count": 108,
+					"tweet_count": 512,
+					"listed_count": 59
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 72889
+			},
+			"infoCoinMarketCap": {
+				"id": "19990",
+				"price": "$0.00141",
+				"variation": "9.57%",
+				"variation_is_up": false,
+				"rank": "#4370",
+				"watchlists": "50",
+				"marketcap": "$281,981",
+				"fully_diluted_marketcap": "$28,198,120",
+				"volume_24": "$87,784",
+				"volume_marketcap_24": "0.3113",
+				"max_supply": "20,000,000,000",
+				"total_supply": "20,000,000,000",
+				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+				"telegram": "CowboySnakeGlobal",
+				"twitter": "CowboySnake"
+			},
 			"dadosTwitter": {
 				"data": {
 					"followers_count": 91344,
@@ -9094,7 +9094,7 @@
 				}
 			},
 			"dadosTelegram": {
-				"data": 72889
+				"data": 72878
 			}
 		},
 		{
@@ -9398,33 +9398,6 @@
 			"date": "05/05/2022 19:41:55",
 			"infoCoinMarketCap_1": {
 				"id": "19980",
-				"price": "$0.635",
-				"variation": "0.10%",
-				"variation_is_up": true,
-				"rank": "#6896",
-				"watchlists": "18",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$63,500,651",
-				"volume_24": "$1,047",
-				"volume_marketcap_24": "--",
-				"max_supply": "100,000,000",
-				"total_supply": "2,500,000",
-				"twitter": "reactor_money",
-				"telegram": "RCTannouncement"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 6010,
-					"following_count": 26,
-					"tweet_count": 132,
-					"listed_count": 124
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 413
-			},
-			"infoCoinMarketCap": {
-				"id": "19980",
 				"price": "$0.6341",
 				"variation": "0.04%",
 				"variation_is_up": false,
@@ -9439,9 +9412,36 @@
 				"twitter": "reactor_money",
 				"telegram": "RCTannouncement"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 6014,
+					"following_count": 26,
+					"tweet_count": 132,
+					"listed_count": 124
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 415
+			},
+			"infoCoinMarketCap": {
+				"id": "19980",
+				"price": "$0.634",
+				"variation": "0.06%",
+				"variation_is_up": false,
+				"rank": "#6919",
+				"watchlists": "20",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$63,398,049",
+				"volume_24": "$1,047",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000",
+				"total_supply": "2,500,000",
+				"twitter": "reactor_money",
+				"telegram": "RCTannouncement"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 6017,
 					"following_count": 26,
 					"tweet_count": 132,
 					"listed_count": 124
@@ -9537,7 +9537,23 @@
 			"dadosTelegram": {
 				"data": 752
 			}
+		},
+		{
+			"id": "20005",
+			"name": "SIN COIN",
+			"symbol": "SIN",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/sin-coin/",
+			"price": "$0.000001601",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$80,046,108",
+			"volume": "$20,519",
+			"date": "06/05/2022 04:49:14"
 		}
 	],
-	"total": 141
+	"total": 142
 }
