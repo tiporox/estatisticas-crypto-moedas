@@ -1818,6 +1818,81 @@
 			"data_telegram": {
 				"data": 4835
 			}
+		},
+		{
+			"date": "06/05/2022 04:58:59",
+			"data_coin": {
+				"id": "19967",
+				"name": "Banana Index",
+				"symbol": "BANDEX",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/banana-index/",
+				"price": "$0.000001868",
+				"_1h": "15.59%",
+				"_1h_up": true,
+				"_24h": "15.59%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,867,972",
+				"volume": "$193,485",
+				"date": "05/05/2022 03:43:59",
+				"infoCoinMarketCap_1": {
+					"id": "19967",
+					"price": "$0.00000171",
+					"variation": "5.81%",
+					"variation_is_up": true,
+					"rank": "#4070",
+					"watchlists": "232",
+					"marketcap": "$1,710,046",
+					"fully_diluted_marketcap": "$1,710,046",
+					"volume_24": "$143,019",
+					"volume_marketcap_24": "0.08363",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"twitter": "BananaTFA",
+					"telegram": "BananaTFApe",
+					"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8163,
+						"following_count": 151,
+						"tweet_count": 510,
+						"listed_count": 17
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4832
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19967",
+				"price": "$0.000001652",
+				"variation": "13.36%",
+				"variation_is_up": false,
+				"rank": "#4101",
+				"watchlists": "235",
+				"marketcap": "$1,652,091",
+				"fully_diluted_marketcap": "$1,652,091",
+				"volume_24": "$136,735",
+				"volume_marketcap_24": "0.08276",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"twitter": "BananaTFA",
+				"telegram": "BananaTFApe",
+				"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8188,
+					"following_count": 151,
+					"tweet_count": 510,
+					"listed_count": 17
+				}
+			},
+			"data_telegram": {
+				"data": 4837
+			}
 		}
 	]
 }
