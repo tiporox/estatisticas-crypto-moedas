@@ -602,6 +602,79 @@
 			"data_telegram": {
 				"data": 1016
 			}
+		},
+		{
+			"date": "05/05/2022 21:30:30",
+			"data_coin": {
+				"id": "19988",
+				"name": "Doshi",
+				"symbol": "DOSHI",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/doshi/",
+				"price": "$0.0...03093",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$3,092,949",
+				"volume": "$18,704",
+				"date": "05/05/2022 12:25:38",
+				"infoCoinMarketCap_1": {
+					"id": "19988",
+					"price": "$0.0...03168",
+					"variation": "2.42%",
+					"variation_is_up": true,
+					"rank": "#5213",
+					"watchlists": "114",
+					"marketcap": "$2,800,882",
+					"fully_diluted_marketcap": "$3,167,955",
+					"volume_24": "$30,337",
+					"volume_marketcap_24": "0.01083",
+					"max_supply": "1,000,000,000,000,000,000",
+					"total_supply": "884,129,240,357,135,000",
+					"twitter": "Doshi_Token",
+					"telegram": "DoshiPortal"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5017,
+						"following_count": 162,
+						"tweet_count": 327,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1015
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19988",
+				"price": "$0.0...03188",
+				"variation": "3.08%",
+				"variation_is_up": true,
+				"rank": "#5062",
+				"watchlists": "132",
+				"marketcap": "$2,818,800",
+				"fully_diluted_marketcap": "$3,188,222",
+				"volume_24": "$30,946",
+				"volume_marketcap_24": "0.01098",
+				"max_supply": "1,000,000,000,000,000,000",
+				"total_supply": "884,129,240,357,135,000",
+				"twitter": "Doshi_Token",
+				"telegram": "DoshiPortal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5023,
+					"following_count": 162,
+					"tweet_count": 329,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 1017
+			}
 		}
 	]
 }
