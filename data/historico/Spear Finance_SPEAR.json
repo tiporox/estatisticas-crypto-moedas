@@ -3230,6 +3230,79 @@
 			"data_telegram": {
 				"data": 899231
 			}
+		},
+		{
+			"date": "06/05/2022 08:00:32",
+			"data_coin": {
+				"id": "19929",
+				"name": "Spear Finance",
+				"symbol": "SPEAR",
+				"blockchain": "Avalanche",
+				"ativo": true,
+				"link": "/currencies/spear-finance/",
+				"price": "$0.000001465",
+				"_1h": "60.46%",
+				"_1h_up": true,
+				"_24h": "60.46%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,465,156",
+				"volume": "$1,502,021",
+				"date": "04/05/2022 05:22:09",
+				"infoCoinMarketCap_1": {
+					"id": "19929",
+					"price": "$0.000004961",
+					"variation": "21.77%",
+					"variation_is_up": false,
+					"rank": "#4192",
+					"watchlists": "303",
+					"marketcap": "$4,960,583",
+					"fully_diluted_marketcap": "$4,960,583",
+					"volume_24": "$119,374",
+					"volume_marketcap_24": "0.02406",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"twitter": "spearfinance_io",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3257,
+						"following_count": 2,
+						"tweet_count": 100,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899233
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19929",
+				"price": "$0.000004928",
+				"variation": "22.69%",
+				"variation_is_up": false,
+				"rank": "#4215",
+				"watchlists": "302",
+				"marketcap": "$4,928,145",
+				"fully_diluted_marketcap": "$4,928,145",
+				"volume_24": "$117,733",
+				"volume_marketcap_24": "0.02389",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"twitter": "spearfinance_io",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3259,
+					"following_count": 2,
+					"tweet_count": 100,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 899230
+			}
 		}
 	]
 }
