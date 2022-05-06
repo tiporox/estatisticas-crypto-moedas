@@ -993,6 +993,81 @@
 			"data_telegram": {
 				"data": 7237
 			}
+		},
+		{
+			"date": "06/05/2022 03:37:26",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000003155",
+					"variation": "4.31%",
+					"variation_is_up": false,
+					"rank": "#3963",
+					"watchlists": "233",
+					"marketcap": "$315,549",
+					"fully_diluted_marketcap": "$315,549",
+					"volume_24": "$168,245",
+					"volume_marketcap_24": "0.5332",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6431,
+						"following_count": 28,
+						"tweet_count": 40,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7236
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000004087",
+				"variation": "23.94%",
+				"variation_is_up": true,
+				"rank": "#3919",
+				"watchlists": "257",
+				"marketcap": "$408,700",
+				"fully_diluted_marketcap": "$408,700",
+				"volume_24": "$185,441",
+				"volume_marketcap_24": "0.4537",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6085,
+					"following_count": 28,
+					"tweet_count": 43,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7239
+			}
 		}
 	]
 }
