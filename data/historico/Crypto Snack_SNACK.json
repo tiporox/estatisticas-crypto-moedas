@@ -5043,6 +5043,81 @@
 			"data_telegram": {
 				"data": 899289
 			}
+		},
+		{
+			"date": "06/05/2022 13:04:23",
+			"data_coin": {
+				"id": "19915",
+				"name": "Crypto Snack",
+				"symbol": "SNACK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/crypto-snack/",
+				"price": "$0.01975",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$197,532,533",
+				"volume": "$60,948",
+				"date": "03/05/2022 11:14:42",
+				"infoCoinMarketCap_1": {
+					"id": "19915",
+					"price": "$0.02441",
+					"variation": "5.10%",
+					"variation_is_up": true,
+					"rank": "#3198",
+					"watchlists": "172",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$244,087,948",
+					"volume_24": "$1,105,072",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000,000",
+					"total_supply": "10,000,000,000",
+					"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+					"twitter": "cryptosnack_",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1474,
+						"following_count": 1252,
+						"tweet_count": 679,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899281
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19915",
+				"price": "$0.02536",
+				"variation": "8.73%",
+				"variation_is_up": true,
+				"rank": "#3194",
+				"watchlists": "172",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$253,584,248",
+				"volume_24": "$1,115,216",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000,000",
+				"total_supply": "10,000,000,000",
+				"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+				"twitter": "cryptosnack_",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1477,
+					"following_count": 1268,
+					"tweet_count": 680,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 899301
+			}
 		}
 	]
 }
