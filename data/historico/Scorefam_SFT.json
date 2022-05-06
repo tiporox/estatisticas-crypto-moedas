@@ -4593,6 +4593,81 @@
 			"data_telegram": {
 				"data": 10265
 			}
+		},
+		{
+			"date": "06/05/2022 05:58:41",
+			"data_coin": {
+				"id": "19914",
+				"name": "Scorefam",
+				"symbol": "SFT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/scorefam/",
+				"price": "$0.0565",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$28,251,765",
+				"volume": "$486,730",
+				"date": "03/05/2022 10:18:09",
+				"infoCoinMarketCap_1": {
+					"id": "19914",
+					"price": "$0.03215",
+					"variation": "5.95%",
+					"variation_is_up": true,
+					"rank": "#4160",
+					"watchlists": "3,179",
+					"marketcap": "$809,736",
+					"fully_diluted_marketcap": "$16,074,851",
+					"volume_24": "$124,212",
+					"volume_marketcap_24": "0.1534",
+					"max_supply": "500,000,000",
+					"total_supply": "500,000,000",
+					"contract": "0xcb73918ac58d0c90d71c7992637c61094c15305b",
+					"telegram": "scorefam",
+					"twitter": "scorefamsports"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 19827,
+						"following_count": 67,
+						"tweet_count": 1659,
+						"listed_count": 13
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 10267
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19914",
+				"price": "$0.03197",
+				"variation": "9.54%",
+				"variation_is_up": false,
+				"rank": "#4164",
+				"watchlists": "3,179",
+				"marketcap": "$805,161",
+				"fully_diluted_marketcap": "$15,984,039",
+				"volume_24": "$124,942",
+				"volume_marketcap_24": "0.1552",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"contract": "0xcb73918ac58d0c90d71c7992637c61094c15305b",
+				"telegram": "scorefam",
+				"twitter": "scorefamsports"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 19860,
+					"following_count": 67,
+					"tweet_count": 1659,
+					"listed_count": 13
+				}
+			},
+			"data_telegram": {
+				"data": 10263
+			}
 		}
 	]
 }
