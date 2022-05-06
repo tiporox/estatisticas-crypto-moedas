@@ -1743,6 +1743,81 @@
 			"data_telegram": {
 				"data": 10641
 			}
+		},
+		{
+			"date": "06/05/2022 14:38:24",
+			"data_coin": {
+				"id": "19995",
+				"name": "WOLF INU",
+				"symbol": "WOLF",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/wolf-inu/",
+				"price": "$0.0002988",
+				"_1h": "0.22%",
+				"_1h_up": false,
+				"_24h": "0.22%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$29,884,240",
+				"volume": "$36,413",
+				"date": "05/05/2022 14:20:39",
+				"infoCoinMarketCap_1": {
+					"id": "19995",
+					"price": "$0.0001145",
+					"variation": "61.77%",
+					"variation_is_up": false,
+					"rank": "#4365",
+					"watchlists": "248",
+					"marketcap": "$1,145,028",
+					"fully_diluted_marketcap": "$11,450,275",
+					"volume_24": "$96,604",
+					"volume_marketcap_24": "0.08437",
+					"max_supply": "99,999,999,999",
+					"total_supply": "100,000,000,000",
+					"contract": "0xe2faf52ffaaf1ec39287dddae5e6fc50c3f06be3",
+					"telegram": "WolfInuGlobal",
+					"twitter": "WolfInuGlobal"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5262,
+						"following_count": 0,
+						"tweet_count": 32,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 10652
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19995",
+				"price": "$0.00001065",
+				"variation": "95.78%",
+				"variation_is_up": false,
+				"rank": "#4269",
+				"watchlists": "259",
+				"marketcap": "$106,477",
+				"fully_diluted_marketcap": "$1,064,774",
+				"volume_24": "$111,307",
+				"volume_marketcap_24": "1.05",
+				"max_supply": "99,999,999,999",
+				"total_supply": "100,000,000,000",
+				"contract": "0xe2faf52ffaaf1ec39287dddae5e6fc50c3f06be3",
+				"telegram": "WolfInuGlobal",
+				"twitter": "WolfInuGlobal"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5263,
+					"following_count": 0,
+					"tweet_count": 32,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 10650
+			}
 		}
 	]
 }
