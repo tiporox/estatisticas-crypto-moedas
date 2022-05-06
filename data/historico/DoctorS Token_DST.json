@@ -3618,6 +3618,81 @@
 			"data_telegram": {
 				"data": 12097
 			}
+		},
+		{
+			"date": "06/05/2022 11:03:02",
+			"data_coin": {
+				"id": "19928",
+				"name": "DoctorS Token",
+				"symbol": "DST",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/doctors-token/",
+				"price": "$0.000000008668",
+				"_1h": "9.57%",
+				"_1h_up": false,
+				"_24h": "9.57%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$866,796",
+				"volume": "$240,457",
+				"date": "04/05/2022 04:53:53",
+				"infoCoinMarketCap_1": {
+					"id": "19928",
+					"price": "$0.000000005621",
+					"variation": "20.64%",
+					"variation_is_up": false,
+					"rank": "#4525",
+					"watchlists": "2,337",
+					"marketcap": "$284,975",
+					"fully_diluted_marketcap": "$562,080",
+					"volume_24": "$70,908",
+					"volume_marketcap_24": "0.2488",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "52,000,000,000,000",
+					"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+					"twitter": "DoctorSToken",
+					"telegram": "drstrangeann"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 17439,
+						"following_count": 26,
+						"tweet_count": 52,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12105
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19928",
+				"price": "$0.000000005554",
+				"variation": "20.80%",
+				"variation_is_up": false,
+				"rank": "#4513",
+				"watchlists": "2,317",
+				"marketcap": "$281,577",
+				"fully_diluted_marketcap": "$555,379",
+				"volume_24": "$73,709",
+				"volume_marketcap_24": "0.2618",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "52,000,000,000,000",
+				"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+				"twitter": "DoctorSToken",
+				"telegram": "drstrangeann"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 17661,
+					"following_count": 26,
+					"tweet_count": 52,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 12084
+			}
 		}
 	]
 }

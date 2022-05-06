@@ -5718,6 +5718,81 @@
 			"data_telegram": {
 				"data": 2795
 			}
+		},
+		{
+			"date": "06/05/2022 11:02:22",
+			"data_coin": {
+				"id": "19904",
+				"name": "Meta Course",
+				"symbol": "COURSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-course/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "03/05/2022 00:27:12",
+				"infoCoinMarketCap_1": {
+					"id": "19904",
+					"price": "$0.000000001224",
+					"variation": "347.89%",
+					"variation_is_up": true,
+					"rank": "#3216",
+					"watchlists": "474",
+					"marketcap": "$4,897,810",
+					"fully_diluted_marketcap": "$12,244,525",
+					"volume_24": "$1,021,943",
+					"volume_marketcap_24": "0.2087",
+					"max_supply": "10,000,000,000,000,000",
+					"total_supply": "10,000,000,000,000,000",
+					"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+					"telegram": "metacoursetoken",
+					"twitter": "metacoursetoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 283,
+						"following_count": 2,
+						"tweet_count": 28,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2789
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19904",
+				"price": "$0.000000001175",
+				"variation": "374.73%",
+				"variation_is_up": true,
+				"rank": "#3378",
+				"watchlists": "490",
+				"marketcap": "$4,699,687",
+				"fully_diluted_marketcap": "$11,749,218",
+				"volume_24": "$611,023",
+				"volume_marketcap_24": "0.13",
+				"max_supply": "10,000,000,000,000,000",
+				"total_supply": "10,000,000,000,000,000",
+				"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+				"telegram": "metacoursetoken",
+				"twitter": "metacoursetoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 287,
+					"following_count": 2,
+					"tweet_count": 28,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 2795
+			}
 		}
 	]
 }
