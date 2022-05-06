@@ -2718,6 +2718,81 @@
 			"data_telegram": {
 				"data": 12142
 			}
+		},
+		{
+			"date": "05/05/2022 22:54:06",
+			"data_coin": {
+				"id": "19928",
+				"name": "DoctorS Token",
+				"symbol": "DST",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/doctors-token/",
+				"price": "$0.000000008668",
+				"_1h": "9.57%",
+				"_1h_up": false,
+				"_24h": "9.57%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$866,796",
+				"volume": "$240,457",
+				"date": "04/05/2022 04:53:53",
+				"infoCoinMarketCap_1": {
+					"id": "19928",
+					"price": "$0.000000005389",
+					"variation": "44.84%",
+					"variation_is_up": false,
+					"rank": "#3843",
+					"watchlists": "2,087",
+					"marketcap": "$273,212",
+					"fully_diluted_marketcap": "$538,879",
+					"volume_24": "$246,621",
+					"volume_marketcap_24": "0.9027",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "52,000,000,000,000",
+					"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+					"twitter": "DoctorSToken",
+					"telegram": "drstrangeann"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16844,
+						"following_count": 21,
+						"tweet_count": 35,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12150
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19928",
+				"price": "$0.000000005354",
+				"variation": "34.40%",
+				"variation_is_up": false,
+				"rank": "#4706",
+				"watchlists": "2,290",
+				"marketcap": "$271,461",
+				"fully_diluted_marketcap": "$535,426",
+				"volume_24": "$54,005",
+				"volume_marketcap_24": "0.1989",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "52,000,000,000,000",
+				"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+				"twitter": "DoctorSToken",
+				"telegram": "drstrangeann"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16977,
+					"following_count": 21,
+					"tweet_count": 35,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 12142
+			}
 		}
 	]
 }

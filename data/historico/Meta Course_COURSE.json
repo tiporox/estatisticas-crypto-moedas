@@ -4818,6 +4818,81 @@
 			"data_telegram": {
 				"data": 2776
 			}
+		},
+		{
+			"date": "05/05/2022 22:53:24",
+			"data_coin": {
+				"id": "19904",
+				"name": "Meta Course",
+				"symbol": "COURSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-course/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "03/05/2022 00:27:12",
+				"infoCoinMarketCap_1": {
+					"id": "19904",
+					"price": "$0.0...02433",
+					"variation": "41.76%",
+					"variation_is_up": false,
+					"rank": "#4121",
+					"watchlists": "457",
+					"marketcap": "$973,247",
+					"fully_diluted_marketcap": "$2,433,117",
+					"volume_24": "$145,239",
+					"volume_marketcap_24": "0.1492",
+					"max_supply": "10,000,000,000,000,000",
+					"total_supply": "10,000,000,000,000,000",
+					"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+					"telegram": "metacoursetoken",
+					"twitter": "metacoursetoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 280,
+						"following_count": 2,
+						"tweet_count": 28,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2774
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19904",
+				"price": "$0.0...02355",
+				"variation": "53.24%",
+				"variation_is_up": false,
+				"rank": "#3906",
+				"watchlists": "458",
+				"marketcap": "$942,104",
+				"fully_diluted_marketcap": "$2,355,260",
+				"volume_24": "$189,303",
+				"volume_marketcap_24": "0.2009",
+				"max_supply": "10,000,000,000,000,000",
+				"total_supply": "10,000,000,000,000,000",
+				"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+				"telegram": "metacoursetoken",
+				"twitter": "metacoursetoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 280,
+					"following_count": 2,
+					"tweet_count": 28,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 2775
+			}
 		}
 	]
 }
