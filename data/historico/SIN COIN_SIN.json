@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 8034
 			}
+		},
+		{
+			"date": "06/05/2022 05:50:30",
+			"data_coin": {
+				"id": "20005",
+				"name": "SIN COIN",
+				"symbol": "SIN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sin-coin/",
+				"price": "$0.000001601",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$80,046,108",
+				"volume": "$20,519",
+				"date": "06/05/2022 04:49:14"
+			},
+			"data_coinmarketcap": {
+				"id": "20005",
+				"price": "$0.000002471",
+				"variation": "54.34%",
+				"variation_is_up": true,
+				"rank": "#4260",
+				"watchlists": "45",
+				"marketcap": "$123,546,123",
+				"fully_diluted_marketcap": "$123,546,123",
+				"volume_24": "$105,948",
+				"volume_marketcap_24": "0.0008576",
+				"max_supply": "--",
+				"total_supply": "49,999,999,999,997",
+				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+				"twitter": "SinworldPro",
+				"telegram": "sinworldofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12919,
+					"following_count": 7,
+					"tweet_count": 80,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 8109
+			}
 		}
 	]
 }
