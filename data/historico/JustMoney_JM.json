@@ -2354,6 +2354,79 @@
 			"data_telegram": {
 				"data": 1300
 			}
+		},
+		{
+			"date": "05/05/2022 23:55:01",
+			"data_coin": {
+				"id": "19946",
+				"name": "JustMoney",
+				"symbol": "JM",
+				"blockchain": "TRON",
+				"ativo": true,
+				"link": "/currencies/justmoney/",
+				"price": "$0.00002995",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,994,791",
+				"volume": "$162",
+				"date": "04/05/2022 10:08:00",
+				"infoCoinMarketCap_1": {
+					"id": "19946",
+					"price": "$0.00002843",
+					"variation": "14.13%",
+					"variation_is_up": false,
+					"rank": "#7234",
+					"watchlists": "103",
+					"marketcap": "$2,090,011",
+					"fully_diluted_marketcap": "$2,843,232",
+					"volume_24": "$474",
+					"volume_marketcap_24": "0.0002269",
+					"max_supply": "100,000,000,000",
+					"total_supply": "--",
+					"telegram": "JustMoneyTRX",
+					"twitter": "JustMoneyIO"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3595,
+						"following_count": 38,
+						"tweet_count": 367,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1299
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19946",
+				"price": "$0.00002942",
+				"variation": "8.22%",
+				"variation_is_up": false,
+				"rank": "#7310",
+				"watchlists": "103",
+				"marketcap": "$2,162,379",
+				"fully_diluted_marketcap": "$2,941,680",
+				"volume_24": "$390",
+				"volume_marketcap_24": "0.0001803",
+				"max_supply": "100,000,000,000",
+				"total_supply": "--",
+				"telegram": "JustMoneyTRX",
+				"twitter": "JustMoneyIO"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3606,
+					"following_count": 38,
+					"tweet_count": 367,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 1300
+			}
 		}
 	]
 }
