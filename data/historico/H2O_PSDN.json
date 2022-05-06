@@ -5347,6 +5347,79 @@
 			"data_telegram": {
 				"data": 899230
 			}
+		},
+		{
+			"date": "06/05/2022 09:00:35",
+			"data_coin": {
+				"id": "19908",
+				"name": "H2O",
+				"symbol": "PSDN",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/h2o-poseidon/",
+				"price": "$39.22",
+				"_1h": "0.02%",
+				"_1h_up": true,
+				"_24h": "0.02%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$39,222,644",
+				"volume": "$11,440",
+				"date": "03/05/2022 01:50:02",
+				"infoCoinMarketCap_1": {
+					"id": "19908",
+					"price": "$35.74",
+					"variation": "12.63%",
+					"variation_is_up": false,
+					"rank": "#6049",
+					"watchlists": "57",
+					"marketcap": "$831,054",
+					"fully_diluted_marketcap": "$35,744,204",
+					"volume_24": "$5,657",
+					"volume_marketcap_24": "0.006807",
+					"max_supply": "999,999",
+					"total_supply": "1,000,000",
+					"twitter": "H2O_data",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2839,
+						"following_count": 0,
+						"tweet_count": 170,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899230
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19908",
+				"price": "$35.08",
+				"variation": "13.41%",
+				"variation_is_up": false,
+				"rank": "#6153",
+				"watchlists": "57",
+				"marketcap": "$815,514",
+				"fully_diluted_marketcap": "$35,075,833",
+				"volume_24": "$4,658",
+				"volume_marketcap_24": "0.005712",
+				"max_supply": "999,999",
+				"total_supply": "1,000,000",
+				"twitter": "H2O_data",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2842,
+					"following_count": 0,
+					"tweet_count": 170,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 899233
+			}
 		}
 	]
 }
