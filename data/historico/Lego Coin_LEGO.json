@@ -1893,6 +1893,81 @@
 			"data_telegram": {
 				"data": 899320
 			}
+		},
+		{
+			"date": "06/05/2022 17:10:51",
+			"data_coin": {
+				"id": "19998",
+				"name": "Lego Coin",
+				"symbol": "LEGO",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/lego-coin/",
+				"price": "$0.0000009867",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$98,673,684",
+				"volume": "--",
+				"date": "05/05/2022 14:53:04",
+				"infoCoinMarketCap_1": {
+					"id": "19998",
+					"price": "$0.000001083",
+					"variation": "10.21%",
+					"variation_is_up": true,
+					"rank": "#10131",
+					"watchlists": "252",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$108,348,672",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x1f98bd9cb8db314ced46dc43c0a91a1f9adad4f5",
+					"twitter": "legocoinlive",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3306,
+						"following_count": 0,
+						"tweet_count": 24,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899297
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19998",
+				"price": "$0.000001093",
+				"variation": "11.80%",
+				"variation_is_up": true,
+				"rank": "#10125",
+				"watchlists": "257",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$109,271,267",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x1f98bd9cb8db314ced46dc43c0a91a1f9adad4f5",
+				"twitter": "legocoinlive",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3308,
+					"following_count": 0,
+					"tweet_count": 24,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 899334
+			}
 		}
 	]
 }
