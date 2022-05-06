@@ -906,6 +906,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "06/05/2022 17:19:19",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.000001808",
+					"variation": "11.36%",
+					"variation_is_up": false,
+					"rank": "#3826",
+					"watchlists": "179",
+					"marketcap": "$794,846",
+					"fully_diluted_marketcap": "$1,808,050",
+					"volume_24": "$232,427",
+					"volume_marketcap_24": "0.2924",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7682,
+						"following_count": 5,
+						"tweet_count": 47,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.000001843",
+				"variation": "9.62%",
+				"variation_is_up": false,
+				"rank": "#3820",
+				"watchlists": "199",
+				"marketcap": "$810,411",
+				"fully_diluted_marketcap": "$1,843,455",
+				"volume_24": "$235,509",
+				"volume_marketcap_24": "0.2906",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7683,
+					"following_count": 5,
+					"tweet_count": 47,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 1008
+			}
 		}
 	]
 }
