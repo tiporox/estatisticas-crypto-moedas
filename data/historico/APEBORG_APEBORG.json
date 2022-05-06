@@ -8533,6 +8533,72 @@
 			"data_telegram": {
 				"data": 8095
 			}
+		},
+		{
+			"date": "06/05/2022 10:00:04",
+			"data_coin": {
+				"id": "19844",
+				"name": "APEBORG",
+				"symbol": "APEBORG",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/apeborg/",
+				"date": "28/04/2022 04:55:19",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 23450,
+						"following_count": 32,
+						"tweet_count": 23,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8103
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19844",
+					"price": "$0.000000001409",
+					"variation": "7.61%",
+					"variation_is_up": false,
+					"rank": "#8647",
+					"watchlists": "3,917",
+					"marketcap": "$1,408,877",
+					"fully_diluted_marketcap": "$1,408,877",
+					"volume_24": "$0",
+					"volume_marketcap_24": "0.00000005",
+					"max_supply": "1,000,000,000,000,000",
+					"total_supply": "1,000,000,000,000,000",
+					"telegram": "APEBORG",
+					"twitter": "ApeborgToken"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19844",
+				"price": "$0.000000001399",
+				"variation": "8.18%",
+				"variation_is_up": false,
+				"rank": "#8645",
+				"watchlists": "3,917",
+				"marketcap": "$1,398,783",
+				"fully_diluted_marketcap": "$1,398,783",
+				"volume_24": "$0",
+				"volume_marketcap_24": "0.00000005",
+				"max_supply": "1,000,000,000,000,000",
+				"total_supply": "1,000,000,000,000,000",
+				"telegram": "APEBORG",
+				"twitter": "ApeborgToken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 23508,
+					"following_count": 32,
+					"tweet_count": 23,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 8091
+			}
 		}
 	]
 }
