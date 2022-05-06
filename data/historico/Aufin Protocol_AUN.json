@@ -8966,6 +8966,74 @@
 			"data_telegram": {
 				"data": 31586
 			}
+		},
+		{
+			"date": "06/05/2022 11:59:53",
+			"data_coin": {
+				"id": "19811",
+				"name": "Aufin Protocol",
+				"symbol": "AUN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/aunfin-protocol/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16297,
+						"following_count": 5,
+						"tweet_count": 27,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 31584
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19811",
+					"price": "$0.1617",
+					"variation": "21.20%",
+					"variation_is_up": false,
+					"rank": "#5847",
+					"watchlists": "10,563",
+					"marketcap": "$111,255",
+					"fully_diluted_marketcap": "$1,617,083,860",
+					"volume_24": "$8,602",
+					"volume_marketcap_24": "0.07732",
+					"max_supply": "10,000,000,000",
+					"total_supply": "1,000,000",
+					"contract": "0xB7F3d845D693C930Fa0fA1c4d71bB6Ba40ab6af4",
+					"telegram": "aufinbsc",
+					"twitter": "ProtocolAufin"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19811",
+				"price": "$0.1603",
+				"variation": "18.98%",
+				"variation_is_up": false,
+				"rank": "#5822",
+				"watchlists": "10,562",
+				"marketcap": "$110,307",
+				"fully_diluted_marketcap": "$1,603,304,166",
+				"volume_24": "$9,111",
+				"volume_marketcap_24": "0.0826",
+				"max_supply": "10,000,000,000",
+				"total_supply": "1,000,000",
+				"contract": "0xB7F3d845D693C930Fa0fA1c4d71bB6Ba40ab6af4",
+				"telegram": "aufinbsc",
+				"twitter": "ProtocolAufin"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16304,
+					"following_count": 5,
+					"tweet_count": 27,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 31590
+			}
 		}
 	]
 }
