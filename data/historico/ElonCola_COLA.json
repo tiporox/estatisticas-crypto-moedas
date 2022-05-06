@@ -1052,6 +1052,81 @@
 			"data_telegram": {
 				"data": 1010
 			}
+		},
+		{
+			"date": "06/05/2022 19:21:04",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.000001843",
+					"variation": "9.62%",
+					"variation_is_up": false,
+					"rank": "#3820",
+					"watchlists": "199",
+					"marketcap": "$810,411",
+					"fully_diluted_marketcap": "$1,843,455",
+					"volume_24": "$235,509",
+					"volume_marketcap_24": "0.2906",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7683,
+						"following_count": 5,
+						"tweet_count": 47,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1008
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.0000017",
+				"variation": "16.66%",
+				"variation_is_up": false,
+				"rank": "#3761",
+				"watchlists": "213",
+				"marketcap": "$747,299",
+				"fully_diluted_marketcap": "$1,699,894",
+				"volume_24": "$255,579",
+				"volume_marketcap_24": "0.342",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7667,
+					"following_count": 5,
+					"tweet_count": 47,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 1012
+			}
 		}
 	]
 }
