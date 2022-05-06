@@ -318,6 +318,81 @@
 			"data_telegram": {
 				"data": 190370
 			}
+		},
+		{
+			"date": "06/05/2022 12:04:41",
+			"data_coin": {
+				"id": "20008",
+				"name": "Freedom Protocol",
+				"symbol": "FREE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/freedom-protocol/",
+				"price": "$0.01219",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$3,163,004",
+				"date": "06/05/2022 07:00:45",
+				"infoCoinMarketCap_1": {
+					"id": "20008",
+					"price": "$0.01247",
+					"variation": "2.33%",
+					"variation_is_up": true,
+					"rank": "#2974",
+					"watchlists": "52",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$3,403,014",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "0x880BCe9321c79cAc1D290De6d31DDE722C606165",
+					"twitter": "freedomprot",
+					"telegram": "freedomprot_group"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 72633,
+						"following_count": 90,
+						"tweet_count": 592,
+						"listed_count": 33
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 190357
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20008",
+				"price": "$0.01341",
+				"variation": "9.98%",
+				"variation_is_up": true,
+				"rank": "#2971",
+				"watchlists": "577",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$3,532,179",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0x880BCe9321c79cAc1D290De6d31DDE722C606165",
+				"twitter": "freedomprot",
+				"telegram": "freedomprot_group"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 72650,
+					"following_count": 91,
+					"tweet_count": 594,
+					"listed_count": 33
+				}
+			},
+			"data_telegram": {
+				"data": 190394
+			}
 		}
 	]
 }
