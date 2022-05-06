@@ -8398,34 +8398,6 @@
 			"date": "05/05/2022 06:55:03",
 			"infoCoinMarketCap_1": {
 				"id": "19979",
-				"price": "$0.03806",
-				"variation": "3.69%",
-				"variation_is_up": false,
-				"rank": "#4059",
-				"watchlists": "1,046",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$42,286,026",
-				"volume_24": "$144,175",
-				"volume_marketcap_24": "--",
-				"max_supply": "1,111,111,111",
-				"total_supply": "1,111,111,111",
-				"contract": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
-				"twitter": "yusetoken",
-				"telegram": "Yusetokenofficial"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 43944,
-					"following_count": 28,
-					"tweet_count": 345,
-					"listed_count": 7
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 33712
-			},
-			"infoCoinMarketCap": {
-				"id": "19979",
 				"price": "$0.03822",
 				"variation": "3.29%",
 				"variation_is_up": false,
@@ -8441,7 +8413,7 @@
 				"twitter": "yusetoken",
 				"telegram": "Yusetokenofficial"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 43941,
 					"following_count": 28,
@@ -8449,8 +8421,36 @@
 					"listed_count": 7
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 33708
+			},
+			"infoCoinMarketCap": {
+				"id": "19979",
+				"price": "$0.03805",
+				"variation": "3.70%",
+				"variation_is_up": false,
+				"rank": "#4035",
+				"watchlists": "1,052",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$42,280,329",
+				"volume_24": "$153,335",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,111,111,111",
+				"total_supply": "1,111,111,111",
+				"contract": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
+				"twitter": "yusetoken",
+				"telegram": "Yusetokenofficial"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 43962,
+					"following_count": 28,
+					"tweet_count": 345,
+					"listed_count": 7
+				}
+			},
+			"dadosTelegram": {
+				"data": 33704
 			}
 		},
 		{
@@ -9448,7 +9448,39 @@
 			"dadosTelegram": {
 				"data": 415
 			}
+		},
+		{
+			"id": "20002",
+			"name": "ElonCola",
+			"symbol": "COLA",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/eloncola/",
+			"price": "$0.00000204",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$2,039,781",
+			"volume": "$118,870",
+			"date": "06/05/2022 04:07:41"
+		},
+		{
+			"id": "20001",
+			"name": "Takemichi Inu",
+			"symbol": "TAKE",
+			"blockchain": "Ethereum",
+			"ativo": true,
+			"link": "/currencies/takemichi-inu/",
+			"price": "$0.000001057",
+			"_1h": "0.52%",
+			"_1h_up": true,
+			"_24h": "0.52%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$2,114,678",
+			"volume": "$131,007",
+			"date": "06/05/2022 04:07:41"
 		}
 	],
-	"total": 139
+	"total": 141
 }
