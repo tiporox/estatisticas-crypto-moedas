@@ -914,6 +914,81 @@
 			"data_telegram": {
 				"data": 8195
 			}
+		},
+		{
+			"date": "06/05/2022 18:00:20",
+			"data_coin": {
+				"id": "20005",
+				"name": "SIN COIN",
+				"symbol": "SIN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sin-coin/",
+				"price": "$0.000001601",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$80,046,108",
+				"volume": "$20,519",
+				"date": "06/05/2022 04:49:14",
+				"infoCoinMarketCap_1": {
+					"id": "20005",
+					"price": "$0.000001611",
+					"variation": "0.66%",
+					"variation_is_up": true,
+					"rank": "#3850",
+					"watchlists": "183",
+					"marketcap": "$80,574,873",
+					"fully_diluted_marketcap": "$80,574,873",
+					"volume_24": "$223,396",
+					"volume_marketcap_24": "0.002773",
+					"max_supply": "--",
+					"total_supply": "49,999,999,999,997",
+					"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+					"twitter": "SinworldPro",
+					"telegram": "sinworldofficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12968,
+						"following_count": 7,
+						"tweet_count": 82,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8191
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20005",
+				"price": "$0.000001601",
+				"variation": "0.04%",
+				"variation_is_up": true,
+				"rank": "#3850",
+				"watchlists": "194",
+				"marketcap": "$80,074,502",
+				"fully_diluted_marketcap": "$80,074,502",
+				"volume_24": "$224,712",
+				"volume_marketcap_24": "0.002806",
+				"max_supply": "--",
+				"total_supply": "49,999,999,999,997",
+				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+				"twitter": "SinworldPro",
+				"telegram": "sinworldofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12972,
+					"following_count": 7,
+					"tweet_count": 82,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 8196
+			}
 		}
 	]
 }
