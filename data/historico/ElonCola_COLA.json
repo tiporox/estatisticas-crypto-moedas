@@ -2327,6 +2327,81 @@
 			"data_telegram": {
 				"data": 1752
 			}
+		},
+		{
+			"date": "07/05/2022 12:29:22",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.000001211",
+					"variation": "35.76%",
+					"variation_is_up": false,
+					"rank": "#3836",
+					"watchlists": "245",
+					"marketcap": "$532,317",
+					"fully_diluted_marketcap": "$1,210,871",
+					"volume_24": "$196,767",
+					"volume_marketcap_24": "0.3696",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7673,
+						"following_count": 5,
+						"tweet_count": 48,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1752
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.000001195",
+				"variation": "34.19%",
+				"variation_is_up": false,
+				"rank": "#3813",
+				"watchlists": "252",
+				"marketcap": "$525,333",
+				"fully_diluted_marketcap": "$1,194,984",
+				"volume_24": "$198,685",
+				"volume_marketcap_24": "0.3782",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7673,
+					"following_count": 5,
+					"tweet_count": 48,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 2844
+			}
 		}
 	]
 }
