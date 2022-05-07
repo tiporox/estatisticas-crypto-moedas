@@ -168,6 +168,81 @@
 			"data_telegram": {
 				"data": 9605
 			}
+		},
+		{
+			"date": "07/05/2022 19:23:08",
+			"data_coin": {
+				"id": "20015",
+				"name": "ELON BUYS COKE COLA",
+				"symbol": "EBCC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-buys-coke-cola/",
+				"price": "$0.000002835",
+				"_1h": "1.12%",
+				"_1h_up": false,
+				"_24h": "1.12%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,835,338",
+				"volume": "$64,526",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20015",
+					"price": "$0.000004914",
+					"variation": "71.39%",
+					"variation_is_up": true,
+					"rank": "#4335",
+					"watchlists": "43",
+					"marketcap": "$3,440,124",
+					"fully_diluted_marketcap": "$4,914,463",
+					"volume_24": "$80,560",
+					"volume_marketcap_24": "0.02342",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+					"telegram": "elonbuyscoke",
+					"twitter": "ElonBuysCoke"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3767,
+						"following_count": 2,
+						"tweet_count": 23,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 9573
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20015",
+				"price": "$0.000006085",
+				"variation": "112.20%",
+				"variation_is_up": true,
+				"rank": "#4222",
+				"watchlists": "95",
+				"marketcap": "$4,259,246",
+				"fully_diluted_marketcap": "$6,084,637",
+				"volume_24": "$97,846",
+				"volume_marketcap_24": "0.02297",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+				"telegram": "elonbuyscoke",
+				"twitter": "ElonBuysCoke"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3774,
+					"following_count": 2,
+					"tweet_count": 23,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 9624
+			}
 		}
 	]
 }
