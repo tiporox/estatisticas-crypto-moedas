@@ -3093,6 +3093,81 @@
 			"data_telegram": {
 				"data": 7177
 			}
+		},
+		{
+			"date": "07/05/2022 07:56:29",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000002923",
+					"variation": "8.60%",
+					"variation_is_up": false,
+					"rank": "#4433",
+					"watchlists": "363",
+					"marketcap": "$292,253",
+					"fully_diluted_marketcap": "$292,253",
+					"volume_24": "$71,393",
+					"volume_marketcap_24": "0.2443",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6353,
+						"following_count": 28,
+						"tweet_count": 45,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7177
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000002592",
+				"variation": "18.70%",
+				"variation_is_up": false,
+				"rank": "#4390",
+				"watchlists": "368",
+				"marketcap": "$259,152",
+				"fully_diluted_marketcap": "$259,152",
+				"volume_24": "$76,626",
+				"volume_marketcap_24": "0.2957",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6369,
+					"following_count": 28,
+					"tweet_count": 45,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7170
+			}
 		}
 	]
 }
