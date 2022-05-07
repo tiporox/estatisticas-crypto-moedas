@@ -7818,6 +7818,81 @@
 			"data_telegram": {
 				"data": 2826
 			}
+		},
+		{
+			"date": "07/05/2022 15:17:54",
+			"data_coin": {
+				"id": "19904",
+				"name": "Meta Course",
+				"symbol": "COURSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-course/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "03/05/2022 00:27:12",
+				"infoCoinMarketCap_1": {
+					"id": "19904",
+					"price": "$0.0...02773",
+					"variation": "3.48%",
+					"variation_is_up": true,
+					"rank": "#4322",
+					"watchlists": "543",
+					"marketcap": "$1,109,168",
+					"fully_diluted_marketcap": "$2,772,920",
+					"volume_24": "$82,487",
+					"volume_marketcap_24": "0.07437",
+					"max_supply": "10,000,000,000,000,000",
+					"total_supply": "10,000,000,000,000,000",
+					"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+					"telegram": "metacoursetoken",
+					"twitter": "metacoursetoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 315,
+						"following_count": 2,
+						"tweet_count": 29,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2823
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19904",
+				"price": "$0.0...02837",
+				"variation": "60.32%",
+				"variation_is_up": false,
+				"rank": "#4225",
+				"watchlists": "541",
+				"marketcap": "$1,134,835",
+				"fully_diluted_marketcap": "$2,837,087",
+				"volume_24": "$96,765",
+				"volume_marketcap_24": "0.08527",
+				"max_supply": "10,000,000,000,000,000",
+				"total_supply": "10,000,000,000,000,000",
+				"contract": "0x5466b664a8b18a4545b15d41d01bada764c918db",
+				"telegram": "metacoursetoken",
+				"twitter": "metacoursetoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 315,
+					"following_count": 2,
+					"tweet_count": 29,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 2828
+			}
 		}
 	]
 }
