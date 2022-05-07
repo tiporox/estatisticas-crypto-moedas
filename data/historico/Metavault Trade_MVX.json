@@ -3093,6 +3093,81 @@
 			"data_telegram": {
 				"data": 527
 			}
+		},
+		{
+			"date": "07/05/2022 01:21:25",
+			"data_coin": {
+				"id": "19973",
+				"name": "Metavault Trade",
+				"symbol": "MVX",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/metavault-trade/",
+				"price": "$1.12",
+				"_1h": "0.17%",
+				"_1h_up": true,
+				"_24h": "0.17%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$11,173,816",
+				"volume": "$42,037",
+				"date": "05/05/2022 06:51:01",
+				"infoCoinMarketCap_1": {
+					"id": "19973",
+					"price": "$1.02",
+					"variation": "1.02%",
+					"variation_is_up": true,
+					"rank": "#4504",
+					"watchlists": "55",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$10,182,685",
+					"volume_24": "$63,238",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000",
+					"total_supply": "6,000,000",
+					"contract": "0x2760E46d9BB43dafCbEcaad1F64b93207f9f0eD7",
+					"telegram": "MetavaultTrade",
+					"twitter": "MetavaultDAO"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7272,
+						"following_count": 17,
+						"tweet_count": 68,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 528
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19973",
+				"price": "$0.9954",
+				"variation": "1.14%",
+				"variation_is_up": true,
+				"rank": "#5538",
+				"watchlists": "56",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$9,954,346",
+				"volume_24": "$10,542",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000",
+				"total_supply": "6,000,000",
+				"contract": "0x2760E46d9BB43dafCbEcaad1F64b93207f9f0eD7",
+				"telegram": "MetavaultTrade",
+				"twitter": "MetavaultDAO"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7259,
+					"following_count": 17,
+					"tweet_count": 68,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 527
+			}
 		}
 	]
 }
