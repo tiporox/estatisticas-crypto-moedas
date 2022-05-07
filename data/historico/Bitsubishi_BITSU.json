@@ -10830,6 +10830,74 @@
 			"data_telegram": {
 				"data": 10258
 			}
+		},
+		{
+			"date": "07/05/2022 16:17:00",
+			"data_coin": {
+				"id": "19852",
+				"name": "Bitsubishi",
+				"symbol": "BITSU",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/bitsubishi/",
+				"date": "28/04/2022 10:53:08",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16745,
+						"following_count": 2,
+						"tweet_count": 66,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 10253
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19852",
+					"price": "$6.32",
+					"variation": "1.62%",
+					"variation_is_up": false,
+					"rank": "#7288",
+					"watchlists": "302",
+					"marketcap": "$2,002,507,765",
+					"fully_diluted_marketcap": "$2,107,902,913",
+					"volume_24": "$436",
+					"volume_marketcap_24": "0.00000022",
+					"max_supply": "333,333,333",
+					"total_supply": "333,333,333",
+					"contract": "0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d",
+					"telegram": "Bitsubishi",
+					"twitter": "Bitsubishi"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19852",
+				"price": "$6.36",
+				"variation": "0.89%",
+				"variation_is_up": false,
+				"rank": "#7293",
+				"watchlists": "302",
+				"marketcap": "$2,013,152,567",
+				"fully_diluted_marketcap": "$2,119,107,968",
+				"volume_24": "$439",
+				"volume_marketcap_24": "0.00000022",
+				"max_supply": "333,333,333",
+				"total_supply": "333,333,333",
+				"contract": "0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d",
+				"telegram": "Bitsubishi",
+				"twitter": "Bitsubishi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16750,
+					"following_count": 2,
+					"tweet_count": 66,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 10257
+			}
 		}
 	]
 }
