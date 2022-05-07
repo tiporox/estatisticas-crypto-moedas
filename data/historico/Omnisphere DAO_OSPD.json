@@ -3618,6 +3618,81 @@
 			"data_telegram": {
 				"data": 123292
 			}
+		},
+		{
+			"date": "07/05/2022 14:04:59",
+			"data_coin": {
+				"id": "19989",
+				"name": "Omnisphere DAO",
+				"symbol": "OSPD",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/omnisphere-dao/",
+				"price": "$0.00003618",
+				"_1h": "0.01%",
+				"_1h_up": false,
+				"_24h": "0.01%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,713,457",
+				"volume": "$322,509",
+				"date": "05/05/2022 12:35:45",
+				"infoCoinMarketCap_1": {
+					"id": "19989",
+					"price": "$0.00005552",
+					"variation": "1.39%",
+					"variation_is_up": true,
+					"rank": "#3716",
+					"watchlists": "365",
+					"marketcap": "$1,943,298",
+					"fully_diluted_marketcap": "$4,164,210",
+					"volume_24": "$240,196",
+					"volume_marketcap_24": "0.1236",
+					"max_supply": "75,000,000,000",
+					"total_supply": "100,000,000,000",
+					"twitter": "OmnisphereDAO",
+					"telegram": "OmnisphereDaoGlobal",
+					"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 73905,
+						"following_count": 65,
+						"tweet_count": 46,
+						"listed_count": 13
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 123269
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19989",
+				"price": "$0.00005339",
+				"variation": "2.48%",
+				"variation_is_up": false,
+				"rank": "#3705",
+				"watchlists": "367",
+				"marketcap": "$1,868,536",
+				"fully_diluted_marketcap": "$4,004,006",
+				"volume_24": "$245,811",
+				"volume_marketcap_24": "0.1316",
+				"max_supply": "75,000,000,000",
+				"total_supply": "100,000,000,000",
+				"twitter": "OmnisphereDAO",
+				"telegram": "OmnisphereDaoGlobal",
+				"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 74002,
+					"following_count": 65,
+					"tweet_count": 47,
+					"listed_count": 13
+				}
+			},
+			"data_telegram": {
+				"data": 123035
+			}
 		}
 	]
 }
