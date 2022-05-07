@@ -2102,6 +2102,81 @@
 			"data_telegram": {
 				"data": 1758
 			}
+		},
+		{
+			"date": "07/05/2022 09:28:19",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.0000012",
+					"variation": "48.41%",
+					"variation_is_up": false,
+					"rank": "#3847",
+					"watchlists": "238",
+					"marketcap": "$527,447",
+					"fully_diluted_marketcap": "$1,199,792",
+					"volume_24": "$196,490",
+					"volume_marketcap_24": "0.3725",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7672,
+						"following_count": 5,
+						"tweet_count": 47,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1759
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.000001217",
+				"variation": "36.78%",
+				"variation_is_up": false,
+				"rank": "#3836",
+				"watchlists": "241",
+				"marketcap": "$534,808",
+				"fully_diluted_marketcap": "$1,216,536",
+				"volume_24": "$197,622",
+				"volume_marketcap_24": "0.3695",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7673,
+					"following_count": 5,
+					"tweet_count": 47,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 1757
+			}
 		}
 	]
 }
