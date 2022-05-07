@@ -4763,6 +4763,79 @@
 			"data_telegram": {
 				"data": 16190
 			}
+		},
+		{
+			"date": "07/05/2022 01:12:08",
+			"data_coin": {
+				"id": "19899",
+				"name": "Evmos",
+				"symbol": "EVMOS",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/evmos/",
+				"price": "$3.78",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$1,089,207",
+				"date": "04/05/2022 01:45:02",
+				"infoCoinMarketCap_1": {
+					"id": "19899",
+					"price": "$3.76",
+					"variation": "5.10%",
+					"variation_is_up": false,
+					"rank": "#3847",
+					"watchlists": "850",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$198,321",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "EvmosOrg",
+					"telegram": "EvmosOrg"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 85417,
+						"following_count": 149,
+						"tweet_count": 874,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 16191
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19899",
+				"price": "$3.99",
+				"variation": "6.42%",
+				"variation_is_up": false,
+				"rank": "#3933",
+				"watchlists": "860",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$165,816",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "EvmosOrg",
+				"telegram": "EvmosOrg"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 85399,
+					"following_count": 149,
+					"tweet_count": 874,
+					"listed_count": 1080
+				}
+			},
+			"data_telegram": {
+				"data": 16192
+			}
 		}
 	]
 }
