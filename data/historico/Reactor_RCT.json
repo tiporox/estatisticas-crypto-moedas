@@ -3295,6 +3295,79 @@
 			"data_telegram": {
 				"data": 422
 			}
+		},
+		{
+			"date": "07/05/2022 18:11:40",
+			"data_coin": {
+				"id": "19980",
+				"name": "Reactor",
+				"symbol": "RCT",
+				"blockchain": "Terra",
+				"ativo": true,
+				"link": "/currencies/reactor-2/",
+				"price": "$0.6335",
+				"_1h": "0.13%",
+				"_1h_up": false,
+				"_24h": "0.13%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$63,350,154",
+				"volume": "$901",
+				"date": "05/05/2022 19:41:55",
+				"infoCoinMarketCap_1": {
+					"id": "19980",
+					"price": "$0.4912",
+					"variation": "13.61%",
+					"variation_is_up": false,
+					"rank": "#5051",
+					"watchlists": "54",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$49,124,325",
+					"volume_24": "$25,997",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000",
+					"total_supply": "2,500,000",
+					"twitter": "reactor_money",
+					"telegram": "RCTannouncement"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6102,
+						"following_count": 26,
+						"tweet_count": 141,
+						"listed_count": 125
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 422
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19980",
+				"price": "$0.4877",
+				"variation": "13.77%",
+				"variation_is_up": false,
+				"rank": "#5102",
+				"watchlists": "57",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$48,772,383",
+				"volume_24": "$24,544",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000",
+				"total_supply": "2,500,000",
+				"twitter": "reactor_money",
+				"telegram": "RCTannouncement"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6109,
+					"following_count": 26,
+					"tweet_count": 141,
+					"listed_count": 126
+				}
+			},
+			"data_telegram": {
+				"data": 424
+			}
 		}
 	]
 }
