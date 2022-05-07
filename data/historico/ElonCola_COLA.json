@@ -1802,6 +1802,81 @@
 			"data_telegram": {
 				"data": 1769
 			}
+		},
+		{
+			"date": "07/05/2022 05:26:18",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.000001254",
+					"variation": "38.52%",
+					"variation_is_up": false,
+					"rank": "#3862",
+					"watchlists": "225",
+					"marketcap": "$551,331",
+					"fully_diluted_marketcap": "$1,254,123",
+					"volume_24": "$193,050",
+					"volume_marketcap_24": "0.3502",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7672,
+						"following_count": 5,
+						"tweet_count": 47,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1776
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.000001195",
+				"variation": "50.65%",
+				"variation_is_up": false,
+				"rank": "#3848",
+				"watchlists": "230",
+				"marketcap": "$525,385",
+				"fully_diluted_marketcap": "$1,195,101",
+				"volume_24": "$196,660",
+				"volume_marketcap_24": "0.3743",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7671,
+					"following_count": 5,
+					"tweet_count": 47,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 1766
+			}
 		}
 	]
 }
