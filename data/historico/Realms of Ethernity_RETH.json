@@ -764,6 +764,81 @@
 			"data_telegram": {
 				"data": 28905
 			}
+		},
+		{
+			"date": "06/05/2022 22:30:30",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.05208",
+					"variation": "18.38%",
+					"variation_is_up": true,
+					"rank": "#8603",
+					"watchlists": "263",
+					"marketcap": "$911,385",
+					"fully_diluted_marketcap": "$71,765,061",
+					"volume_24": "$0",
+					"volume_marketcap_24": "0.00000008",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 124109,
+						"following_count": 53,
+						"tweet_count": 1408,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28902
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.05199",
+				"variation": "18.17%",
+				"variation_is_up": true,
+				"rank": "#4101",
+				"watchlists": "286",
+				"marketcap": "$909,756",
+				"fully_diluted_marketcap": "$71,636,752",
+				"volume_24": "$122,951",
+				"volume_marketcap_24": "0.1351",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 124106,
+					"following_count": 53,
+					"tweet_count": 1408,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28909
+			}
 		}
 	]
 }
