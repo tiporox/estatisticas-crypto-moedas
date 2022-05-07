@@ -4593,6 +4593,81 @@
 			"data_telegram": {
 				"data": 12050
 			}
+		},
+		{
+			"date": "07/05/2022 00:12:07",
+			"data_coin": {
+				"id": "19928",
+				"name": "DoctorS Token",
+				"symbol": "DST",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/doctors-token/",
+				"price": "$0.000000008668",
+				"_1h": "9.57%",
+				"_1h_up": false,
+				"_24h": "9.57%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$866,796",
+				"volume": "$240,457",
+				"date": "04/05/2022 04:53:53",
+				"infoCoinMarketCap_1": {
+					"id": "19928",
+					"price": "$0.000000005431",
+					"variation": "1.43%",
+					"variation_is_up": true,
+					"rank": "#5056",
+					"watchlists": "2,301",
+					"marketcap": "$275,360",
+					"fully_diluted_marketcap": "$543,116",
+					"volume_24": "$25,992",
+					"volume_marketcap_24": "0.09439",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "52,000,000,000,000",
+					"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+					"twitter": "DoctorSToken",
+					"telegram": "drstrangeann"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 18198,
+						"following_count": 26,
+						"tweet_count": 52,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12055
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19928",
+				"price": "$0.00000000416",
+				"variation": "22.57%",
+				"variation_is_up": false,
+				"rank": "#4901",
+				"watchlists": "2,463",
+				"marketcap": "$210,926",
+				"fully_diluted_marketcap": "$416,027",
+				"volume_24": "$33,371",
+				"volume_marketcap_24": "0.1582",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "52,000,000,000,000",
+				"contract": "0xa128a6216a8e8def817a31a06290f8055d6add2f",
+				"twitter": "DoctorSToken",
+				"telegram": "drstrangeann"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 18232,
+					"following_count": 26,
+					"tweet_count": 52,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 12047
+			}
 		}
 	]
 }
