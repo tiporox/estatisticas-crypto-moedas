@@ -689,6 +689,81 @@
 			"data_telegram": {
 				"data": 28902
 			}
+		},
+		{
+			"date": "06/05/2022 21:29:29",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.05198",
+					"variation": "18.16%",
+					"variation_is_up": true,
+					"rank": "#7055",
+					"watchlists": "247",
+					"marketcap": "$909,690",
+					"fully_diluted_marketcap": "$71,631,580",
+					"volume_24": "$974",
+					"volume_marketcap_24": "0.001071",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 124106,
+						"following_count": 53,
+						"tweet_count": 1408,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28897
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.05102",
+				"variation": "15.97%",
+				"variation_is_up": true,
+				"rank": "#7411",
+				"watchlists": "279",
+				"marketcap": "$892,811",
+				"fully_diluted_marketcap": "$70,302,476",
+				"volume_24": "$276",
+				"volume_marketcap_24": "0.0003095",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 124109,
+					"following_count": 53,
+					"tweet_count": 1408,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28905
+			}
 		}
 	]
 }
