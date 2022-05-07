@@ -3318,6 +3318,81 @@
 			"data_telegram": {
 				"data": 123172
 			}
+		},
+		{
+			"date": "07/05/2022 10:03:12",
+			"data_coin": {
+				"id": "19989",
+				"name": "Omnisphere DAO",
+				"symbol": "OSPD",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/omnisphere-dao/",
+				"price": "$0.00003618",
+				"_1h": "0.01%",
+				"_1h_up": false,
+				"_24h": "0.01%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,713,457",
+				"volume": "$322,509",
+				"date": "05/05/2022 12:35:45",
+				"infoCoinMarketCap_1": {
+					"id": "19989",
+					"price": "$0.00005834",
+					"variation": "2.30%",
+					"variation_is_up": true,
+					"rank": "#3845",
+					"watchlists": "351",
+					"marketcap": "$2,041,924",
+					"fully_diluted_marketcap": "$4,375,551",
+					"volume_24": "$196,567",
+					"volume_marketcap_24": "0.09627",
+					"max_supply": "75,000,000,000",
+					"total_supply": "100,000,000,000",
+					"twitter": "OmnisphereDAO",
+					"telegram": "OmnisphereDaoGlobal",
+					"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 73538,
+						"following_count": 65,
+						"tweet_count": 46,
+						"listed_count": 13
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 123132
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19989",
+				"price": "$0.00005507",
+				"variation": "0.17%",
+				"variation_is_up": false,
+				"rank": "#3737",
+				"watchlists": "357",
+				"marketcap": "$1,927,555",
+				"fully_diluted_marketcap": "$4,130,474",
+				"volume_24": "$237,442",
+				"volume_marketcap_24": "0.1232",
+				"max_supply": "75,000,000,000",
+				"total_supply": "100,000,000,000",
+				"twitter": "OmnisphereDAO",
+				"telegram": "OmnisphereDaoGlobal",
+				"contract": "0x73F3228226cD1cDFD42834240AE9C33F2fbf876A"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 73742,
+					"following_count": 65,
+					"tweet_count": 46,
+					"listed_count": 13
+				}
+			},
+			"data_telegram": {
+				"data": 123200
+			}
 		}
 	]
 }
