@@ -7443,6 +7443,81 @@
 			"data_telegram": {
 				"data": 899267
 			}
+		},
+		{
+			"date": "07/05/2022 09:15:04",
+			"data_coin": {
+				"id": "19901",
+				"name": "VR Blocks",
+				"symbol": "VRBLOCKS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/vr-blocks/",
+				"price": "$0.05686",
+				"_1h": "13.74%",
+				"_1h_up": true,
+				"_24h": "13.74%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,843,228",
+				"volume": "$111,949",
+				"date": "02/05/2022 23:52:51",
+				"infoCoinMarketCap_1": {
+					"id": "19901",
+					"price": "$0.03244",
+					"variation": "3.73%",
+					"variation_is_up": false,
+					"rank": "#5982",
+					"watchlists": "100",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$1,621,764",
+					"volume_24": "$5,009",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "50,000,000",
+					"contract": "0xce42b6cdF5FAf84C6C3923a8c6c2324031f7692b",
+					"twitter": "vrblocks",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7063,
+						"following_count": 22,
+						"tweet_count": 13,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899286
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19901",
+				"price": "$0.03149",
+				"variation": "5.36%",
+				"variation_is_up": false,
+				"rank": "#5975",
+				"watchlists": "100",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,574,261",
+				"volume_24": "$5,155",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "50,000,000",
+				"contract": "0xce42b6cdF5FAf84C6C3923a8c6c2324031f7692b",
+				"twitter": "vrblocks",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7062,
+					"following_count": 22,
+					"tweet_count": 13,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 899247
+			}
 		}
 	]
 }

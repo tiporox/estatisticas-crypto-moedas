@@ -8121,6 +8121,79 @@
 			"data_telegram": {
 				"data": 15587
 			}
+		},
+		{
+			"date": "07/05/2022 09:15:01",
+			"data_coin": {
+				"id": "19897",
+				"name": "5KM",
+				"symbol": "KMT",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/5km/",
+				"price": "$0.03962",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,980,902",
+				"volume": "$33,477",
+				"date": "02/05/2022 10:47:05",
+				"infoCoinMarketCap_1": {
+					"id": "19897",
+					"price": "$0.1891",
+					"variation": "4.72%",
+					"variation_is_up": true,
+					"rank": "#3541",
+					"watchlists": "554",
+					"marketcap": "$9,455,166",
+					"fully_diluted_marketcap": "$9,455,166",
+					"volume_24": "$365,267",
+					"volume_marketcap_24": "0.03863",
+					"max_supply": "--",
+					"total_supply": "50,000,000",
+					"twitter": "5kmToday",
+					"telegram": "Five5km"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 32566,
+						"following_count": 40,
+						"tweet_count": 328,
+						"listed_count": 49
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 15530
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19897",
+				"price": "$0.1777",
+				"variation": "0.19%",
+				"variation_is_up": false,
+				"rank": "#3533",
+				"watchlists": "563",
+				"marketcap": "$8,885,095",
+				"fully_diluted_marketcap": "$8,885,095",
+				"volume_24": "$367,190",
+				"volume_marketcap_24": "0.04133",
+				"max_supply": "--",
+				"total_supply": "50,000,000",
+				"twitter": "5kmToday",
+				"telegram": "Five5km"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 32665,
+					"following_count": 40,
+					"tweet_count": 328,
+					"listed_count": 48
+				}
+			},
+			"data_telegram": {
+				"data": 15639
+			}
 		}
 	]
 }
