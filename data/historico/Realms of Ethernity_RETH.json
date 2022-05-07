@@ -1739,6 +1739,81 @@
 			"data_telegram": {
 				"data": 28820
 			}
+		},
+		{
+			"date": "07/05/2022 11:36:17",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.05072",
+					"variation": "15.29%",
+					"variation_is_up": true,
+					"rank": "#4103",
+					"watchlists": "405",
+					"marketcap": "$887,616",
+					"fully_diluted_marketcap": "$69,893,452",
+					"volume_24": "$124,731",
+					"volume_marketcap_24": "0.1405",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 123675,
+						"following_count": 53,
+						"tweet_count": 1412,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28845
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.05053",
+				"variation": "3.13%",
+				"variation_is_up": false,
+				"rank": "#5768",
+				"watchlists": "429",
+				"marketcap": "$884,322",
+				"fully_diluted_marketcap": "$69,634,023",
+				"volume_24": "$7,650",
+				"volume_marketcap_24": "0.00865",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 123673,
+					"following_count": 53,
+					"tweet_count": 1415,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28815
+			}
 		}
 	]
 }
