@@ -4893,6 +4893,81 @@
 			"data_telegram": {
 				"data": 7062
 			}
+		},
+		{
+			"date": "08/05/2022 08:08:41",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000001622",
+					"variation": "44.29%",
+					"variation_is_up": false,
+					"rank": "#4978",
+					"watchlists": "390",
+					"marketcap": "$162,181",
+					"fully_diluted_marketcap": "$162,181",
+					"volume_24": "$30,149",
+					"volume_marketcap_24": "0.1859",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6290,
+						"following_count": 29,
+						"tweet_count": 46,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7068
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000001576",
+				"variation": "32.57%",
+				"variation_is_up": false,
+				"rank": "#4987",
+				"watchlists": "394",
+				"marketcap": "$157,565",
+				"fully_diluted_marketcap": "$157,565",
+				"volume_24": "$30,443",
+				"volume_marketcap_24": "0.1932",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6304,
+					"following_count": 29,
+					"tweet_count": 46,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7055
+			}
 		}
 	]
 }
