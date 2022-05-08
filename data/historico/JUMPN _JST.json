@@ -11210,6 +11210,74 @@
 			"data_telegram": {
 				"data": 198320
 			}
+		},
+		{
+			"date": "07/05/2022 21:18:53",
+			"data_coin": {
+				"id": "19810",
+				"name": "JUMPN ",
+				"symbol": "JST",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/jumpn/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 64813,
+						"following_count": 15,
+						"tweet_count": 178,
+						"listed_count": 33
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 198584
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19810",
+					"price": "$64.22",
+					"variation": "18.30%",
+					"variation_is_up": false,
+					"rank": "#4715",
+					"watchlists": "3,877",
+					"marketcap": "$6,422,311,226,994",
+					"fully_diluted_marketcap": "$6,422,311,233,481",
+					"volume_24": "$47,333",
+					"volume_marketcap_24": "0.00000001",
+					"max_supply": "100,000,000,000",
+					"total_supply": "99,999,999,899",
+					"contract": "0xee6cacddd3a9370d87db581ee6728226883578e5",
+					"telegram": "JUMPNofficialGroup",
+					"twitter": "JUMPNofficial"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19810",
+				"price": "$62.56",
+				"variation": "28.78%",
+				"variation_is_up": false,
+				"rank": "#5195",
+				"watchlists": "3,881",
+				"marketcap": "$6,255,812,374,193",
+				"fully_diluted_marketcap": "$6,255,812,380,511",
+				"volume_24": "$16,976",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000",
+				"total_supply": "99,999,999,899",
+				"contract": "0xee6cacddd3a9370d87db581ee6728226883578e5",
+				"telegram": "JUMPNofficialGroup",
+				"twitter": "JUMPNofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 64818,
+					"following_count": 15,
+					"tweet_count": 178,
+					"listed_count": 33
+				}
+			},
+			"data_telegram": {
+				"data": 198019
+			}
 		}
 	]
 }
