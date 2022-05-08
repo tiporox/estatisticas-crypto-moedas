@@ -456,6 +456,79 @@
 			"data_telegram": {
 				"data": 45
 			}
+		},
+		{
+			"date": "07/05/2022 23:25:08",
+			"data_coin": {
+				"id": "20017",
+				"name": "Moneta Digital",
+				"symbol": "MMXN",
+				"blockchain": "TRON",
+				"ativo": true,
+				"link": "/currencies/moneta-digital/",
+				"price": "$0.04951",
+				"_1h": "0.09%",
+				"_1h_up": false,
+				"_24h": "0.09%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,950,631,828",
+				"volume": "--",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20017",
+					"price": "$0.0495",
+					"variation": "0.10%",
+					"variation_is_up": false,
+					"rank": "#10121",
+					"watchlists": "29",
+					"marketcap": "$1,187,941",
+					"fully_diluted_marketcap": "$4,949,756,052",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "MonetaDigitalMMXN",
+					"twitter": "MMXN_Moneta"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1491,
+						"following_count": 103,
+						"tweet_count": 316,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 45
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20017",
+				"price": "$0.04961",
+				"variation": "0.13%",
+				"variation_is_up": true,
+				"rank": "#10122",
+				"watchlists": "37",
+				"marketcap": "$1,190,689",
+				"fully_diluted_marketcap": "$4,961,202,266",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "MonetaDigitalMMXN",
+				"twitter": "MMXN_Moneta"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1493,
+					"following_count": 103,
+					"tweet_count": 316,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 46
+			}
 		}
 	]
 }
