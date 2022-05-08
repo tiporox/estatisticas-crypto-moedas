@@ -8758,33 +8758,6 @@
 			"date": "05/05/2022 12:25:38",
 			"infoCoinMarketCap_1": {
 				"id": "19988",
-				"price": "$0.0...02797",
-				"variation": "2.39%",
-				"variation_is_up": false,
-				"rank": "#5267",
-				"watchlists": "354",
-				"marketcap": "$2,472,684",
-				"fully_diluted_marketcap": "$2,796,745",
-				"volume_24": "$17,265",
-				"volume_marketcap_24": "0.006982",
-				"max_supply": "1,000,000,000,000,000,000",
-				"total_supply": "884,129,240,357,135,000",
-				"twitter": "Doshi_Token",
-				"telegram": "DoshiPortal"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 4987,
-					"following_count": 164,
-					"tweet_count": 341,
-					"listed_count": 1
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 1068
-			},
-			"infoCoinMarketCap": {
-				"id": "19988",
 				"price": "$0.0...02707",
 				"variation": "5.56%",
 				"variation_is_up": false,
@@ -8799,7 +8772,7 @@
 				"twitter": "Doshi_Token",
 				"telegram": "DoshiPortal"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 4999,
 					"following_count": 164,
@@ -8807,8 +8780,35 @@
 					"listed_count": 1
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 1069
+			},
+			"infoCoinMarketCap": {
+				"id": "19988",
+				"price": "$0.0...02721",
+				"variation": "5.21%",
+				"variation_is_up": false,
+				"rank": "#5237",
+				"watchlists": "356",
+				"marketcap": "$2,405,655",
+				"fully_diluted_marketcap": "$2,720,931",
+				"volume_24": "$19,309",
+				"volume_marketcap_24": "0.008027",
+				"max_supply": "1,000,000,000,000,000,000",
+				"total_supply": "884,129,240,357,135,000",
+				"twitter": "Doshi_Token",
+				"telegram": "DoshiPortal"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 5000,
+					"following_count": 164,
+					"tweet_count": 341,
+					"listed_count": 1
+				}
+			},
+			"dadosTelegram": {
+				"data": 1073
 			}
 		},
 		{
@@ -10162,7 +10162,39 @@
 			"dadosTelegram": {
 				"data": 9592
 			}
+		},
+		{
+			"id": "20020",
+			"name": "LetCoinShop",
+			"symbol": "LCS",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/letcoinshop/",
+			"price": "$0.05021",
+			"_1h": "33.36%",
+			"_1h_up": true,
+			"_24h": "33.36%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$25,105,094",
+			"volume": "$12,904",
+			"date": "08/05/2022 08:07:12"
+		},
+		{
+			"id": "20019",
+			"name": "BelecX Protocol",
+			"symbol": "BEX",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/belecx-protocol/",
+			"price": "$0.0138",
+			"_1h": "10.64%",
+			"_1h_up": false,
+			"_24h": "10.64%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$1,379,171",
+			"volume": "$110,210",
+			"date": "08/05/2022 08:07:12"
 		}
 	],
-	"total": 149
+	"total": 151
 }
