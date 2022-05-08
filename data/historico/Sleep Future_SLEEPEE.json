@@ -543,6 +543,79 @@
 			"data_telegram": {
 				"data": 53696
 			}
+		},
+		{
+			"date": "08/05/2022 00:25:24",
+			"data_coin": {
+				"id": "20016",
+				"name": "Sleep Future",
+				"symbol": "SLEEPEE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sleep-future/",
+				"price": "$0.2036",
+				"_1h": "10.41%",
+				"_1h_up": false,
+				"_24h": "10.41%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$203,592,900",
+				"volume": "$6,619,631",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20016",
+					"price": "$0.1867",
+					"variation": "17.83%",
+					"variation_is_up": false,
+					"rank": "#2914",
+					"watchlists": "204",
+					"marketcap": "$1,437,887",
+					"fully_diluted_marketcap": "$186,738,598",
+					"volume_24": "$4,953,228",
+					"volume_marketcap_24": "3.44",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "sleepfuture",
+					"contract": "0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9",
+					"twitter": "SleepFuture"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 47761,
+						"following_count": 0,
+						"tweet_count": 117,
+						"listed_count": 77
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 53686
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20016",
+				"price": "$0.178",
+				"variation": "21.67%",
+				"variation_is_up": false,
+				"rank": "#2916",
+				"watchlists": "246",
+				"marketcap": "$1,370,590",
+				"fully_diluted_marketcap": "$177,998,664",
+				"volume_24": "$5,072,305",
+				"volume_marketcap_24": "3.7",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "sleepfuture",
+				"contract": "0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9",
+				"twitter": "SleepFuture"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 47785,
+					"following_count": 0,
+					"tweet_count": 117,
+					"listed_count": 77
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
