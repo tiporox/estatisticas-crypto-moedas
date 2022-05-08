@@ -11938,6 +11938,72 @@
 			"data_telegram": {
 				"data": 898702
 			}
+		},
+		{
+			"date": "08/05/2022 13:27:24",
+			"data_coin": {
+				"id": "19823",
+				"name": "Medifakt",
+				"symbol": "FAKT",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/medifakt/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 13690,
+						"following_count": 0,
+						"tweet_count": 37,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898711
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19823",
+					"price": "$0.0287",
+					"variation": "1.03%",
+					"variation_is_up": false,
+					"rank": "#6273",
+					"watchlists": "73",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$28,699,424",
+					"volume_24": "$2,916",
+					"volume_marketcap_24": "--",
+					"max_supply": "999,999,999",
+					"total_supply": "999,999,999",
+					"twitter": "medifakt",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19823",
+				"price": "$0.0294",
+				"variation": "2.79%",
+				"variation_is_up": true,
+				"rank": "#6515",
+				"watchlists": "73",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$29,395,941",
+				"volume_24": "$1,948",
+				"volume_marketcap_24": "--",
+				"max_supply": "999,999,999",
+				"total_supply": "999,999,999",
+				"twitter": "medifakt",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 13699,
+					"following_count": 0,
+					"tweet_count": 37,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 898685
+			}
 		}
 	]
 }
