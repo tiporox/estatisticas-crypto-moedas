@@ -4743,6 +4743,81 @@
 			"data_telegram": {
 				"data": 33375
 			}
+		},
+		{
+			"date": "07/05/2022 23:35:40",
+			"data_coin": {
+				"id": "19979",
+				"name": "Yuse",
+				"symbol": "YUSE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/yuse/",
+				"price": "$0.03952",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$43,907,213",
+				"volume": "$159,261",
+				"date": "05/05/2022 06:55:03",
+				"infoCoinMarketCap_1": {
+					"id": "19979",
+					"price": "$0.03797",
+					"variation": "0.74%",
+					"variation_is_up": true,
+					"rank": "#4092",
+					"watchlists": "1,087",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$42,194,275",
+					"volume_24": "$106,170",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,111,111,111",
+					"total_supply": "1,111,111,111",
+					"contract": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
+					"twitter": "yusetoken",
+					"telegram": "Yusetokenofficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 43444,
+						"following_count": 28,
+						"tweet_count": 348,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 33381
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19979",
+				"price": "$0.03792",
+				"variation": "0.24%",
+				"variation_is_up": false,
+				"rank": "#4066",
+				"watchlists": "1,087",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$42,137,310",
+				"volume_24": "$114,319",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,111,111,111",
+				"total_supply": "1,111,111,111",
+				"contract": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
+				"twitter": "yusetoken",
+				"telegram": "Yusetokenofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 43443,
+					"following_count": 28,
+					"tweet_count": 348,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 33372
+			}
 		}
 	]
 }
