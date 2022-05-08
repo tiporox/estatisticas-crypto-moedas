@@ -11918,6 +11918,74 @@
 			"data_telegram": {
 				"data": 898778
 			}
+		},
+		{
+			"date": "08/05/2022 08:26:03",
+			"data_coin": {
+				"id": "19855",
+				"name": "Joltify",
+				"symbol": "JOLT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/joltify/",
+				"date": "29/04/2022 01:39:45",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3287,
+						"following_count": 141,
+						"tweet_count": 314,
+						"listed_count": 12
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898800
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19855",
+					"price": "$0.1247",
+					"variation": "5.41%",
+					"variation_is_up": false,
+					"rank": "#4701",
+					"watchlists": "325",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$62,341,950",
+					"volume_24": "$44,800",
+					"volume_marketcap_24": "--",
+					"max_supply": "500,000,000",
+					"total_supply": "348,750,054",
+					"contract": "0x7Db21353A0c4659B6A9a0519066aa8D52639Dfa5",
+					"twitter": "joltify_finance",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19855",
+				"price": "$0.1252",
+				"variation": "7.01%",
+				"variation_is_up": false,
+				"rank": "#4802",
+				"watchlists": "325",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$62,590,363",
+				"volume_24": "$39,553",
+				"volume_marketcap_24": "--",
+				"max_supply": "500,000,000",
+				"total_supply": "348,750,054",
+				"contract": "0x7Db21353A0c4659B6A9a0519066aa8D52639Dfa5",
+				"twitter": "joltify_finance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3287,
+					"following_count": 141,
+					"tweet_count": 314,
+					"listed_count": 12
+				}
+			},
+			"data_telegram": {
+				"data": 898773
+			}
 		}
 	]
 }
