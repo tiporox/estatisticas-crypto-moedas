@@ -4518,6 +4518,81 @@
 			"data_telegram": {
 				"data": 72565
 			}
+		},
+		{
+			"date": "08/05/2022 03:16:01",
+			"data_coin": {
+				"id": "19990",
+				"name": "Snake Rinium",
+				"symbol": "RIM",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/snake-rinium/",
+				"price": "$0.001559",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$31,179,979",
+				"volume": "$72,734",
+				"date": "05/05/2022 13:38:25",
+				"infoCoinMarketCap_1": {
+					"id": "19990",
+					"price": "$0.001425",
+					"variation": "0.64%",
+					"variation_is_up": true,
+					"rank": "#7532",
+					"watchlists": "80",
+					"marketcap": "$285,017",
+					"fully_diluted_marketcap": "$28,501,715",
+					"volume_24": "$162",
+					"volume_marketcap_24": "0.0005689",
+					"max_supply": "20,000,000,000",
+					"total_supply": "20,000,000,000",
+					"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+					"telegram": "CowboySnakeGlobal",
+					"twitter": "CowboySnake"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 91072,
+						"following_count": 108,
+						"tweet_count": 516,
+						"listed_count": 59
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 72567
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19990",
+				"price": "$0.001423",
+				"variation": "0.30%",
+				"variation_is_up": true,
+				"rank": "#7559",
+				"watchlists": "82",
+				"marketcap": "$284,532",
+				"fully_diluted_marketcap": "$28,453,166",
+				"volume_24": "$165",
+				"volume_marketcap_24": "0.0005801",
+				"max_supply": "20,000,000,000",
+				"total_supply": "20,000,000,000",
+				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+				"telegram": "CowboySnakeGlobal",
+				"twitter": "CowboySnake"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 91051,
+					"following_count": 108,
+					"tweet_count": 516,
+					"listed_count": 59
+				}
+			},
+			"data_telegram": {
+				"data": 72561
+			}
 		}
 	]
 }
