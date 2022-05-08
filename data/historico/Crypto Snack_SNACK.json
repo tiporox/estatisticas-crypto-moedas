@@ -7668,6 +7668,81 @@
 			"data_telegram": {
 				"data": 899022
 			}
+		},
+		{
+			"date": "08/05/2022 00:23:05",
+			"data_coin": {
+				"id": "19915",
+				"name": "Crypto Snack",
+				"symbol": "SNACK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/crypto-snack/",
+				"price": "$0.01975",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$197,532,533",
+				"volume": "$60,948",
+				"date": "03/05/2022 11:14:42",
+				"infoCoinMarketCap_1": {
+					"id": "19915",
+					"price": "$0.0325",
+					"variation": "21.13%",
+					"variation_is_up": true,
+					"rank": "#3129",
+					"watchlists": "180",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$324,960,391",
+					"volume_24": "$1,183,370",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000,000",
+					"total_supply": "10,000,000,000",
+					"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+					"twitter": "cryptosnack_",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1493,
+						"following_count": 1298,
+						"tweet_count": 699,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 899051
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19915",
+				"price": "$0.03239",
+				"variation": "28.28%",
+				"variation_is_up": true,
+				"rank": "#3127",
+				"watchlists": "183",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$323,854,410",
+				"volume_24": "$1,192,612",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000,000",
+				"total_supply": "10,000,000,000",
+				"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+				"twitter": "cryptosnack_",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1493,
+					"following_count": 1293,
+					"tweet_count": 700,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 898996
+			}
 		}
 	]
 }
