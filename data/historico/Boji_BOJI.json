@@ -7364,6 +7364,79 @@
 			"data_telegram": {
 				"data": 271
 			}
+		},
+		{
+			"date": "08/05/2022 20:38:33",
+			"data_coin": {
+				"id": "19956",
+				"name": "Boji",
+				"symbol": "BOJI",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/boji/",
+				"price": "$0.0...02205",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$154,316",
+				"volume": "$19,265",
+				"date": "04/05/2022 12:05:17",
+				"infoCoinMarketCap_1": {
+					"id": "19956",
+					"price": "$0.0...02872",
+					"variation": "8.90%",
+					"variation_is_up": false,
+					"rank": "#5465",
+					"watchlists": "515",
+					"marketcap": "$180,966",
+					"fully_diluted_marketcap": "$201,073",
+					"volume_24": "$15,068",
+					"volume_marketcap_24": "0.08326",
+					"max_supply": "700,000,000,000,000",
+					"total_supply": "700,000,000,000,000",
+					"contract": "0x1b19c6bb5ea3290dc8b4cb722dee9eea7bc7b164",
+					"telegram": "bojitoken_eng",
+					"twitter": "bojitoken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1099,
+						"following_count": 10,
+						"tweet_count": 172,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 269
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19956",
+				"price": "$0.0...02856",
+				"variation": "15.92%",
+				"variation_is_up": false,
+				"rank": "#5468",
+				"watchlists": "518",
+				"marketcap": "$179,954",
+				"fully_diluted_marketcap": "$199,949",
+				"volume_24": "$15,199",
+				"volume_marketcap_24": "0.08446",
+				"max_supply": "700,000,000,000,000",
+				"total_supply": "700,000,000,000,000",
+				"contract": "0x1b19c6bb5ea3290dc8b4cb722dee9eea7bc7b164",
+				"telegram": "bojitoken_eng",
+				"twitter": "bojitoken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1099,
+					"following_count": 10,
+					"tweet_count": 172,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
