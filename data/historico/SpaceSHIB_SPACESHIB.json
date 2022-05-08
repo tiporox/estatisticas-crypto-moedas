@@ -5339,6 +5339,81 @@
 			"data_telegram": {
 				"data": 39379
 			}
+		},
+		{
+			"date": "08/05/2022 05:00:30",
+			"data_coin": {
+				"id": "19971",
+				"name": "SpaceSHIB",
+				"symbol": "SPACESHIB",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/spaceshib/",
+				"price": "$0.0000001272",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$127,195",
+				"volume": "$143,955",
+				"date": "05/05/2022 04:17:20",
+				"infoCoinMarketCap_1": {
+					"id": "19971",
+					"price": "$0.00000009807",
+					"variation": "31.14%",
+					"variation_is_up": false,
+					"rank": "#4018",
+					"watchlists": "524",
+					"marketcap": "$98,068",
+					"fully_diluted_marketcap": "$98,068",
+					"volume_24": "$126,855",
+					"volume_marketcap_24": "1.29",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xd95Ef50d1EddD977765D8A370A7e464Fc46Cb4a9",
+					"telegram": "spaceshibcoofficial",
+					"twitter": "spaceshibco"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 21053,
+						"following_count": 1,
+						"tweet_count": 98,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 39380
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19971",
+				"price": "$0.0000001009",
+				"variation": "30.33%",
+				"variation_is_up": false,
+				"rank": "#4031",
+				"watchlists": "523",
+				"marketcap": "$100,931",
+				"fully_diluted_marketcap": "$100,931",
+				"volume_24": "$129,051",
+				"volume_marketcap_24": "1.28",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xd95Ef50d1EddD977765D8A370A7e464Fc46Cb4a9",
+				"telegram": "spaceshibcoofficial",
+				"twitter": "spaceshibco"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 21057,
+					"following_count": 1,
+					"tweet_count": 98,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 39377
+			}
 		}
 	]
 }
