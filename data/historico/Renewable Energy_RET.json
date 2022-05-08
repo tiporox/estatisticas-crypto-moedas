@@ -2410,6 +2410,81 @@
 			"data_telegram": {
 				"data": 9330
 			}
+		},
+		{
+			"date": "08/05/2022 18:19:13",
+			"data_coin": {
+				"id": "20013",
+				"name": "Renewable Energy",
+				"symbol": "RET",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/ret/",
+				"price": "$0.0...03791",
+				"_1h": "3.19%",
+				"_1h_up": false,
+				"_24h": "3.19%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$1,895,590",
+				"volume": "$169,060",
+				"date": "07/05/2022 09:00:09",
+				"infoCoinMarketCap_1": {
+					"id": "20013",
+					"price": "$0.0...04836",
+					"variation": "23.36%",
+					"variation_is_up": true,
+					"rank": "#3435",
+					"watchlists": "2,929",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$2,417,975",
+					"volume_24": "$471,730",
+					"volume_marketcap_24": "--",
+					"max_supply": "50,000,000,000,000,000",
+					"total_supply": "50,000,000,000,000,000",
+					"contract": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
+					"twitter": "BscRetoken",
+					"telegram": "RETOKENOFFICIAL"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3407,
+						"following_count": 135,
+						"tweet_count": 1246,
+						"listed_count": 22
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 9320
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20013",
+				"price": "$0.0...04428",
+				"variation": "7.98%",
+				"variation_is_up": false,
+				"rank": "#3422",
+				"watchlists": "2,958",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$2,213,986",
+				"volume_24": "$486,905",
+				"volume_marketcap_24": "--",
+				"max_supply": "50,000,000,000,000,000",
+				"total_supply": "50,000,000,000,000,000",
+				"contract": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
+				"twitter": "BscRetoken",
+				"telegram": "RETOKENOFFICIAL"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3414,
+					"following_count": 135,
+					"tweet_count": 1246,
+					"listed_count": 22
+				}
+			},
+			"data_telegram": {
+				"data": 9331
+			}
 		}
 	]
 }
