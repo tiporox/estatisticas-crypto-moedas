@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 898174
 			}
+		},
+		{
+			"date": "09/05/2022 11:51:53",
+			"data_coin": {
+				"id": "20046",
+				"name": "Hakuna Shares",
+				"symbol": "MTT",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/hakuna-shares/",
+				"price": "$39,764.81",
+				"_1h": "16.46%",
+				"_1h_up": true,
+				"_24h": "16.46%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,192,944,212",
+				"volume": "$78,623",
+				"date": "09/05/2022 10:50:14"
+			},
+			"data_coinmarketcap": {
+				"id": "20046",
+				"price": "$33,872.89",
+				"variation": "0.80%",
+				"variation_is_up": false,
+				"rank": "#3586",
+				"watchlists": "6",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,016,186,583",
+				"volume_24": "$349,310",
+				"volume_marketcap_24": "--",
+				"max_supply": "30,000",
+				"total_supply": "24,001",
+				"twitter": "MMFcrypto",
+				"contract": "0x388c07066AA6cEa2Be4db58e702333df92c3A074",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 88220,
+					"following_count": 132,
+					"tweet_count": 1014,
+					"listed_count": 369
+				}
+			},
+			"data_telegram": {
+				"data": 898190
+			}
 		}
 	]
 }

@@ -43,6 +43,52 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "09/05/2022 11:51:48",
+			"data_coin": {
+				"id": "20048",
+				"name": "Wonderman Nation",
+				"symbol": "WNDR",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/wonderman-nation/",
+				"price": "$0.2175",
+				"_1h": "4.16%",
+				"_1h_up": false,
+				"_24h": "4.16%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$6,692,717",
+				"date": "09/05/2022 10:50:14"
+			},
+			"data_coinmarketcap": {
+				"id": "20048",
+				"price": "$0.1863",
+				"variation": "17.93%",
+				"variation_is_up": false,
+				"rank": "#2903",
+				"watchlists": "28",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$7,095,347",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "WondermanNation",
+				"telegram": "wondermannation"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 18219,
+					"following_count": 20,
+					"tweet_count": 238,
+					"listed_count": 29
+				}
+			},
+			"data_telegram": {
+				"data": 9581
+			}
 		}
 	]
 }
