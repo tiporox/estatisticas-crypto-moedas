@@ -13862,6 +13862,74 @@
 			"data_telegram": {
 				"data": 765
 			}
+		},
+		{
+			"date": "09/05/2022 12:43:47",
+			"data_coin": {
+				"id": "19808",
+				"name": "Polygon HBD",
+				"symbol": "pHBD",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/polygon-hbd/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16599,
+						"following_count": 729,
+						"tweet_count": 10754,
+						"listed_count": 88
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 760
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19808",
+					"price": "$1.02",
+					"variation": "1.09%",
+					"variation_is_up": true,
+					"rank": "#5234",
+					"watchlists": "65",
+					"marketcap": "$10,151,826",
+					"fully_diluted_marketcap": "$10,151,826",
+					"volume_24": "$21,906",
+					"volume_marketcap_24": "0.002158",
+					"max_supply": "10,000,000",
+					"total_supply": "--",
+					"contract": "0x6d969cea201e427d2875724fd4e8044833fbc7f4",
+					"telegram": "cubdefi",
+					"twitter": "FinanceLeo"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19808",
+				"price": "$0.9906",
+				"variation": "1.37%",
+				"variation_is_up": false,
+				"rank": "#5212",
+				"watchlists": "65",
+				"marketcap": "$9,906,372",
+				"fully_diluted_marketcap": "$9,906,372",
+				"volume_24": "$23,710",
+				"volume_marketcap_24": "0.002393",
+				"max_supply": "10,000,000",
+				"total_supply": "--",
+				"contract": "0x6d969cea201e427d2875724fd4e8044833fbc7f4",
+				"telegram": "cubdefi",
+				"twitter": "FinanceLeo"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16600,
+					"following_count": 729,
+					"tweet_count": 10754,
+					"listed_count": 88
+				}
+			},
+			"data_telegram": {
+				"data": 765
+			}
 		}
 	]
 }
