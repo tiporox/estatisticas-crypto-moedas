@@ -983,6 +983,81 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "08/05/2022 23:07:52",
+			"data_coin": {
+				"id": "20024",
+				"name": "Princess Striker Gem",
+				"symbol": "PRSG",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/princess-striker-gem/",
+				"price": "$0.004563",
+				"_1h": "9.22%",
+				"_1h_up": true,
+				"_24h": "9.22%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$131,818",
+				"date": "08/05/2022 08:58:50",
+				"infoCoinMarketCap_1": {
+					"id": "20024",
+					"price": "$0.003613",
+					"variation": "13.52%",
+					"variation_is_up": false,
+					"rank": "#3804",
+					"watchlists": "157",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$217,074",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "0xf4505e3b9beeab5ddfad7e7a90f0db89dd61efe1",
+					"twitter": "PrincessStriker",
+					"telegram": "PrincessStrikerOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4137,
+						"following_count": 34,
+						"tweet_count": 60,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 16997
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20024",
+				"price": "$0.003653",
+				"variation": "12.55%",
+				"variation_is_up": false,
+				"rank": "#4007",
+				"watchlists": "164",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$134,587",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0xf4505e3b9beeab5ddfad7e7a90f0db89dd61efe1",
+				"twitter": "PrincessStriker",
+				"telegram": "PrincessStrikerOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4137,
+					"following_count": 34,
+					"tweet_count": 60,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 17022
+			}
 		}
 	]
 }
