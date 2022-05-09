@@ -6333,6 +6333,81 @@
 			"data_telegram": {
 				"data": 5144
 			}
+		},
+		{
+			"date": "09/05/2022 19:01:42",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.000000881",
+					"variation": "25.97%",
+					"variation_is_up": false,
+					"rank": "#3035",
+					"watchlists": "366",
+					"marketcap": "$387,292",
+					"fully_diluted_marketcap": "$880,980",
+					"volume_24": "$2,558,868",
+					"volume_marketcap_24": "6.61",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7662,
+						"following_count": 7,
+						"tweet_count": 54,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 5145
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.000000899",
+				"variation": "56.49%",
+				"variation_is_up": false,
+				"rank": "#3030",
+				"watchlists": "368",
+				"marketcap": "$395,212",
+				"fully_diluted_marketcap": "$898,995",
+				"volume_24": "$2,647,227",
+				"volume_marketcap_24": "6.7",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7662,
+					"following_count": 7,
+					"tweet_count": 54,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 5143
+			}
 		}
 	]
 }
