@@ -693,6 +693,81 @@
 			"data_telegram": {
 				"data": 898177
 			}
+		},
+		{
+			"date": "09/05/2022 12:34:38",
+			"data_coin": {
+				"id": "20026",
+				"name": "Malt Stablecoin V2",
+				"symbol": "MALT",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/malt-stablecoin-v2/",
+				"price": "$0.9921",
+				"_1h": "0.42%",
+				"_1h_up": true,
+				"_24h": "0.42%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$10,294,091",
+				"volume": "$10,602,544",
+				"date": "09/05/2022 02:27:51",
+				"infoCoinMarketCap_1": {
+					"id": "20026",
+					"price": "$0.9341",
+					"variation": "5.44%",
+					"variation_is_up": false,
+					"rank": "#2860",
+					"watchlists": "36",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$9,692,965",
+					"volume_24": "$16,015,642",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,376,429",
+					"total_supply": "10,376,429",
+					"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+					"twitter": "MaltProtocol",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4079,
+						"following_count": 79,
+						"tweet_count": 232,
+						"listed_count": 45
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898170
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20026",
+				"price": "$0.934",
+				"variation": "5.45%",
+				"variation_is_up": false,
+				"rank": "#2862",
+				"watchlists": "38",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$9,691,753",
+				"volume_24": "$16,023,647",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,376,429",
+				"total_supply": "10,376,429",
+				"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+				"twitter": "MaltProtocol",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4087,
+					"following_count": 79,
+					"tweet_count": 232,
+					"listed_count": 44
+				}
+			},
+			"data_telegram": {
+				"data": 898195
+			}
 		}
 	]
 }
