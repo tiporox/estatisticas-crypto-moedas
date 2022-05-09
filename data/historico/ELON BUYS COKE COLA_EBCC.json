@@ -2793,6 +2793,81 @@
 			"data_telegram": {
 				"data": 9472
 			}
+		},
+		{
+			"date": "09/05/2022 06:47:47",
+			"data_coin": {
+				"id": "20015",
+				"name": "ELON BUYS COKE COLA",
+				"symbol": "EBCC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-buys-coke-cola/",
+				"price": "$0.000002835",
+				"_1h": "1.12%",
+				"_1h_up": false,
+				"_24h": "1.12%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,835,338",
+				"volume": "$64,526",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20015",
+					"price": "$0.000001624",
+					"variation": "34.22%",
+					"variation_is_up": false,
+					"rank": "#4666",
+					"watchlists": "1,958",
+					"marketcap": "$1,137,140",
+					"fully_diluted_marketcap": "$1,624,486",
+					"volume_24": "$47,895",
+					"volume_marketcap_24": "0.04212",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+					"telegram": "elonbuyscoke",
+					"twitter": "ElonBuysCoke"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8274,
+						"following_count": 17,
+						"tweet_count": 29,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 9479
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20015",
+				"price": "$0.000001508",
+				"variation": "30.65%",
+				"variation_is_up": false,
+				"rank": "#4674",
+				"watchlists": "1,977",
+				"marketcap": "$1,055,344",
+				"fully_diluted_marketcap": "$1,507,634",
+				"volume_24": "$48,264",
+				"volume_marketcap_24": "0.04573",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+				"telegram": "elonbuyscoke",
+				"twitter": "ElonBuysCoke"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8276,
+					"following_count": 17,
+					"tweet_count": 29,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 9468
+			}
 		}
 	]
 }
