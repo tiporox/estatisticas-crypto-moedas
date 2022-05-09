@@ -14270,6 +14270,74 @@
 			"data_telegram": {
 				"data": 898089
 			}
+		},
+		{
+			"date": "09/05/2022 18:43:58",
+			"data_coin": {
+				"id": "19822",
+				"name": "SmartFi",
+				"symbol": "SMTF",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/smartfi/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1159,
+						"following_count": 332,
+						"tweet_count": 785,
+						"listed_count": 14
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898094
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19822",
+					"price": "$2.34",
+					"variation": "12.47%",
+					"variation_is_up": false,
+					"rank": "#5374",
+					"watchlists": "125",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$2,340,001,419",
+					"volume_24": "$20,929",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,000,000,000",
+					"total_supply": "16,894,524",
+					"contract": "0x11fD9ED04f1Eb43eF9df6425a6990609F2468895",
+					"twitter": "smartfiportal",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19822",
+				"price": "$2.30",
+				"variation": "6.50%",
+				"variation_is_up": false,
+				"rank": "#5434",
+				"watchlists": "125",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$2,299,835,985",
+				"volume_24": "$20,582",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "16,894,524",
+				"contract": "0x11fD9ED04f1Eb43eF9df6425a6990609F2468895",
+				"twitter": "smartfiportal",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1161,
+					"following_count": 332,
+					"tweet_count": 786,
+					"listed_count": 14
+				}
+			},
+			"data_telegram": {
+				"data": 898084
+			}
 		}
 	]
 }
