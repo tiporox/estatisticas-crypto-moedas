@@ -9257,13 +9257,13 @@
 			"infoCoinMarketCap_1": {
 				"id": "19997",
 				"price": "$0.0...00006",
-				"variation": "37.90%",
+				"variation": "37.10%",
 				"variation_is_up": false,
-				"rank": "#4503",
-				"watchlists": "475",
+				"rank": "#4511",
+				"watchlists": "479",
 				"marketcap": "- -",
 				"fully_diluted_marketcap": "- -",
-				"volume_24": "$65,739",
+				"volume_24": "$66,045",
 				"volume_marketcap_24": "--",
 				"max_supply": "",
 				"total_supply": "",
@@ -9279,18 +9279,18 @@
 				}
 			},
 			"dadosTelegram_1": {
-				"data": 898169
+				"data": 898176
 			},
 			"infoCoinMarketCap": {
 				"id": "19997",
 				"price": "$0.0...00006",
-				"variation": "37.10%",
+				"variation": "30.06%",
 				"variation_is_up": false,
-				"rank": "#4511",
+				"rank": "#4708",
 				"watchlists": "479",
 				"marketcap": "- -",
 				"fully_diluted_marketcap": "- -",
-				"volume_24": "$66,045",
+				"volume_24": "$52,411",
 				"volume_marketcap_24": "--",
 				"max_supply": "",
 				"total_supply": "",
@@ -9306,7 +9306,7 @@
 				}
 			},
 			"dadosTelegram": {
-				"data": 898176
+				"data": 898198
 			}
 		},
 		{
@@ -9610,34 +9610,6 @@
 			"date": "06/05/2022 04:49:14",
 			"infoCoinMarketCap_1": {
 				"id": "20005",
-				"price": "$0.0000009787",
-				"variation": "29.48%",
-				"variation_is_up": false,
-				"rank": "#5239",
-				"watchlists": "447",
-				"marketcap": "$48,936,022",
-				"fully_diluted_marketcap": "$48,936,022",
-				"volume_24": "$21,236",
-				"volume_marketcap_24": "0.000434",
-				"max_supply": "--",
-				"total_supply": "49,999,999,999,997",
-				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
-				"twitter": "SinworldPro",
-				"telegram": "sinworldofficial"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 12939,
-					"following_count": 7,
-					"tweet_count": 84,
-					"listed_count": 2
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 8204
-			},
-			"infoCoinMarketCap": {
-				"id": "20005",
 				"price": "$0.000001035",
 				"variation": "22.59%",
 				"variation_is_up": false,
@@ -9647,6 +9619,34 @@
 				"fully_diluted_marketcap": "$51,766,572",
 				"volume_24": "$21,636",
 				"volume_marketcap_24": "0.000418",
+				"max_supply": "--",
+				"total_supply": "49,999,999,999,997",
+				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+				"twitter": "SinworldPro",
+				"telegram": "sinworldofficial"
+			},
+			"dadosTwitter_1": {
+				"data": {
+					"followers_count": 12938,
+					"following_count": 7,
+					"tweet_count": 84,
+					"listed_count": 2
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 8206
+			},
+			"infoCoinMarketCap": {
+				"id": "20005",
+				"price": "$0.0000009572",
+				"variation": "30.12%",
+				"variation_is_up": false,
+				"rank": "#5272",
+				"watchlists": "452",
+				"marketcap": "$47,858,321",
+				"fully_diluted_marketcap": "$47,858,321",
+				"volume_24": "$21,725",
+				"volume_marketcap_24": "0.0004539",
 				"max_supply": "--",
 				"total_supply": "49,999,999,999,997",
 				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
@@ -10328,34 +10328,6 @@
 			"date": "08/05/2022 08:19:20",
 			"infoCoinMarketCap_1": {
 				"id": "20018",
-				"price": "$0.4353",
-				"variation": "36.88%",
-				"variation_is_up": true,
-				"rank": "#4017",
-				"watchlists": "111",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "- -",
-				"volume_24": "$149,146",
-				"volume_marketcap_24": "--",
-				"max_supply": "",
-				"total_supply": "",
-				"twitter": "ox_finance",
-				"contract": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
-				"telegram": "CoinMarketCapAnnouncements"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 2339,
-					"following_count": 16,
-					"tweet_count": 30,
-					"listed_count": 3
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 898170
-			},
-			"infoCoinMarketCap": {
-				"id": "20018",
 				"price": "$0.3744",
 				"variation": "18.38%",
 				"variation_is_up": true,
@@ -10371,7 +10343,7 @@
 				"contract": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
 				"telegram": "CoinMarketCapAnnouncements"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 2339,
 					"following_count": 16,
@@ -10379,8 +10351,36 @@
 					"listed_count": 3
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 898176
+			},
+			"infoCoinMarketCap": {
+				"id": "20018",
+				"price": "$0.3781",
+				"variation": "15.84%",
+				"variation_is_up": true,
+				"rank": "#4010",
+				"watchlists": "112",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$157,212",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "ox_finance",
+				"contract": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 2340,
+					"following_count": 16,
+					"tweet_count": 31,
+					"listed_count": 3
+				}
+			},
+			"dadosTelegram": {
+				"data": 898198
 			}
 		},
 		{
