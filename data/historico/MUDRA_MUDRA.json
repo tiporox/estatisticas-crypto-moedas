@@ -835,6 +835,81 @@
 			"data_telegram": {
 				"data": 15983
 			}
+		},
+		{
+			"date": "09/05/2022 19:42:04",
+			"data_coin": {
+				"id": "20032",
+				"name": "MUDRA",
+				"symbol": "MUDRA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/mudra/",
+				"price": "$0.01217",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,314,006",
+				"volume": "$11,771",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20032",
+					"price": "$0.00989",
+					"variation": "18.71%",
+					"variation_is_up": false,
+					"rank": "#5494",
+					"watchlists": "10,076",
+					"marketcap": "$1,068,145",
+					"fully_diluted_marketcap": "$1,068,145",
+					"volume_24": "$18,175",
+					"volume_marketcap_24": "0.01702",
+					"max_supply": "108,000,000",
+					"total_supply": "108,000,000",
+					"contract": "0xA1Fa5Df3a7C98cBD97D4c4f72a995150EE4a822b",
+					"twitter": "mudranetwork",
+					"telegram": "mudranetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4946,
+						"following_count": 6,
+						"tweet_count": 29,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 15980
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20032",
+				"price": "$0.009663",
+				"variation": "20.58%",
+				"variation_is_up": false,
+				"rank": "#5522",
+				"watchlists": "10,080",
+				"marketcap": "$1,043,612",
+				"fully_diluted_marketcap": "$1,043,612",
+				"volume_24": "$17,938",
+				"volume_marketcap_24": "0.01719",
+				"max_supply": "108,000,000",
+				"total_supply": "108,000,000",
+				"contract": "0xA1Fa5Df3a7C98cBD97D4c4f72a995150EE4a822b",
+				"twitter": "mudranetwork",
+				"telegram": "mudranetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4946,
+					"following_count": 6,
+					"tweet_count": 29,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 15991
+			}
 		}
 	]
 }
