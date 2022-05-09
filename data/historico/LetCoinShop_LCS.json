@@ -1893,6 +1893,81 @@
 			"data_telegram": {
 				"data": 3439
 			}
+		},
+		{
+			"date": "09/05/2022 10:25:02",
+			"data_coin": {
+				"id": "20020",
+				"name": "LetCoinShop",
+				"symbol": "LCS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/letcoinshop/",
+				"price": "$0.05021",
+				"_1h": "33.36%",
+				"_1h_up": true,
+				"_24h": "33.36%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$25,105,094",
+				"volume": "$12,904",
+				"date": "08/05/2022 08:07:12",
+				"infoCoinMarketCap_1": {
+					"id": "20020",
+					"price": "$0.01385",
+					"variation": "71.35%",
+					"variation_is_up": false,
+					"rank": "#4895",
+					"watchlists": "93",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$6,924,323",
+					"volume_24": "$34,657",
+					"volume_marketcap_24": "--",
+					"max_supply": "500,000,000",
+					"total_supply": "500,000,000",
+					"contract": "0x6641fa061a7d0b8955d945b9c981e7ff296812fa",
+					"twitter": "letcoinshop",
+					"telegram": "LetCoinShop"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 13862,
+						"following_count": 43,
+						"tweet_count": 182,
+						"listed_count": 14
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 3437
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20020",
+				"price": "$0.01391",
+				"variation": "63.66%",
+				"variation_is_up": false,
+				"rank": "#4941",
+				"watchlists": "95",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$6,954,087",
+				"volume_24": "$34,749",
+				"volume_marketcap_24": "--",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"contract": "0x6641fa061a7d0b8955d945b9c981e7ff296812fa",
+				"twitter": "letcoinshop",
+				"telegram": "LetCoinShop"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 13864,
+					"following_count": 43,
+					"tweet_count": 182,
+					"listed_count": 14
+				}
+			},
+			"data_telegram": {
+				"data": 3441
+			}
 		}
 	]
 }
