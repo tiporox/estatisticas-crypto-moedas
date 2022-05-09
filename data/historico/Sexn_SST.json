@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 12559
 			}
+		},
+		{
+			"date": "09/05/2022 04:43:47",
+			"data_coin": {
+				"id": "20029",
+				"name": "Sexn",
+				"symbol": "SST",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sexn/",
+				"price": "$0.0334",
+				"_1h": "3.66%",
+				"_1h_up": false,
+				"_24h": "3.66%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$1,669,865",
+				"volume": "$2,634,977",
+				"date": "09/05/2022 03:41:48"
+			},
+			"data_coinmarketcap": {
+				"id": "20029",
+				"price": "$0.03285",
+				"variation": "5.24%",
+				"variation_is_up": false,
+				"rank": "#2985",
+				"watchlists": "100",
+				"marketcap": "$1,642,567",
+				"fully_diluted_marketcap": "$1,642,567",
+				"volume_24": "$2,734,758",
+				"volume_marketcap_24": "1.66",
+				"max_supply": "50,000,000",
+				"total_supply": "--",
+				"contract": "0x61a607fa127da4d61f28fe39d371db8f2c06ca4c",
+				"twitter": "sexnweb3",
+				"telegram": "SEXN_Official"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 10912,
+					"following_count": 10,
+					"tweet_count": 31,
+					"listed_count": 12
+				}
+			},
+			"data_telegram": {
+				"data": 12630
+			}
 		}
 	]
 }
