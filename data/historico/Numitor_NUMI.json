@@ -6468,6 +6468,81 @@
 			"data_telegram": {
 				"data": 1257
 			}
+		},
+		{
+			"date": "08/05/2022 22:54:35",
+			"data_coin": {
+				"id": "19982",
+				"name": "Numitor",
+				"symbol": "NUMI",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/numitor/",
+				"price": "$0.8004",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$800,416",
+				"volume": "$94,955",
+				"date": "05/05/2022 07:01:09",
+				"infoCoinMarketCap_1": {
+					"id": "19982",
+					"price": "$0.6236",
+					"variation": "1.45%",
+					"variation_is_up": true,
+					"rank": "#4460",
+					"watchlists": "227",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$623,626",
+					"volume_24": "$72,059",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,000,000",
+					"total_supply": "1,000,000",
+					"contract": "token-transfers",
+					"twitter": "NumitorToken",
+					"telegram": "NumitorToken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1029,
+						"following_count": 0,
+						"tweet_count": 69,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1247
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19982",
+				"price": "$0.6236",
+				"variation": "5.71%",
+				"variation_is_up": true,
+				"rank": "#4325",
+				"watchlists": "226",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$623,552",
+				"volume_24": "$76,243",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000",
+				"total_supply": "1,000,000",
+				"contract": "token-transfers",
+				"twitter": "NumitorToken",
+				"telegram": "NumitorToken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1029,
+					"following_count": 0,
+					"tweet_count": 69,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 1257
+			}
 		}
 	]
 }
