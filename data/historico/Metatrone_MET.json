@@ -383,6 +383,79 @@
 			"data_telegram": {
 				"data": 231
 			}
+		},
+		{
+			"date": "09/05/2022 16:40:02",
+			"data_coin": {
+				"id": "20040",
+				"name": "Metatrone",
+				"symbol": "MET",
+				"blockchain": "Harmony",
+				"ativo": true,
+				"link": "/currencies/metatrone/",
+				"price": "$0.0001872",
+				"_1h": "0.61%",
+				"_1h_up": true,
+				"_24h": "0.61%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$187,150",
+				"volume": "$6",
+				"date": "09/05/2022 10:38:06",
+				"infoCoinMarketCap_1": {
+					"id": "20040",
+					"price": "$0.0001782",
+					"variation": "4.20%",
+					"variation_is_up": false,
+					"rank": "#7689",
+					"watchlists": "29",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$178,204",
+					"volume_24": "$252",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "metatroneDAO",
+					"twitter": "metatroneDAO"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2480,
+						"following_count": 278,
+						"tweet_count": 517,
+						"listed_count": 16
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 226
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20040",
+				"price": "$0.000174",
+				"variation": "6.45%",
+				"variation_is_up": false,
+				"rank": "#7581",
+				"watchlists": "48",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$174,026",
+				"volume_24": "$369",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "metatroneDAO",
+				"twitter": "metatroneDAO"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2491,
+					"following_count": 278,
+					"tweet_count": 518,
+					"listed_count": 16
+				}
+			},
+			"data_telegram": {
+				"data": 233
+			}
 		}
 	]
 }
