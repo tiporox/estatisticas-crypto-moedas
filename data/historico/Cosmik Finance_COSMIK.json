@@ -843,6 +843,81 @@
 			"data_telegram": {
 				"data": 898085
 			}
+		},
+		{
+			"date": "09/05/2022 19:42:02",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$1.73",
+					"variation": "36.84%",
+					"variation_is_up": false,
+					"rank": "#4147",
+					"watchlists": "67",
+					"marketcap": "$563,610",
+					"fully_diluted_marketcap": "$5,636,101,900",
+					"volume_24": "$140,808",
+					"volume_marketcap_24": "0.2498",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7139,
+						"following_count": 19,
+						"tweet_count": 40,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898088
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$1.69",
+				"variation": "38.50%",
+				"variation_is_up": false,
+				"rank": "#4151",
+				"watchlists": "76",
+				"marketcap": "$548,792",
+				"fully_diluted_marketcap": "$5,487,923,210",
+				"volume_24": "$142,200",
+				"volume_marketcap_24": "0.2591",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7138,
+					"following_count": 19,
+					"tweet_count": 40,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 898063
+			}
 		}
 	]
 }
