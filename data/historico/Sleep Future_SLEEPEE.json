@@ -2548,6 +2548,81 @@
 			"data_telegram": {
 				"data": 53617
 			}
+		},
+		{
+			"date": "09/05/2022 03:45:00",
+			"data_coin": {
+				"id": "20016",
+				"name": "Sleep Future",
+				"symbol": "SLEEPEE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sleep-future/",
+				"price": "$0.2036",
+				"_1h": "10.41%",
+				"_1h_up": false,
+				"_24h": "10.41%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$203,592,900",
+				"volume": "$6,619,631",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20016",
+					"price": "$0.1673",
+					"variation": "9.85%",
+					"variation_is_up": false,
+					"rank": "#3088",
+					"watchlists": "643",
+					"marketcap": "$1,287,920",
+					"fully_diluted_marketcap": "$167,262,325",
+					"volume_24": "$1,396,366",
+					"volume_marketcap_24": "1.08",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "sleepfuture",
+					"contract": "0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9",
+					"twitter": "SleepFuture"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 47696,
+						"following_count": 0,
+						"tweet_count": 119,
+						"listed_count": 77
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 53624
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20016",
+				"price": "$0.1691",
+				"variation": "6.04%",
+				"variation_is_up": false,
+				"rank": "#3084",
+				"watchlists": "655",
+				"marketcap": "$1,301,806",
+				"fully_diluted_marketcap": "$169,065,752",
+				"volume_24": "$1,435,775",
+				"volume_marketcap_24": "1.1",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "sleepfuture",
+				"contract": "0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9",
+				"twitter": "SleepFuture"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 47695,
+					"following_count": 0,
+					"tweet_count": 119,
+					"listed_count": 77
+				}
+			},
+			"data_telegram": {
+				"data": 53578
+			}
 		}
 	]
 }
