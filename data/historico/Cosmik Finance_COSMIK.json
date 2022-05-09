@@ -318,6 +318,81 @@
 			"data_telegram": {
 				"data": 898183
 			}
+		},
+		{
+			"date": "09/05/2022 12:40:05",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$2.24",
+					"variation": "18.56%",
+					"variation_is_up": false,
+					"rank": "#4212",
+					"watchlists": "19",
+					"marketcap": "$726,761",
+					"fully_diluted_marketcap": "$7,267,609,425",
+					"volume_24": "$105,834",
+					"volume_marketcap_24": "0.1456",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7133,
+						"following_count": 19,
+						"tweet_count": 39,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898170
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$2.13",
+				"variation": "22.60%",
+				"variation_is_up": false,
+				"rank": "#4185",
+				"watchlists": "40",
+				"marketcap": "$690,682",
+				"fully_diluted_marketcap": "$6,906,822,006",
+				"volume_24": "$115,267",
+				"volume_marketcap_24": "0.1669",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7135,
+					"following_count": 19,
+					"tweet_count": 40,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 898195
+			}
 		}
 	]
 }
