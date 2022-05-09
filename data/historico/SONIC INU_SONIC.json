@@ -13550,6 +13550,74 @@
 			"data_telegram": {
 				"data": 6041
 			}
+		},
+		{
+			"date": "09/05/2022 08:44:41",
+			"data_coin": {
+				"id": "19861",
+				"name": "SONIC INU",
+				"symbol": "SONIC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sonic-inu/",
+				"date": "29/04/2022 02:55:26",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5986,
+						"following_count": 27,
+						"tweet_count": 66,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6043
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19861",
+					"price": "$0.0000132",
+					"variation": "9.81%",
+					"variation_is_up": false,
+					"rank": "#4686",
+					"watchlists": "1,075",
+					"marketcap": "$118,818",
+					"fully_diluted_marketcap": "$1,309,957",
+					"volume_24": "$47,659",
+					"volume_marketcap_24": "0.4011",
+					"max_supply": "99,223,853,602",
+					"total_supply": "99,223,853,602",
+					"contract": "0x7E24D548438100f1fA9cf2CFAc2aD09516440f02",
+					"twitter": "Sonic_Inu",
+					"telegram": "SonicInu_bsc"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19861",
+				"price": "$0.00001275",
+				"variation": "12.68%",
+				"variation_is_up": false,
+				"rank": "#4719",
+				"watchlists": "1,074",
+				"marketcap": "$114,791",
+				"fully_diluted_marketcap": "$1,265,553",
+				"volume_24": "$46,696",
+				"volume_marketcap_24": "0.4068",
+				"max_supply": "99,223,853,602",
+				"total_supply": "99,223,853,602",
+				"contract": "0x7E24D548438100f1fA9cf2CFAc2aD09516440f02",
+				"twitter": "Sonic_Inu",
+				"telegram": "SonicInu_bsc"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5993,
+					"following_count": 27,
+					"tweet_count": 66,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 6042
+			}
 		}
 	]
 }
