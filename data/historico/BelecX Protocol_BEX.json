@@ -1502,6 +1502,81 @@
 			"data_telegram": {
 				"data": 155351
 			}
+		},
+		{
+			"date": "09/05/2022 05:21:28",
+			"data_coin": {
+				"id": "20019",
+				"name": "BelecX Protocol",
+				"symbol": "BEX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/belecx-protocol/",
+				"price": "$0.0138",
+				"_1h": "10.64%",
+				"_1h_up": false,
+				"_24h": "10.64%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$1,379,171",
+				"volume": "$110,210",
+				"date": "08/05/2022 08:07:12",
+				"infoCoinMarketCap_1": {
+					"id": "20019",
+					"price": "$0.01576",
+					"variation": "2.05%",
+					"variation_is_up": true,
+					"rank": "#3906",
+					"watchlists": "169",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$1,575,053",
+					"volume_24": "$164,238",
+					"volume_marketcap_24": "--",
+					"max_supply": "99,916,100",
+					"total_supply": "99,916,100",
+					"contract": "0x3eE08275b513f3085231Ccc85de4C386FCc1f18b",
+					"telegram": "BelecXChat",
+					"twitter": "BelecXToken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 68583,
+						"following_count": 224,
+						"tweet_count": 83,
+						"listed_count": 8
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 155396
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20019",
+				"price": "$0.01179",
+				"variation": "23.66%",
+				"variation_is_up": false,
+				"rank": "#3921",
+				"watchlists": "174",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,178,168",
+				"volume_24": "$162,990",
+				"volume_marketcap_24": "--",
+				"max_supply": "99,916,100",
+				"total_supply": "99,916,100",
+				"contract": "0x3eE08275b513f3085231Ccc85de4C386FCc1f18b",
+				"telegram": "BelecXChat",
+				"twitter": "BelecXToken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 68674,
+					"following_count": 224,
+					"tweet_count": 83,
+					"listed_count": 8
+				}
+			},
+			"data_telegram": {
+				"data": 155298
+			}
 		}
 	]
 }
