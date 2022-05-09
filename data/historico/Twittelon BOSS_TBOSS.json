@@ -6618,6 +6618,81 @@
 			"data_telegram": {
 				"data": 7008
 			}
+		},
+		{
+			"date": "09/05/2022 07:24:22",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.000000243",
+					"variation": "49.68%",
+					"variation_is_up": true,
+					"rank": "#4198",
+					"watchlists": "540",
+					"marketcap": "$243,006",
+					"fully_diluted_marketcap": "$243,006",
+					"volume_24": "$99,482",
+					"volume_marketcap_24": "0.4094",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6303,
+						"following_count": 31,
+						"tweet_count": 54,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7013
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000002059",
+				"variation": "32.16%",
+				"variation_is_up": true,
+				"rank": "#4192",
+				"watchlists": "546",
+				"marketcap": "$205,867",
+				"fully_diluted_marketcap": "$205,867",
+				"volume_24": "$102,126",
+				"volume_marketcap_24": "0.4961",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6319,
+					"following_count": 31,
+					"tweet_count": 55,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7002
+			}
 		}
 	]
 }
