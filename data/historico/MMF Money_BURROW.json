@@ -1,1 +1,51 @@
-{}
+{
+	"data": [
+		{
+			"date": "09/05/2022 10:51:50",
+			"data_coin": {
+				"id": "20044",
+				"name": "MMF Money",
+				"symbol": "BURROW",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/mmf-money/",
+				"price": "$0.1308",
+				"_1h": "6.55%",
+				"_1h_up": true,
+				"_24h": "6.55%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$13,078,145",
+				"volume": "$59,790",
+				"date": "09/05/2022 10:50:14"
+			},
+			"data_coinmarketcap": {
+				"id": "20044",
+				"price": "$0.1284",
+				"variation": "4.62%",
+				"variation_is_up": true,
+				"rank": "#4518",
+				"watchlists": "0",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$12,841,897",
+				"volume_24": "$66,041",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000",
+				"total_supply": "23,808,974",
+				"twitter": "MMFcrypto",
+				"contract": "0x49ab7ca4D2Cf6777c8C56C5E9Edb7D1218AE1299",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 88238,
+					"following_count": 132,
+					"tweet_count": 1014,
+					"listed_count": 370
+				}
+			},
+			"data_telegram": {
+				"data": 898174
+			}
+		}
+	]
+}
