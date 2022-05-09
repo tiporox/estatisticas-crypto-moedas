@@ -6993,6 +6993,81 @@
 			"data_telegram": {
 				"data": 7002
 			}
+		},
+		{
+			"date": "09/05/2022 12:26:28",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000003193",
+					"variation": "93.75%",
+					"variation_is_up": true,
+					"rank": "#4185",
+					"watchlists": "568",
+					"marketcap": "$319,314",
+					"fully_diluted_marketcap": "$319,314",
+					"volume_24": "$111,776",
+					"volume_marketcap_24": "0.3501",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8672,
+						"following_count": 31,
+						"tweet_count": 61,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7005
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000002945",
+				"variation": "93.02%",
+				"variation_is_up": true,
+				"rank": "#4202",
+				"watchlists": "574",
+				"marketcap": "$294,502",
+				"fully_diluted_marketcap": "$294,502",
+				"volume_24": "$112,890",
+				"volume_marketcap_24": "0.3833",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9296,
+					"following_count": 31,
+					"tweet_count": 61,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7001
+			}
 		}
 	]
 }
