@@ -618,6 +618,81 @@
 			"data_telegram": {
 				"data": 898170
 			}
+		},
+		{
+			"date": "09/05/2022 11:34:35",
+			"data_coin": {
+				"id": "20026",
+				"name": "Malt Stablecoin V2",
+				"symbol": "MALT",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/malt-stablecoin-v2/",
+				"price": "$0.9921",
+				"_1h": "0.42%",
+				"_1h_up": true,
+				"_24h": "0.42%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$10,294,091",
+				"volume": "$10,602,544",
+				"date": "09/05/2022 02:27:51",
+				"infoCoinMarketCap_1": {
+					"id": "20026",
+					"price": "$0.9344",
+					"variation": "5.41%",
+					"variation_is_up": false,
+					"rank": "#2860",
+					"watchlists": "35",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$9,695,642",
+					"volume_24": "$16,037,261",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,376,429",
+					"total_supply": "10,376,429",
+					"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+					"twitter": "MaltProtocol",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4075,
+						"following_count": 79,
+						"tweet_count": 232,
+						"listed_count": 45
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898180
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20026",
+				"price": "$0.9343",
+				"variation": "5.42%",
+				"variation_is_up": false,
+				"rank": "#2861",
+				"watchlists": "38",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$9,694,911",
+				"volume_24": "$16,033,318",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,376,429",
+				"total_supply": "10,376,429",
+				"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+				"twitter": "MaltProtocol",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4083,
+					"following_count": 79,
+					"tweet_count": 232,
+					"listed_count": 44
+				}
+			},
+			"data_telegram": {
+				"data": 898177
+			}
 		}
 	]
 }
