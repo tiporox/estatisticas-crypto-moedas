@@ -243,6 +243,81 @@
 			"data_telegram": {
 				"data": 898170
 			}
+		},
+		{
+			"date": "09/05/2022 11:39:59",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$2.43",
+					"variation": "11.46%",
+					"variation_is_up": false,
+					"rank": "#4310",
+					"watchlists": "15",
+					"marketcap": "$790,102",
+					"fully_diluted_marketcap": "$7,901,024,707",
+					"volume_24": "$91,643",
+					"volume_marketcap_24": "0.116",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7132,
+						"following_count": 19,
+						"tweet_count": 39,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898176
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$2.18",
+				"variation": "20.61%",
+				"variation_is_up": false,
+				"rank": "#4209",
+				"watchlists": "26",
+				"marketcap": "$708,396",
+				"fully_diluted_marketcap": "$7,083,964,787",
+				"volume_24": "$110,005",
+				"volume_marketcap_24": "0.1553",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7136,
+					"following_count": 19,
+					"tweet_count": 39,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 898183
+			}
 		}
 	]
 }
