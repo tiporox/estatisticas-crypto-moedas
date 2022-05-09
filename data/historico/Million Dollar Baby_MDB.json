@@ -46,6 +46,53 @@
 			"data_telegram": {
 				"data": 1763
 			}
+		},
+		{
+			"date": "09/05/2022 10:43:45",
+			"data_coin": {
+				"id": "20039",
+				"name": "Million Dollar Baby",
+				"symbol": "MDB",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/million-dollar-baby/",
+				"price": "$0.003896",
+				"_1h": "1.98%",
+				"_1h_up": true,
+				"_24h": "2.11%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$3,896,191",
+				"volume": "$134,093",
+				"date": "09/05/2022 09:41:19"
+			},
+			"data_coinmarketcap": {
+				"id": "20039",
+				"price": "$0.003903",
+				"variation": "1.95%",
+				"variation_is_up": false,
+				"rank": "#4071",
+				"watchlists": "30",
+				"marketcap": "$3,902,661",
+				"fully_diluted_marketcap": "$3,902,661",
+				"volume_24": "$134,769",
+				"volume_marketcap_24": "0.03453",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+				"telegram": "mdbtoken",
+				"twitter": "mdb_defi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4852,
+					"following_count": 43,
+					"tweet_count": 203,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 1797
+			}
 		}
 	]
 }
