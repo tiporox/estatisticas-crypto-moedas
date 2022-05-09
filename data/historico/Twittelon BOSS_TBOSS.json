@@ -6243,6 +6243,81 @@
 			"data_telegram": {
 				"data": 7028
 			}
+		},
+		{
+			"date": "09/05/2022 02:20:52",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.000000312",
+					"variation": "74.99%",
+					"variation_is_up": true,
+					"rank": "#4185",
+					"watchlists": "517",
+					"marketcap": "$312,039",
+					"fully_diluted_marketcap": "$312,039",
+					"volume_24": "$94,113",
+					"volume_marketcap_24": "0.3016",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6342,
+						"following_count": 29,
+						"tweet_count": 54,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7026
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000003152",
+				"variation": "79.63%",
+				"variation_is_up": true,
+				"rank": "#4185",
+				"watchlists": "525",
+				"marketcap": "$315,161",
+				"fully_diluted_marketcap": "$315,161",
+				"volume_24": "$95,735",
+				"volume_marketcap_24": "0.3038",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6222,
+					"following_count": 31,
+					"tweet_count": 54,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 7026
+			}
 		}
 	]
 }
