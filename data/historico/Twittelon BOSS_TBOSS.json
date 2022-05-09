@@ -7443,6 +7443,81 @@
 			"data_telegram": {
 				"data": 7014
 			}
+		},
+		{
+			"date": "09/05/2022 18:27:50",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000002881",
+					"variation": "5.59%",
+					"variation_is_up": true,
+					"rank": "#4246",
+					"watchlists": "583",
+					"marketcap": "$288,140",
+					"fully_diluted_marketcap": "$288,140",
+					"volume_24": "$115,758",
+					"volume_marketcap_24": "0.4017",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9687,
+						"following_count": 31,
+						"tweet_count": 63,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7012
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000003539",
+				"variation": "16.83%",
+				"variation_is_up": false,
+				"rank": "#4139",
+				"watchlists": "580",
+				"marketcap": "$353,902",
+				"fully_diluted_marketcap": "$353,902",
+				"volume_24": "$144,317",
+				"volume_marketcap_24": "0.4078",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9810,
+					"following_count": 31,
+					"tweet_count": 65,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 7018
+			}
 		}
 	]
 }
