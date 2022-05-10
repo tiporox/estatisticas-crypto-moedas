@@ -6614,6 +6614,81 @@
 			"data_telegram": {
 				"data": 28300
 			}
+		},
+		{
+			"date": "10/05/2022 05:13:03",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.04346",
+					"variation": "3.51%",
+					"variation_is_up": false,
+					"rank": "#8343",
+					"watchlists": "677",
+					"marketcap": "$760,625",
+					"fully_diluted_marketcap": "$59,893,752",
+					"volume_24": "$33",
+					"volume_marketcap_24": "0.00004286",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 122528,
+						"following_count": 54,
+						"tweet_count": 1428,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28304
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.04332",
+				"variation": "3.50%",
+				"variation_is_up": false,
+				"rank": "#7832",
+				"watchlists": "679",
+				"marketcap": "$758,086",
+				"fully_diluted_marketcap": "$59,693,894",
+				"volume_24": "$179",
+				"volume_marketcap_24": "0.0002359",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 122589,
+					"following_count": 54,
+					"tweet_count": 1429,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28300
+			}
 		}
 	]
 }
