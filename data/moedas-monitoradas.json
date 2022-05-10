@@ -9898,34 +9898,6 @@
 			"date": "07/05/2022 09:00:09",
 			"infoCoinMarketCap_1": {
 				"id": "20013",
-				"price": "$0.0...06725",
-				"variation": "2.00%",
-				"variation_is_up": true,
-				"rank": "#3520",
-				"watchlists": "8,414",
-				"marketcap": "- -",
-				"fully_diluted_marketcap": "$3,362,403",
-				"volume_24": "$458,387",
-				"volume_marketcap_24": "--",
-				"max_supply": "50,000,000,000,000,000",
-				"total_supply": "50,000,000,000,000,000",
-				"contract": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
-				"twitter": "BscRetoken",
-				"telegram": "RETOKENOFFICIAL"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 3565,
-					"following_count": 138,
-					"tweet_count": 1259,
-					"listed_count": 23
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 9613
-			},
-			"infoCoinMarketCap": {
-				"id": "20013",
 				"price": "$0.0...07023",
 				"variation": "10.07%",
 				"variation_is_up": false,
@@ -9941,7 +9913,7 @@
 				"twitter": "BscRetoken",
 				"telegram": "RETOKENOFFICIAL"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 3567,
 					"following_count": 138,
@@ -9949,8 +9921,36 @@
 					"listed_count": 23
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 9607
+			},
+			"infoCoinMarketCap": {
+				"id": "20013",
+				"price": "$0.0...05313",
+				"variation": "39.43%",
+				"variation_is_up": false,
+				"rank": "#3514",
+				"watchlists": "8,417",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$2,656,424",
+				"volume_24": "$468,653",
+				"volume_marketcap_24": "--",
+				"max_supply": "50,000,000,000,000,000",
+				"total_supply": "50,000,000,000,000,000",
+				"contract": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
+				"twitter": "BscRetoken",
+				"telegram": "RETOKENOFFICIAL"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 3571,
+					"following_count": 138,
+					"tweet_count": 1259,
+					"listed_count": 23
+				}
+			},
+			"dadosTelegram": {
+				"data": 9611
 			}
 		},
 		{
@@ -12862,7 +12862,23 @@
 			"dadosTelegram_1": {
 				"data": 2171
 			}
+		},
+		{
+			"id": "20078",
+			"name": "Kingdomswap (New)",
+			"symbol": "KS",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/kingdomswap-2/",
+			"price": "$0.01069",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "--",
+			"volume": "$22,252",
+			"date": "10/05/2022 13:44:48"
 		}
 	],
-	"total": 187
+	"total": 188
 }
