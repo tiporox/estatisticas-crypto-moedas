@@ -93,6 +93,79 @@
 			"data_telegram": {
 				"data": 173860
 			}
+		},
+		{
+			"date": "10/05/2022 13:40:52",
+			"data_coin": {
+				"id": "20075",
+				"name": "NeorderDAO",
+				"symbol": "N3DR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/neorderdao/",
+				"price": "$0.04176",
+				"_1h": "0.34%",
+				"_1h_up": false,
+				"_24h": "1.81%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,176,229",
+				"volume": "$326,507",
+				"date": "10/05/2022 11:37:05",
+				"infoCoinMarketCap_1": {
+					"id": "20075",
+					"price": "$0.04176",
+					"variation": "1.81%",
+					"variation_is_up": false,
+					"rank": "#3682",
+					"watchlists": "0",
+					"marketcap": "$83,525",
+					"fully_diluted_marketcap": "$4,176,262",
+					"volume_24": "$327,255",
+					"volume_marketcap_24": "3.92",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0xa01c017b467eC041806702F7B44822Eb76183Eaa",
+					"telegram": "Neorder",
+					"twitter": "neorderdao"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 50013,
+						"following_count": 44,
+						"tweet_count": 134,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 173850
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20075",
+				"price": "$0.04164",
+				"variation": "2.08%",
+				"variation_is_up": false,
+				"rank": "#3665",
+				"watchlists": "11",
+				"marketcap": "$83,288",
+				"fully_diluted_marketcap": "$4,164,393",
+				"volume_24": "$338,698",
+				"volume_marketcap_24": "4.07",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xa01c017b467eC041806702F7B44822Eb76183Eaa",
+				"telegram": "Neorder",
+				"twitter": "neorderdao"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 50043,
+					"following_count": 44,
+					"tweet_count": 134,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
