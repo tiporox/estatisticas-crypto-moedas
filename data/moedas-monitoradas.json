@@ -8758,33 +8758,6 @@
 			"date": "05/05/2022 12:25:38",
 			"infoCoinMarketCap_1": {
 				"id": "19988",
-				"price": "$0.0...01293",
-				"variation": "26.67%",
-				"variation_is_up": false,
-				"rank": "#4361",
-				"watchlists": "405",
-				"marketcap": "$1,142,772",
-				"fully_diluted_marketcap": "$1,292,540",
-				"volume_24": "$106,914",
-				"volume_marketcap_24": "0.09356",
-				"max_supply": "1,000,000,000,000,000,000",
-				"total_supply": "884,129,240,357,135,000",
-				"twitter": "Doshi_Token",
-				"telegram": "DoshiPortal"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 4998,
-					"following_count": 166,
-					"tweet_count": 352,
-					"listed_count": 1
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 1091
-			},
-			"infoCoinMarketCap": {
-				"id": "19988",
 				"price": "$0.0...01308",
 				"variation": "21.40%",
 				"variation_is_up": false,
@@ -8799,9 +8772,36 @@
 				"twitter": "Doshi_Token",
 				"telegram": "DoshiPortal"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 4997,
+					"following_count": 166,
+					"tweet_count": 353,
+					"listed_count": 1
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 1091
+			},
+			"infoCoinMarketCap": {
+				"id": "19988",
+				"price": "$0.0...01347",
+				"variation": "20.70%",
+				"variation_is_up": false,
+				"rank": "#4332",
+				"watchlists": "405",
+				"marketcap": "$1,190,567",
+				"fully_diluted_marketcap": "$1,346,598",
+				"volume_24": "$110,195",
+				"volume_marketcap_24": "0.09256",
+				"max_supply": "1,000,000,000,000,000,000",
+				"total_supply": "884,129,240,357,135,000",
+				"twitter": "Doshi_Token",
+				"telegram": "DoshiPortal"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 4999,
 					"following_count": 166,
 					"tweet_count": 353,
 					"listed_count": 1
@@ -12475,7 +12475,71 @@
 				}
 			},
 			"dadosTelegram": {}
+		},
+		{
+			"id": "20077",
+			"name": "Sunflower Land",
+			"symbol": "SFL",
+			"blockchain": "Polygon",
+			"ativo": true,
+			"link": "/currencies/sunflower-land/",
+			"price": "$0.3925",
+			"_1h": "0.53%",
+			"_1h_up": false,
+			"_24h": "0.53%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$39,248,142",
+			"volume": "$2,175,874",
+			"date": "10/05/2022 11:37:05"
+		},
+		{
+			"id": "20076",
+			"name": "HonorLand",
+			"symbol": "HONOR",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/honorland/",
+			"price": "$0.0227",
+			"_1h": "24.08%",
+			"_1h_up": false,
+			"_24h": "21.26%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$4,539,600",
+			"volume": "$27,986",
+			"date": "10/05/2022 11:37:05"
+		},
+		{
+			"id": "20075",
+			"name": "NeorderDAO",
+			"symbol": "N3DR",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/neorderdao/",
+			"price": "$0.04176",
+			"_1h": "0.34%",
+			"_1h_up": false,
+			"_24h": "1.81%",
+			"_24h_up": false,
+			"fullyDilutedMarketCap": "$4,176,229",
+			"volume": "$326,507",
+			"date": "10/05/2022 11:37:05"
+		},
+		{
+			"id": "20049",
+			"name": "FIT Token",
+			"symbol": "FIT",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/calo/",
+			"price": "$3.09",
+			"_1h": "4.85%",
+			"_1h_up": false,
+			"_24h": "44.27%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "--",
+			"volume": "$3,734,265",
+			"date": "10/05/2022 11:37:05"
 		}
 	],
-	"total": 182
+	"total": 186
 }
