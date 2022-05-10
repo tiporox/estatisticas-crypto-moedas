@@ -12168,6 +12168,81 @@
 			"data_telegram": {
 				"data": 3293
 			}
+		},
+		{
+			"date": "10/05/2022 01:05:34",
+			"data_coin": {
+				"id": "19900",
+				"name": "Argo Finance",
+				"symbol": "ARGO",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/argo-finance/",
+				"price": "$0.01527",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$28,323",
+				"date": "02/05/2022 23:52:51",
+				"infoCoinMarketCap_1": {
+					"id": "19900",
+					"price": "$0.02075",
+					"variation": "13.04%",
+					"variation_is_up": false,
+					"rank": "#4954",
+					"watchlists": "318",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$38,819",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "ArgoProtocol",
+					"telegram": "Argo_Finance",
+					"contract": "0x47a9d630dc5b28f75d3af3be3aaa982512cd89aa"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12175,
+						"following_count": 30,
+						"tweet_count": 294,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 3293
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19900",
+				"price": "$0.02072",
+				"variation": "12.72%",
+				"variation_is_up": false,
+				"rank": "#5019",
+				"watchlists": "318",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$37,321",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "ArgoProtocol",
+				"telegram": "Argo_Finance",
+				"contract": "0x47a9d630dc5b28f75d3af3be3aaa982512cd89aa"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12091,
+					"following_count": 30,
+					"tweet_count": 294,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 3292
+			}
 		}
 	]
 }
