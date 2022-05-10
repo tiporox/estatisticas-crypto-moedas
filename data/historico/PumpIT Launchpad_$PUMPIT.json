@@ -1200,6 +1200,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "10/05/2022 16:01:49",
+			"data_coin": {
+				"id": "20066",
+				"name": "PumpIT Launchpad",
+				"symbol": "$PUMPIT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/pumpit-launchpad/",
+				"price": "$0.000007261",
+				"_1h": "0.33%",
+				"_1h_up": true,
+				"_24h": "0.33%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$4,182,373",
+				"volume": "$60,607",
+				"date": "09/05/2022 22:48:36",
+				"infoCoinMarketCap_1": {
+					"id": "20066",
+					"price": "$0.000007384",
+					"variation": "2.03%",
+					"variation_is_up": true,
+					"rank": "#4639",
+					"watchlists": "85",
+					"marketcap": "$696,597",
+					"fully_diluted_marketcap": "$4,253,291",
+					"volume_24": "$67,746",
+					"volume_marketcap_24": "0.09725",
+					"max_supply": "576,000,000,000",
+					"total_supply": "--",
+					"contract": "0x99749058B8c5660D7f6C5322E8De9945B4f9bCBd",
+					"telegram": "officialpumpittoken",
+					"twitter": "pumpit_io"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26586,
+						"following_count": 39,
+						"tweet_count": 81,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 31246
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20066",
+				"price": "$0.000007578",
+				"variation": "4.71%",
+				"variation_is_up": true,
+				"rank": "#4622",
+				"watchlists": "93",
+				"marketcap": "$714,893",
+				"fully_diluted_marketcap": "$4,365,003",
+				"volume_24": "$69,125",
+				"volume_marketcap_24": "0.09669",
+				"max_supply": "576,000,000,000",
+				"total_supply": "--",
+				"contract": "0x99749058B8c5660D7f6C5322E8De9945B4f9bCBd",
+				"telegram": "officialpumpittoken",
+				"twitter": "pumpit_io"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26590,
+					"following_count": 39,
+					"tweet_count": 82,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
