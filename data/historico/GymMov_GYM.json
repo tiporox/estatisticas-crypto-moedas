@@ -391,6 +391,81 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "10/05/2022 12:05:15",
+			"data_coin": {
+				"id": "20070",
+				"name": "GymMov",
+				"symbol": "GYM",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/gymmov/",
+				"price": "$0.05196",
+				"_1h": "0.02%",
+				"_1h_up": false,
+				"_24h": "0.02%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,598,092",
+				"volume": "$12,089,245",
+				"date": "10/05/2022 05:59:59",
+				"infoCoinMarketCap_1": {
+					"id": "20070",
+					"price": "$0.03922",
+					"variation": "24.53%",
+					"variation_is_up": false,
+					"rank": "#2886",
+					"watchlists": "158",
+					"marketcap": "$1,961,039",
+					"fully_diluted_marketcap": "$1,961,039",
+					"volume_24": "$13,286,757",
+					"volume_marketcap_24": "6.78",
+					"max_supply": "50,000,000",
+					"total_supply": "50,000,000",
+					"contract": "0x767d82142f04828f7881da697f118423834c8076",
+					"telegram": "gymmov",
+					"twitter": "MovGym"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 19190,
+						"following_count": 169,
+						"tweet_count": 118,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 40252
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20070",
+				"price": "$0.03659",
+				"variation": "29.60%",
+				"variation_is_up": false,
+				"rank": "#2884",
+				"watchlists": "203",
+				"marketcap": "$1,829,275",
+				"fully_diluted_marketcap": "$1,829,275",
+				"volume_24": "$13,553,301",
+				"volume_marketcap_24": "7.41",
+				"max_supply": "50,000,000",
+				"total_supply": "50,000,000",
+				"contract": "0x767d82142f04828f7881da697f118423834c8076",
+				"telegram": "gymmov",
+				"twitter": "MovGym"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 19240,
+					"following_count": 169,
+					"tweet_count": 118,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 40274
+			}
 		}
 	]
 }
