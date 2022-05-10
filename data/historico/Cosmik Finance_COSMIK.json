@@ -2343,6 +2343,81 @@
 			"data_telegram": {
 				"data": 897893
 			}
+		},
+		{
+			"date": "10/05/2022 15:54:55",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$1.64",
+					"variation": "15.35%",
+					"variation_is_up": false,
+					"rank": "#4292",
+					"watchlists": "103",
+					"marketcap": "$533,324",
+					"fully_diluted_marketcap": "$5,333,241,203",
+					"volume_24": "$114,723",
+					"volume_marketcap_24": "0.2151",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7146,
+						"following_count": 19,
+						"tweet_count": 41,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897857
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$1.67",
+				"variation": "8.61%",
+				"variation_is_up": false,
+				"rank": "#4253",
+				"watchlists": "107",
+				"marketcap": "$541,156",
+				"fully_diluted_marketcap": "$5,411,558,946",
+				"volume_24": "$121,638",
+				"volume_marketcap_24": "0.2248",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7149,
+					"following_count": 19,
+					"tweet_count": 41,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 897926
+			}
 		}
 	]
 }
