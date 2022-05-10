@@ -1770,6 +1770,79 @@
 			"data_telegram": {
 				"data": 897923
 			}
+		},
+		{
+			"date": "10/05/2022 19:49:53",
+			"data_coin": {
+				"id": "20052",
+				"name": "ROBBY",
+				"symbol": "ROBBY",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/robby/",
+				"price": "$0.09251",
+				"_1h": "1.66%",
+				"_1h_up": false,
+				"_24h": "13.19%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$925,072",
+				"volume": "$188,946",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20052",
+					"price": "$0.1381",
+					"variation": "33.51%",
+					"variation_is_up": true,
+					"rank": "#3842",
+					"watchlists": "110",
+					"marketcap": "$1,381,020",
+					"fully_diluted_marketcap": "$1,381,020",
+					"volume_24": "$237,075",
+					"volume_marketcap_24": "0.1717",
+					"max_supply": "10,000,000",
+					"total_supply": "10,000,000",
+					"twitter": "RobbyRaidBot",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 614,
+						"following_count": 7,
+						"tweet_count": 138,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897925
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20052",
+				"price": "$0.1089",
+				"variation": "9.16%",
+				"variation_is_up": true,
+				"rank": "#3827",
+				"watchlists": "119",
+				"marketcap": "$1,089,379",
+				"fully_diluted_marketcap": "$1,089,379",
+				"volume_24": "$238,594",
+				"volume_marketcap_24": "0.219",
+				"max_supply": "10,000,000",
+				"total_supply": "10,000,000",
+				"twitter": "RobbyRaidBot",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 617,
+					"following_count": 7,
+					"tweet_count": 143,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 897923
+			}
 		}
 	]
 }
