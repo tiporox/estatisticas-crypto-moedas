@@ -1581,6 +1581,81 @@
 			"data_telegram": {
 				"data": 2005
 			}
+		},
+		{
+			"date": "10/05/2022 17:51:30",
+			"data_coin": {
+				"id": "20061",
+				"name": "METAZONX",
+				"symbol": "ZONX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/metazonx/",
+				"price": "$0.006475",
+				"_1h": "0.13%",
+				"_1h_up": true,
+				"_24h": "0.13%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$6,475,298",
+				"volume": "$142,225",
+				"date": "09/05/2022 19:36:59",
+				"infoCoinMarketCap_1": {
+					"id": "20061",
+					"price": "$0.007066",
+					"variation": "9.27%",
+					"variation_is_up": true,
+					"rank": "#3809",
+					"watchlists": "96",
+					"marketcap": "$275,408",
+					"fully_diluted_marketcap": "$7,066,261",
+					"volume_24": "$261,077",
+					"volume_marketcap_24": "0.948",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0xa0a9a71c267aea60aa9d21d4911791cdb0a900b2",
+					"telegram": "METAZONX_ZH",
+					"twitter": "metazonx"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2692,
+						"following_count": 69,
+						"tweet_count": 67,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2004
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20061",
+				"price": "$0.006866",
+				"variation": "6.18%",
+				"variation_is_up": true,
+				"rank": "#3770",
+				"watchlists": "101",
+				"marketcap": "$267,616",
+				"fully_diluted_marketcap": "$6,866,356",
+				"volume_24": "$267,314",
+				"volume_marketcap_24": "0.9989",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0xa0a9a71c267aea60aa9d21d4911791cdb0a900b2",
+				"telegram": "METAZONX_ZH",
+				"twitter": "metazonx"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2693,
+					"following_count": 69,
+					"tweet_count": 67,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 2005
+			}
 		}
 	]
 }
