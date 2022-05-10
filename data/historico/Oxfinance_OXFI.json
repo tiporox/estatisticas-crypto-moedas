@@ -2718,6 +2718,81 @@
 			"data_telegram": {
 				"data": 898050
 			}
+		},
+		{
+			"date": "09/05/2022 21:41:03",
+			"data_coin": {
+				"id": "20018",
+				"name": "Oxfinance",
+				"symbol": "OXFI",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/oxfinance/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "08/05/2022 08:19:20",
+				"infoCoinMarketCap_1": {
+					"id": "20018",
+					"price": "$0.3912",
+					"variation": "13.35%",
+					"variation_is_up": false,
+					"rank": "#4036",
+					"watchlists": "119",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$176,964",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "ox_finance",
+					"contract": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2347,
+						"following_count": 16,
+						"tweet_count": 31,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 898063
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20018",
+				"price": "$0.3725",
+				"variation": "10.37%",
+				"variation_is_up": false,
+				"rank": "#4294",
+				"watchlists": "119",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$101,630",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "ox_finance",
+				"contract": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2348,
+					"following_count": 16,
+					"tweet_count": 31,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 898047
+			}
 		}
 	]
 }
