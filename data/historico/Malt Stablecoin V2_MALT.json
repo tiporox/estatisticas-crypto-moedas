@@ -2118,6 +2118,81 @@
 			"data_telegram": {
 				"data": 897697
 			}
+		},
+		{
+			"date": "10/05/2022 07:44:54",
+			"data_coin": {
+				"id": "20026",
+				"name": "Malt Stablecoin V2",
+				"symbol": "MALT",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/malt-stablecoin-v2/",
+				"price": "$0.9921",
+				"_1h": "0.42%",
+				"_1h_up": true,
+				"_24h": "0.42%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$10,294,091",
+				"volume": "$10,602,544",
+				"date": "09/05/2022 02:27:51",
+				"infoCoinMarketCap_1": {
+					"id": "20026",
+					"price": "$0.9351",
+					"variation": "6.79%",
+					"variation_is_up": false,
+					"rank": "#2902",
+					"watchlists": "54",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$9,703,062",
+					"volume_24": "$10,207,027",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,376,429",
+					"total_supply": "10,376,429",
+					"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+					"twitter": "MaltProtocol",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4099,
+						"following_count": 79,
+						"tweet_count": 232,
+						"listed_count": 44
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897742
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20026",
+				"price": "$0.9347",
+				"variation": "0.10%",
+				"variation_is_up": true,
+				"rank": "#2903",
+				"watchlists": "56",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$9,698,492",
+				"volume_24": "$10,189,751",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,376,429",
+				"total_supply": "10,376,429",
+				"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+				"twitter": "MaltProtocol",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4101,
+					"following_count": 79,
+					"tweet_count": 232,
+					"listed_count": 44
+				}
+			},
+			"data_telegram": {
+				"data": 897734
+			}
 		}
 	]
 }
