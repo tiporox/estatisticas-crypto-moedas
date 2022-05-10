@@ -168,6 +168,81 @@
 			"data_telegram": {
 				"data": 8655
 			}
+		},
+		{
+			"date": "09/05/2022 21:34:33",
+			"data_coin": {
+				"id": "20051",
+				"name": "ELON CAT COIN",
+				"symbol": "ELONCAT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-cat-coin/",
+				"price": "$0.000002548",
+				"_1h": "1.83%",
+				"_1h_up": false,
+				"_24h": "26.21%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,548,453",
+				"volume": "$52,178",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20051",
+					"price": "$0.000002613",
+					"variation": "24.34%",
+					"variation_is_up": false,
+					"rank": "#4802",
+					"watchlists": "8",
+					"marketcap": "$261,315",
+					"fully_diluted_marketcap": "$2,613,152",
+					"volume_24": "$54,653",
+					"volume_marketcap_24": "0.2091",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+					"telegram": "ElonCatCoin",
+					"twitter": "ElonCatBSC"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5206,
+						"following_count": 2,
+						"tweet_count": 25,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8656
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20051",
+				"price": "$0.000001021",
+				"variation": "70.43%",
+				"variation_is_up": false,
+				"rank": "#4922",
+				"watchlists": "22",
+				"marketcap": "$102,135",
+				"fully_diluted_marketcap": "$1,021,354",
+				"volume_24": "$40,030",
+				"volume_marketcap_24": "0.3919",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+				"telegram": "ElonCatCoin",
+				"twitter": "ElonCatBSC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5209,
+					"following_count": 2,
+					"tweet_count": 25,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 8655
+			}
 		}
 	]
 }
