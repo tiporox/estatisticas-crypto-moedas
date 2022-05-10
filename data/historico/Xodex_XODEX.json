@@ -10293,6 +10293,81 @@
 			"data_telegram": {
 				"data": 2447
 			}
+		},
+		{
+			"date": "10/05/2022 07:10:41",
+			"data_coin": {
+				"id": "19932",
+				"name": "Xodex",
+				"symbol": "XODEX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/xodex/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "04/05/2022 07:03:12",
+				"infoCoinMarketCap_1": {
+					"id": "19932",
+					"price": "$0.000598",
+					"variation": "4.99%",
+					"variation_is_up": false,
+					"rank": "#4144",
+					"watchlists": "448",
+					"marketcap": "$5,680,578",
+					"fully_diluted_marketcap": "$5,979,556",
+					"volume_24": "$146,717",
+					"volume_marketcap_24": "0.02583",
+					"max_supply": "10,000,000,000",
+					"total_supply": "9,500,000,000",
+					"contract": "0xddD9d7D280c78b564C55BEb26562E367d4b9Bd8a",
+					"telegram": "XODEXofficialgroup",
+					"twitter": "XODEXoffical"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1757,
+						"following_count": 5,
+						"tweet_count": 209,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2445
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19932",
+				"price": "$0.0007044",
+				"variation": "12.51%",
+				"variation_is_up": true,
+				"rank": "#4103",
+				"watchlists": "456",
+				"marketcap": "$6,691,363",
+				"fully_diluted_marketcap": "$7,043,540",
+				"volume_24": "$160,861",
+				"volume_marketcap_24": "0.02404",
+				"max_supply": "10,000,000,000",
+				"total_supply": "9,500,000,000",
+				"contract": "0xddD9d7D280c78b564C55BEb26562E367d4b9Bd8a",
+				"telegram": "XODEXofficialgroup",
+				"twitter": "XODEXoffical"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1759,
+					"following_count": 5,
+					"tweet_count": 209,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 2447
+			}
 		}
 	]
 }
