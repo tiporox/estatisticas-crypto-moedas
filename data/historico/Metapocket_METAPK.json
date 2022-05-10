@@ -393,6 +393,81 @@
 			"data_telegram": {
 				"data": 13561
 			}
+		},
+		{
+			"date": "10/05/2022 00:36:42",
+			"data_coin": {
+				"id": "20057",
+				"name": "Metapocket",
+				"symbol": "METAPK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/metapocket/",
+				"price": "$6.23",
+				"_1h": "0.52%",
+				"_1h_up": true,
+				"_24h": "0.51%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$74,811,714",
+				"volume": "$141,731",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20057",
+					"price": "$6.18",
+					"variation": "0.31%",
+					"variation_is_up": false,
+					"rank": "#4913",
+					"watchlists": "20",
+					"marketcap": "$8,752,271",
+					"fully_diluted_marketcap": "$74,203,702",
+					"volume_24": "$42,301",
+					"volume_marketcap_24": "0.004833",
+					"max_supply": "12,000,000",
+					"total_supply": "11,145,391",
+					"contract": "0x44690f7c8e56430eb6bfc7c1071da67b27c76242",
+					"telegram": "Metapocket",
+					"twitter": "MetapocketW"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 13456,
+						"following_count": 25,
+						"tweet_count": 74,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 13560
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20057",
+				"price": "$6.22",
+				"variation": "0.33%",
+				"variation_is_up": true,
+				"rank": "#4752",
+				"watchlists": "27",
+				"marketcap": "$8,808,480",
+				"fully_diluted_marketcap": "$74,680,258",
+				"volume_24": "$55,289",
+				"volume_marketcap_24": "0.006277",
+				"max_supply": "12,000,000",
+				"total_supply": "11,145,391",
+				"contract": "0x44690f7c8e56430eb6bfc7c1071da67b27c76242",
+				"telegram": "Metapocket",
+				"twitter": "MetapocketW"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 13459,
+					"following_count": 25,
+					"tweet_count": 74,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 13561
+			}
 		}
 	]
 }
