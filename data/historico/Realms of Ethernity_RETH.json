@@ -6914,6 +6914,81 @@
 			"data_telegram": {
 				"data": 28221
 			}
+		},
+		{
+			"date": "10/05/2022 09:15:54",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.04338",
+					"variation": "4.78%",
+					"variation_is_up": false,
+					"rank": "#6906",
+					"watchlists": "681",
+					"marketcap": "$759,085",
+					"fully_diluted_marketcap": "$59,772,491",
+					"volume_24": "$1,408",
+					"volume_marketcap_24": "0.001855",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 122601,
+						"following_count": 54,
+						"tweet_count": 1430,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 28235
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.04379",
+				"variation": "0.73%",
+				"variation_is_up": true,
+				"rank": "#8507",
+				"watchlists": "682",
+				"marketcap": "$766,295",
+				"fully_diluted_marketcap": "$60,340,276",
+				"volume_24": "$12",
+				"volume_marketcap_24": "0.00001521",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 122627,
+					"following_count": 54,
+					"tweet_count": 1431,
+					"listed_count": 47
+				}
+			},
+			"data_telegram": {
+				"data": 28219
+			}
 		}
 	]
 }
