@@ -7833,6 +7833,81 @@
 			"data_telegram": {
 				"data": 4982
 			}
+		},
+		{
+			"date": "10/05/2022 15:18:29",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.0000008589",
+					"variation": "8.50%",
+					"variation_is_up": false,
+					"rank": "#6018",
+					"watchlists": "369",
+					"marketcap": "$377,565",
+					"fully_diluted_marketcap": "$858,854",
+					"volume_24": "$7,639",
+					"volume_marketcap_24": "0.02023",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7657,
+						"following_count": 7,
+						"tweet_count": 55,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4983
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.0000008642",
+				"variation": "5.34%",
+				"variation_is_up": false,
+				"rank": "#6003",
+				"watchlists": "370",
+				"marketcap": "$379,896",
+				"fully_diluted_marketcap": "$864,156",
+				"volume_24": "$7,896",
+				"volume_marketcap_24": "0.02078",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7657,
+					"following_count": 7,
+					"tweet_count": 55,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 4980
+			}
 		}
 	]
 }
