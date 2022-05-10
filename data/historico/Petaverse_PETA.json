@@ -15834,6 +15834,74 @@
 			"data_telegram": {
 				"data": 5573
 			}
+		},
+		{
+			"date": "10/05/2022 18:00:20",
+			"data_coin": {
+				"id": "19813",
+				"name": "Petaverse",
+				"symbol": "PETA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/petaverse/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4477,
+						"following_count": 58,
+						"tweet_count": 411,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 5573
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19813",
+					"price": "$0.000000002229",
+					"variation": "23.63%",
+					"variation_is_up": true,
+					"rank": "#5302",
+					"watchlists": "517",
+					"marketcap": "$445,820",
+					"fully_diluted_marketcap": "$445,820",
+					"volume_24": "$25,416",
+					"volume_marketcap_24": "0.05701",
+					"max_supply": "200,000,000,000,000",
+					"total_supply": "200,000,000,000,000",
+					"contract": "0x3c49a8bc5469a3e4b4ad00fdad33a01ebaa4ad35",
+					"twitter": "PETAVERSECOIN",
+					"telegram": "petaversecoin"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19813",
+				"price": "$0.000000002202",
+				"variation": "20.01%",
+				"variation_is_up": true,
+				"rank": "#5279",
+				"watchlists": "518",
+				"marketcap": "$440,377",
+				"fully_diluted_marketcap": "$440,377",
+				"volume_24": "$25,162",
+				"volume_marketcap_24": "0.05714",
+				"max_supply": "200,000,000,000,000",
+				"total_supply": "200,000,000,000,000",
+				"contract": "0x3c49a8bc5469a3e4b4ad00fdad33a01ebaa4ad35",
+				"twitter": "PETAVERSECOIN",
+				"telegram": "petaversecoin"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4477,
+					"following_count": 58,
+					"tweet_count": 412,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 5572
+			}
 		}
 	]
 }
