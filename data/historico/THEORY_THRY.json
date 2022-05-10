@@ -160,6 +160,77 @@
 			"data_telegram": {
 				"data": 234
 			}
+		},
+		{
+			"date": "10/05/2022 14:29:13",
+			"data_coin": {
+				"id": "20027",
+				"name": "THEORY",
+				"symbol": "THRY",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/theory/",
+				"price": "$0.01693",
+				"_1h": "0.01%",
+				"_1h_up": false,
+				"_24h": "0.01%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$16,925,200",
+				"volume": "$292,759",
+				"date": "10/05/2022 11:26:58",
+				"infoCoinMarketCap_1": {
+					"id": "20027",
+					"price": "$0.01697",
+					"variation": "0.28%",
+					"variation_is_up": true,
+					"rank": "#3754",
+					"watchlists": "41",
+					"marketcap": "$3,394,834",
+					"fully_diluted_marketcap": "$16,974,169",
+					"volume_24": "$288,227",
+					"volume_marketcap_24": "0.0849",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"telegram": "sciencedaochat",
+					"twitter": "thesciencedao"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1675,
+						"following_count": 211,
+						"tweet_count": 238,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 234
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20027",
+				"price": "$0.01567",
+				"variation": "7.40%",
+				"variation_is_up": false,
+				"rank": "#3827",
+				"watchlists": "45",
+				"marketcap": "$3,134,654",
+				"fully_diluted_marketcap": "$15,673,268",
+				"volume_24": "$250,717",
+				"volume_marketcap_24": "0.07998",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"telegram": "sciencedaochat",
+				"twitter": "thesciencedao"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1675,
+					"following_count": 211,
+					"tweet_count": 238,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
