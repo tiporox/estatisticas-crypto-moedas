@@ -9168,6 +9168,81 @@
 			"data_telegram": {
 				"data": 4819
 			}
+		},
+		{
+			"date": "10/05/2022 08:12:11",
+			"data_coin": {
+				"id": "19967",
+				"name": "Banana Index",
+				"symbol": "BANDEX",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/banana-index/",
+				"price": "$0.000001868",
+				"_1h": "15.59%",
+				"_1h_up": true,
+				"_24h": "15.59%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,867,972",
+				"volume": "$193,485",
+				"date": "05/05/2022 03:43:59",
+				"infoCoinMarketCap_1": {
+					"id": "19967",
+					"price": "$0.000002015",
+					"variation": "2.66%",
+					"variation_is_up": false,
+					"rank": "#3930",
+					"watchlists": "342",
+					"marketcap": "$2,014,638",
+					"fully_diluted_marketcap": "$2,014,638",
+					"volume_24": "$211,738",
+					"volume_marketcap_24": "0.1051",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"twitter": "BananaTFA",
+					"telegram": "BananaTFApe",
+					"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9409,
+						"following_count": 151,
+						"tweet_count": 538,
+						"listed_count": 17
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4819
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19967",
+				"price": "$0.000002003",
+				"variation": "6.92%",
+				"variation_is_up": false,
+				"rank": "#3949",
+				"watchlists": "342",
+				"marketcap": "$2,002,905",
+				"fully_diluted_marketcap": "$2,002,905",
+				"volume_24": "$202,788",
+				"volume_marketcap_24": "0.1012",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"twitter": "BananaTFA",
+				"telegram": "BananaTFApe",
+				"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9429,
+					"following_count": 151,
+					"tweet_count": 538,
+					"listed_count": 17
+				}
+			},
+			"data_telegram": {
+				"data": 4816
+			}
 		}
 	]
 }
