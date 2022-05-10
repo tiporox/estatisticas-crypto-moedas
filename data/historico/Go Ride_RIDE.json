@@ -1111,6 +1111,79 @@
 			"data_telegram": {
 				"data": 6302
 			}
+		},
+		{
+			"date": "10/05/2022 15:00:58",
+			"data_coin": {
+				"id": "20064",
+				"name": "Go Ride",
+				"symbol": "RIDE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/go-ride/",
+				"price": "$0.008494",
+				"_1h": "0.99%",
+				"_1h_up": false,
+				"_24h": "9.70%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$424,698",
+				"volume": "$345,144",
+				"date": "09/05/2022 22:48:36",
+				"infoCoinMarketCap_1": {
+					"id": "20064",
+					"price": "$0.01474",
+					"variation": "56.74%",
+					"variation_is_up": true,
+					"rank": "#3277",
+					"watchlists": "439",
+					"marketcap": "$737,212",
+					"fully_diluted_marketcap": "$737,212",
+					"volume_24": "$894,041",
+					"volume_marketcap_24": "1.21",
+					"max_supply": "50,000,000",
+					"total_supply": "50,000,000",
+					"contract": "0x489a7442ff6bbbbCd4C2788A603f0eC5D2fa3a08",
+					"telegram": "GoRideOfficialBSC",
+					"twitter": "GoRideBSC"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3212,
+						"following_count": 87,
+						"tweet_count": 129,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6299
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20064",
+				"price": "$0.0237",
+				"variation": "151.92%",
+				"variation_is_up": true,
+				"rank": "#3206",
+				"watchlists": "478",
+				"marketcap": "$1,184,875",
+				"fully_diluted_marketcap": "$1,184,875",
+				"volume_24": "$1,173,771",
+				"volume_marketcap_24": "0.9906",
+				"max_supply": "50,000,000",
+				"total_supply": "50,000,000",
+				"contract": "0x489a7442ff6bbbbCd4C2788A603f0eC5D2fa3a08",
+				"telegram": "GoRideOfficialBSC",
+				"twitter": "GoRideBSC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3230,
+					"following_count": 87,
+					"tweet_count": 132,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
