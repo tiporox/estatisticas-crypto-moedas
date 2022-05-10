@@ -1885,6 +1885,81 @@
 			"data_telegram": {
 				"data": 1978
 			}
+		},
+		{
+			"date": "10/05/2022 11:57:13",
+			"data_coin": {
+				"id": "20039",
+				"name": "Million Dollar Baby",
+				"symbol": "MDB",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/million-dollar-baby/",
+				"price": "$0.003896",
+				"_1h": "1.98%",
+				"_1h_up": true,
+				"_24h": "2.11%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$3,896,191",
+				"volume": "$134,093",
+				"date": "09/05/2022 09:41:19",
+				"infoCoinMarketCap_1": {
+					"id": "20039",
+					"price": "$0.005456",
+					"variation": "39.76%",
+					"variation_is_up": true,
+					"rank": "#3481",
+					"watchlists": "447",
+					"marketcap": "$5,455,818",
+					"fully_diluted_marketcap": "$5,455,818",
+					"volume_24": "$490,392",
+					"volume_marketcap_24": "0.08988",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+					"telegram": "mdbtoken",
+					"twitter": "mdb_defi"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4894,
+						"following_count": 43,
+						"tweet_count": 207,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1977
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20039",
+				"price": "$0.005168",
+				"variation": "26.97%",
+				"variation_is_up": true,
+				"rank": "#3477",
+				"watchlists": "454",
+				"marketcap": "$5,167,599",
+				"fully_diluted_marketcap": "$5,167,599",
+				"volume_24": "$502,270",
+				"volume_marketcap_24": "0.0972",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+				"telegram": "mdbtoken",
+				"twitter": "mdb_defi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4897,
+					"following_count": 43,
+					"tweet_count": 207,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 1987
+			}
 		}
 	]
 }
