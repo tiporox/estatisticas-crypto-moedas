@@ -308,6 +308,77 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "11/05/2022 05:08:42",
+			"data_coin": {
+				"id": "20080",
+				"name": "Chaotic Finance",
+				"symbol": "CHAOS",
+				"blockchain": "Moonriver",
+				"ativo": true,
+				"link": "/currencies/chaotic-finance/",
+				"price": "$0.04492",
+				"_1h": "0.58%",
+				"_1h_up": false,
+				"_24h": "0.58%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,492,321",
+				"volume": "--",
+				"date": "11/05/2022 00:07:23",
+				"infoCoinMarketCap_1": {
+					"id": "20080",
+					"price": "$0.04377",
+					"variation": "3.13%",
+					"variation_is_up": false,
+					"rank": "#10111",
+					"watchlists": "15",
+					"marketcap": "$68,883",
+					"fully_diluted_marketcap": "$4,376,831",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"telegram": "chaotic_finance",
+					"twitter": "Chaotic_Finance"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 1175,
+						"following_count": 6,
+						"tweet_count": 108,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 238
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20080",
+				"price": "$0.04022",
+				"variation": "10.99%",
+				"variation_is_up": false,
+				"rank": "#10113",
+				"watchlists": "17",
+				"marketcap": "$63,296",
+				"fully_diluted_marketcap": "$4,021,836",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"telegram": "chaotic_finance",
+				"twitter": "Chaotic_Finance"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1177,
+					"following_count": 6,
+					"tweet_count": 109,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
