@@ -1115,6 +1115,81 @@
 			"data_telegram": {
 				"data": 36671
 			}
+		},
+		{
+			"date": "11/05/2022 03:48:29",
+			"data_coin": {
+				"id": "20076",
+				"name": "HonorLand",
+				"symbol": "HONOR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/honorland/",
+				"price": "$0.0227",
+				"_1h": "24.08%",
+				"_1h_up": false,
+				"_24h": "21.26%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,539,600",
+				"volume": "$27,986",
+				"date": "10/05/2022 11:37:05",
+				"infoCoinMarketCap_1": {
+					"id": "20076",
+					"price": "$0.02015",
+					"variation": "30.11%",
+					"variation_is_up": false,
+					"rank": "#4953",
+					"watchlists": "54",
+					"marketcap": "$4,029,590",
+					"fully_diluted_marketcap": "$4,029,590",
+					"volume_24": "$32,500",
+					"volume_marketcap_24": "0.008065",
+					"max_supply": "200,000,000",
+					"total_supply": "200,000,000",
+					"contract": "0x1b2787af667ed1ca66245ffca4ff64076eef321a",
+					"twitter": "HonorLandGame",
+					"telegram": "Honor_Land"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26200,
+						"following_count": 1143,
+						"tweet_count": 376,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 36741
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20076",
+				"price": "$0.019",
+				"variation": "34.10%",
+				"variation_is_up": false,
+				"rank": "#4975",
+				"watchlists": "57",
+				"marketcap": "$3,799,724",
+				"fully_diluted_marketcap": "$3,799,724",
+				"volume_24": "$32,041",
+				"volume_marketcap_24": "0.008432",
+				"max_supply": "200,000,000",
+				"total_supply": "200,000,000",
+				"contract": "0x1b2787af667ed1ca66245ffca4ff64076eef321a",
+				"twitter": "HonorLandGame",
+				"telegram": "Honor_Land"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26206,
+					"following_count": 1143,
+					"tweet_count": 377,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 36658
+			}
 		}
 	]
 }
