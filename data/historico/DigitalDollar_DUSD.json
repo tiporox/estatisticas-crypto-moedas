@@ -12351,6 +12351,79 @@
 			"data_telegram": {
 				"data": 2243
 			}
+		},
+		{
+			"date": "11/05/2022 16:25:55",
+			"data_coin": {
+				"id": "19933",
+				"name": "DigitalDollar",
+				"symbol": "DUSD",
+				"blockchain": "Own Blockchain",
+				"ativo": true,
+				"link": "/currencies/digitaldollar/",
+				"price": "$0.9981",
+				"_1h": "0.03%",
+				"_1h_up": true,
+				"_24h": "0.03%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2",
+				"volume": "--",
+				"date": "04/05/2022 07:18:21",
+				"infoCoinMarketCap_1": {
+					"id": "19933",
+					"price": "$0.8355",
+					"variation": "15.68%",
+					"variation_is_up": false,
+					"rank": "#10113",
+					"watchlists": "47",
+					"marketcap": "$2",
+					"fully_diluted_marketcap": "$2",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "2",
+					"twitter": "fluid_fi",
+					"telegram": "fluid_fi"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3397,
+						"following_count": 49,
+						"tweet_count": 460,
+						"listed_count": 37
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2243
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19933",
+				"price": "$0.8208",
+				"variation": "17.59%",
+				"variation_is_up": false,
+				"rank": "#10110",
+				"watchlists": "47",
+				"marketcap": "$1",
+				"fully_diluted_marketcap": "$1",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "2",
+				"twitter": "fluid_fi",
+				"telegram": "fluid_fi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3400,
+					"following_count": 49,
+					"tweet_count": 462,
+					"listed_count": 37
+				}
+			},
+			"data_telegram": {
+				"data": 2246
+			}
 		}
 	]
 }
