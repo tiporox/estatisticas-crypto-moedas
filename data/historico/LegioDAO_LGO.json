@@ -10743,6 +10743,81 @@
 			"data_telegram": {
 				"data": 27868
 			}
+		},
+		{
+			"date": "11/05/2022 05:23:45",
+			"data_coin": {
+				"id": "19968",
+				"name": "LegioDAO",
+				"symbol": "LGO",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/legiodao/",
+				"price": "$0.08931",
+				"_1h": "0.23%",
+				"_1h_up": true,
+				"_24h": "0.23%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$8,931,261",
+				"volume": "$26,763",
+				"date": "05/05/2022 03:50:03",
+				"infoCoinMarketCap_1": {
+					"id": "19968",
+					"price": "$0.07872",
+					"variation": "1.08%",
+					"variation_is_up": false,
+					"rank": "#6436",
+					"watchlists": "275",
+					"marketcap": "$393,589",
+					"fully_diluted_marketcap": "$7,871,771",
+					"volume_24": "$2,214",
+					"volume_marketcap_24": "0.005625",
+					"max_supply": "99,999,998",
+					"total_supply": "100,000,000",
+					"contract": "0x44c663476eCb54487c95e82C5bD05B9694253A9F",
+					"twitter": "LegioDAO",
+					"telegram": "LegioDaoOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 19799,
+						"following_count": 6,
+						"tweet_count": 71,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 27869
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19968",
+				"price": "$0.07867",
+				"variation": "0.92%",
+				"variation_is_up": false,
+				"rank": "#6453",
+				"watchlists": "275",
+				"marketcap": "$393,340",
+				"fully_diluted_marketcap": "$7,866,808",
+				"volume_24": "$2,366",
+				"volume_marketcap_24": "0.006014",
+				"max_supply": "99,999,998",
+				"total_supply": "100,000,000",
+				"contract": "0x44c663476eCb54487c95e82C5bD05B9694253A9F",
+				"twitter": "LegioDAO",
+				"telegram": "LegioDaoOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 19823,
+					"following_count": 6,
+					"tweet_count": 71,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 27869
+			}
 		}
 	]
 }
