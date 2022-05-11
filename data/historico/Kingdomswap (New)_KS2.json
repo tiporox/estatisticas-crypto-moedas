@@ -381,6 +381,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "11/05/2022 07:43:40",
+			"data_coin": {
+				"id": "20078",
+				"name": "Kingdomswap (New)",
+				"symbol": "KS2",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/kingdomswap-2/",
+				"price": "$0.01141",
+				"_1h": "0.70%",
+				"_1h_up": false,
+				"_24h": "6.75%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$36,763",
+				"date": "11/05/2022 01:42:38",
+				"infoCoinMarketCap_1": {
+					"id": "20078",
+					"price": "$0.01105",
+					"variation": "3.42%",
+					"variation_is_up": true,
+					"rank": "#4904",
+					"watchlists": "2,198",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$37,112",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "0x4E7181434f6fC45cA4A7fc88A5c0201Cd781aCe7",
+					"twitter": "kingdomswapgame",
+					"telegram": "kingdomswapgame"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7393,
+						"following_count": 107,
+						"tweet_count": 163,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20078",
+				"price": "$0.01123",
+				"variation": "5.06%",
+				"variation_is_up": true,
+				"rank": "#4916",
+				"watchlists": "2,201",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$38,430",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0x4E7181434f6fC45cA4A7fc88A5c0201Cd781aCe7",
+				"twitter": "kingdomswapgame",
+				"telegram": "kingdomswapgame"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7392,
+					"following_count": 107,
+					"tweet_count": 163,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 1784
+			}
 		}
 	]
 }
