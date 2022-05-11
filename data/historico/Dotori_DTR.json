@@ -592,6 +592,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "11/05/2022 11:30:21",
+			"data_coin": {
+				"id": "20083",
+				"name": "Dotori",
+				"symbol": "DTR",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/dotori/",
+				"price": "$1.67",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$16,703,538,505",
+				"volume": "$5,059,905",
+				"date": "11/05/2022 02:28:12",
+				"infoCoinMarketCap_1": {
+					"id": "20083",
+					"price": "$1.68",
+					"variation": "0.57%",
+					"variation_is_up": true,
+					"rank": "#2964",
+					"watchlists": "31",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$16,798,727,856",
+					"volume_24": "$4,294,372",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "10,000,000,000",
+					"twitter": "CyworldOfficial",
+					"telegram": "CyworldOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 36219,
+						"following_count": 2,
+						"tweet_count": 21,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 66577
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20083",
+				"price": "$1.67",
+				"variation": "0.15%",
+				"variation_is_up": false,
+				"rank": "#2969",
+				"watchlists": "41",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$16,678,871,600",
+				"volume_24": "$4,288,076",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "10,000,000,000",
+				"twitter": "CyworldOfficial",
+				"telegram": "CyworldOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 36218,
+					"following_count": 2,
+					"tweet_count": 21,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 66574
+			}
 		}
 	]
 }
