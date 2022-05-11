@@ -2635,6 +2635,81 @@
 			"data_telegram": {
 				"data": 1989
 			}
+		},
+		{
+			"date": "10/05/2022 22:04:23",
+			"data_coin": {
+				"id": "20039",
+				"name": "Million Dollar Baby",
+				"symbol": "MDB",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/million-dollar-baby/",
+				"price": "$0.003896",
+				"_1h": "1.98%",
+				"_1h_up": true,
+				"_24h": "2.11%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$3,896,191",
+				"volume": "$134,093",
+				"date": "09/05/2022 09:41:19",
+				"infoCoinMarketCap_1": {
+					"id": "20039",
+					"price": "$0.004957",
+					"variation": "0.70%",
+					"variation_is_up": true,
+					"rank": "#3394",
+					"watchlists": "482",
+					"marketcap": "$4,956,942",
+					"fully_diluted_marketcap": "$4,956,942",
+					"volume_24": "$581,454",
+					"volume_marketcap_24": "0.1173",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+					"telegram": "mdbtoken",
+					"twitter": "mdb_defi"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4916,
+						"following_count": 43,
+						"tweet_count": 207,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1988
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20039",
+				"price": "$0.0052",
+				"variation": "16.14%",
+				"variation_is_up": true,
+				"rank": "#3835",
+				"watchlists": "486",
+				"marketcap": "$5,199,519",
+				"fully_diluted_marketcap": "$5,199,519",
+				"volume_24": "$201,709",
+				"volume_marketcap_24": "0.03879",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+				"telegram": "mdbtoken",
+				"twitter": "mdb_defi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4916,
+					"following_count": 43,
+					"tweet_count": 207,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 1990
+			}
 		}
 	]
 }
