@@ -1954,6 +1954,81 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "11/05/2022 15:36:43",
+			"data_coin": {
+				"id": "20081",
+				"name": "OmniaVerse",
+				"symbol": "OMNIA",
+				"blockchain": "Bitgert",
+				"ativo": true,
+				"link": "/currencies/omniaverse/",
+				"price": "$0.004045",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,045,384",
+				"volume": "$362,180",
+				"date": "10/05/2022 12:24:43",
+				"infoCoinMarketCap_1": {
+					"id": "20081",
+					"price": "$0.003166",
+					"variation": "23.21%",
+					"variation_is_up": false,
+					"rank": "#3509",
+					"watchlists": "314",
+					"marketcap": "$2,121,294",
+					"fully_diluted_marketcap": "$3,166,111",
+					"volume_24": "$457,116",
+					"volume_marketcap_24": "0.2155",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0x5d4685c2C75581C67b9D6292A065a767bC214681",
+					"telegram": "omniaverseOfficial",
+					"twitter": "omniaverse"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5340,
+						"following_count": 6,
+						"tweet_count": 222,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2415
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20081",
+				"price": "$0.003175",
+				"variation": "19.01%",
+				"variation_is_up": false,
+				"rank": "#3514",
+				"watchlists": "318",
+				"marketcap": "$2,127,010",
+				"fully_diluted_marketcap": "$3,174,641",
+				"volume_24": "$462,349",
+				"volume_marketcap_24": "0.2174",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x5d4685c2C75581C67b9D6292A065a767bC214681",
+				"telegram": "omniaverseOfficial",
+				"twitter": "omniaverse"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5342,
+					"following_count": 6,
+					"tweet_count": 222,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 2423
+			}
 		}
 	]
 }
