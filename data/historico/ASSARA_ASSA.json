@@ -673,6 +673,81 @@
 			"data_telegram": {
 				"data": 61702
 			}
+		},
+		{
+			"date": "11/05/2022 14:31:17",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.00002755",
+					"variation": "15.94%",
+					"variation_is_up": false,
+					"rank": "#5279",
+					"watchlists": "2,898",
+					"marketcap": "$2,755,127",
+					"fully_diluted_marketcap": "$2,755,127",
+					"volume_24": "$25,109",
+					"volume_marketcap_24": "0.009114",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 54061,
+						"following_count": 25,
+						"tweet_count": 35,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 61685
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.00002753",
+				"variation": "15.99%",
+				"variation_is_up": false,
+				"rank": "#5320",
+				"watchlists": "3,072",
+				"marketcap": "$2,753,491",
+				"fully_diluted_marketcap": "$2,753,491",
+				"volume_24": "$25,078",
+				"volume_marketcap_24": "0.009108",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 54116,
+					"following_count": 25,
+					"tweet_count": 35,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 61717
+			}
 		}
 	]
 }
