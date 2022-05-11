@@ -3393,6 +3393,81 @@
 			"data_telegram": {
 				"data": 897853
 			}
+		},
+		{
+			"date": "11/05/2022 06:00:53",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$1.31",
+					"variation": "27.70%",
+					"variation_is_up": false,
+					"rank": "#4728",
+					"watchlists": "119",
+					"marketcap": "$425,801",
+					"fully_diluted_marketcap": "$4,258,006,992",
+					"volume_24": "$47,656",
+					"volume_marketcap_24": "0.1119",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7154,
+						"following_count": 19,
+						"tweet_count": 41,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897901
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$1.25",
+				"variation": "29.54%",
+				"variation_is_up": false,
+				"rank": "#4689",
+				"watchlists": "120",
+				"marketcap": "$405,908",
+				"fully_diluted_marketcap": "$4,059,076,287",
+				"volume_24": "$52,205",
+				"volume_marketcap_24": "0.1286",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7154,
+					"following_count": 19,
+					"tweet_count": 41,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 897817
+			}
 		}
 	]
 }
