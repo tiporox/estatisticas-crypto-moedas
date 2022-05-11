@@ -13893,6 +13893,81 @@
 			"data_telegram": {
 				"data": 12661
 			}
+		},
+		{
+			"date": "11/05/2022 01:21:23",
+			"data_coin": {
+				"id": "19891",
+				"name": "USDD",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/usdd/",
+				"price": "$1.02",
+				"_1h": "0.30%",
+				"_1h_up": false,
+				"_24h": "2.03%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$33,909,324",
+				"volume": "$898,132",
+				"date": "03/05/2022 00:37:19",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$1.00",
+					"variation": "0.12%",
+					"variation_is_up": true,
+					"rank": "#143",
+					"watchlists": "1,346",
+					"marketcap": "$256,022,190",
+					"fully_diluted_marketcap": "$256,022,190",
+					"volume_24": "$17,780,783",
+					"volume_marketcap_24": "0.06945",
+					"max_supply": "--",
+					"total_supply": "255,914,907",
+					"twitter": "usddio",
+					"telegram": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 43903,
+						"following_count": 40,
+						"tweet_count": 92,
+						"listed_count": 55
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12664
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$1.00",
+				"variation": "0.29%",
+				"variation_is_up": true,
+				"rank": "#143",
+				"watchlists": "1,357",
+				"marketcap": "$256,151,792",
+				"fully_diluted_marketcap": "$256,151,792",
+				"volume_24": "$17,403,805",
+				"volume_marketcap_24": "0.06794",
+				"max_supply": "--",
+				"total_supply": "255,914,907",
+				"twitter": "usddio",
+				"telegram": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 43914,
+					"following_count": 40,
+					"tweet_count": 95,
+					"listed_count": 55
+				}
+			},
+			"data_telegram": {
+				"data": 12659
+			}
 		}
 	]
 }
