@@ -823,6 +823,81 @@
 			"data_telegram": {
 				"data": 61729
 			}
+		},
+		{
+			"date": "11/05/2022 16:31:54",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.00002753",
+					"variation": "15.99%",
+					"variation_is_up": false,
+					"rank": "#5320",
+					"watchlists": "3,072",
+					"marketcap": "$2,753,491",
+					"fully_diluted_marketcap": "$2,753,491",
+					"volume_24": "$25,078",
+					"volume_marketcap_24": "0.009108",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 54116,
+						"following_count": 25,
+						"tweet_count": 35,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 61717
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.00002641",
+				"variation": "19.42%",
+				"variation_is_up": false,
+				"rank": "#5314",
+				"watchlists": "3,080",
+				"marketcap": "$2,640,993",
+				"fully_diluted_marketcap": "$2,640,993",
+				"volume_24": "$25,605",
+				"volume_marketcap_24": "0.009695",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 54135,
+					"following_count": 25,
+					"tweet_count": 35,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 61724
+			}
 		}
 	]
 }
