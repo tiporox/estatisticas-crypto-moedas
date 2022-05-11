@@ -10293,6 +10293,81 @@
 			"data_telegram": {
 				"data": 1684
 			}
+		},
+		{
+			"date": "11/05/2022 07:45:43",
+			"data_coin": {
+				"id": "19987",
+				"name": "ASIX+",
+				"symbol": "ASIX+",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/asix/",
+				"price": "$0.0000006067",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$6,067,271",
+				"volume": "$74,440",
+				"date": "05/05/2022 12:23:37",
+				"infoCoinMarketCap_1": {
+					"id": "19987",
+					"price": "$0.0000003923",
+					"variation": "2.18%",
+					"variation_is_up": true,
+					"rank": "#4092",
+					"watchlists": "514",
+					"marketcap": "$3,923,180",
+					"fully_diluted_marketcap": "$3,923,180",
+					"volume_24": "$127,376",
+					"volume_marketcap_24": "0.03247",
+					"max_supply": "10,000,000,000,000",
+					"total_supply": "10,000,000,000,000",
+					"contract": "0x2bf4be7c4520c41d012eb09a034179e03b898534",
+					"twitter": "asixplusNFT",
+					"telegram": "asixplus"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 14151,
+						"following_count": 5,
+						"tweet_count": 169,
+						"listed_count": 6
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1680
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19987",
+				"price": "$0.000000397",
+				"variation": "7.10%",
+				"variation_is_up": false,
+				"rank": "#3950",
+				"watchlists": "517",
+				"marketcap": "$3,970,215",
+				"fully_diluted_marketcap": "$3,970,215",
+				"volume_24": "$173,341",
+				"volume_marketcap_24": "0.04366",
+				"max_supply": "10,000,000,000,000",
+				"total_supply": "10,000,000,000,000",
+				"contract": "0x2bf4be7c4520c41d012eb09a034179e03b898534",
+				"twitter": "asixplusNFT",
+				"telegram": "asixplus"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 14152,
+					"following_count": 5,
+					"tweet_count": 169,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 1687
+			}
 		}
 	]
 }
