@@ -12102,34 +12102,6 @@
 			"date": "09/05/2022 20:54:02",
 			"infoCoinMarketCap_1": {
 				"id": "20062",
-				"price": "$0.000000001339",
-				"variation": "62.50%",
-				"variation_is_up": true,
-				"rank": "#3581",
-				"watchlists": "578",
-				"marketcap": "$535,429",
-				"fully_diluted_marketcap": "$1,338,572",
-				"volume_24": "$351,309",
-				"volume_marketcap_24": "0.6561",
-				"max_supply": "1,000,000,000,000,000",
-				"total_supply": "400,000,000,000,000",
-				"contract": "0x106543a9d0407e06b5369ac15afbd6e999158640",
-				"twitter": "asunahentai_bsc",
-				"telegram": "AsunaHentai_CM"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 21232,
-					"following_count": 29,
-					"tweet_count": 97,
-					"listed_count": 4
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 24524
-			},
-			"infoCoinMarketCap": {
-				"id": "20062",
 				"price": "$0.000000001144",
 				"variation": "21.85%",
 				"variation_is_up": true,
@@ -12145,7 +12117,7 @@
 				"twitter": "asunahentai_bsc",
 				"telegram": "AsunaHentai_CM"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 21268,
 					"following_count": 29,
@@ -12153,8 +12125,36 @@
 					"listed_count": 4
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 24545
+			},
+			"infoCoinMarketCap": {
+				"id": "20062",
+				"price": "$0.000000001127",
+				"variation": "2.56%",
+				"variation_is_up": true,
+				"rank": "#3583",
+				"watchlists": "588",
+				"marketcap": "$450,826",
+				"fully_diluted_marketcap": "$1,127,064",
+				"volume_24": "$356,539",
+				"volume_marketcap_24": "0.7909",
+				"max_supply": "1,000,000,000,000,000",
+				"total_supply": "400,000,000,000,000",
+				"contract": "0x106543a9d0407e06b5369ac15afbd6e999158640",
+				"twitter": "asunahentai_bsc",
+				"telegram": "AsunaHentai_CM"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 21313,
+					"following_count": 29,
+					"tweet_count": 99,
+					"listed_count": 4
+				}
+			},
+			"dadosTelegram": {
+				"data": 24565
 			}
 		},
 		{
@@ -12318,34 +12318,6 @@
 			"date": "10/05/2022 05:59:59",
 			"infoCoinMarketCap_1": {
 				"id": "20070",
-				"price": "$0.04041",
-				"variation": "19.49%",
-				"variation_is_up": false,
-				"rank": "#2897",
-				"watchlists": "5,768",
-				"marketcap": "$2,020,289",
-				"fully_diluted_marketcap": "$2,020,289",
-				"volume_24": "$9,490,002",
-				"volume_marketcap_24": "4.7",
-				"max_supply": "50,000,000",
-				"total_supply": "50,000,000",
-				"contract": "0x767d82142f04828f7881da697f118423834c8076",
-				"telegram": "gymmov",
-				"twitter": "MovGym"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 19281,
-					"following_count": 196,
-					"tweet_count": 136,
-					"listed_count": 11
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 40460
-			},
-			"infoCoinMarketCap": {
-				"id": "20070",
 				"price": "$0.03762",
 				"variation": "19.17%",
 				"variation_is_up": false,
@@ -12361,7 +12333,7 @@
 				"telegram": "gymmov",
 				"twitter": "MovGym"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 19293,
 					"following_count": 196,
@@ -12369,8 +12341,36 @@
 					"listed_count": 11
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 40481
+			},
+			"infoCoinMarketCap": {
+				"id": "20070",
+				"price": "$0.03643",
+				"variation": "14.38%",
+				"variation_is_up": false,
+				"rank": "#2897",
+				"watchlists": "8,164",
+				"marketcap": "$1,821,475",
+				"fully_diluted_marketcap": "$1,821,475",
+				"volume_24": "$9,416,282",
+				"volume_marketcap_24": "5.17",
+				"max_supply": "50,000,000",
+				"total_supply": "50,000,000",
+				"contract": "0x767d82142f04828f7881da697f118423834c8076",
+				"telegram": "gymmov",
+				"twitter": "MovGym"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 19329,
+					"following_count": 196,
+					"tweet_count": 136,
+					"listed_count": 11
+				}
+			},
+			"dadosTelegram": {
+				"data": 40509
 			}
 		},
 		{
@@ -13362,7 +13362,23 @@
 				}
 			},
 			"dadosTelegram": {}
+		},
+		{
+			"id": "20090",
+			"name": "ETHAX",
+			"symbol": "ETHAX",
+			"blockchain": "BNB",
+			"ativo": true,
+			"link": "/currencies/ethax/",
+			"price": "$0.1945",
+			"_1h": "0.00%",
+			"_1h_up": true,
+			"_24h": "0.00%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "$155,608,240",
+			"volume": "$16,446",
+			"date": "11/05/2022 09:12:20"
 		}
 	],
-	"total": 194
+	"total": 195
 }
