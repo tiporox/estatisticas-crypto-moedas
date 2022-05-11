@@ -9393,6 +9393,81 @@
 			"data_telegram": {
 				"data": 897934
 			}
+		},
+		{
+			"date": "10/05/2022 22:23:42",
+			"data_coin": {
+				"id": "19998",
+				"name": "Lego Coin",
+				"symbol": "LEGO",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/lego-coin/",
+				"price": "$0.0000009867",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$98,673,684",
+				"volume": "--",
+				"date": "05/05/2022 14:53:04",
+				"infoCoinMarketCap_1": {
+					"id": "19998",
+					"price": "$0.0000009112",
+					"variation": "4.27%",
+					"variation_is_up": false,
+					"rank": "#10105",
+					"watchlists": "374",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$91,117,802",
+					"volume_24": "- -",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x1f98bd9cb8db314ced46dc43c0a91a1f9adad4f5",
+					"twitter": "legocoinlive",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3368,
+						"following_count": 0,
+						"tweet_count": 24,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897919
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19998",
+				"price": "$0.0000009139",
+				"variation": "3.94%",
+				"variation_is_up": false,
+				"rank": "#10105",
+				"watchlists": "374",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$91,387,510",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x1f98bd9cb8db314ced46dc43c0a91a1f9adad4f5",
+				"twitter": "legocoinlive",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3369,
+					"following_count": 0,
+					"tweet_count": 24,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 897940
+			}
 		}
 	]
 }
