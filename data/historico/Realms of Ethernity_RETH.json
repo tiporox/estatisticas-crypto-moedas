@@ -8939,6 +8939,81 @@
 			"data_telegram": {
 				"data": 27666
 			}
+		},
+		{
+			"date": "11/05/2022 12:28:27",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.04355",
+					"variation": "2.42%",
+					"variation_is_up": false,
+					"rank": "#7049",
+					"watchlists": "712",
+					"marketcap": "$762,148",
+					"fully_diluted_marketcap": "$60,013,701",
+					"volume_24": "$936",
+					"volume_marketcap_24": "0.001229",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 122390,
+						"following_count": 55,
+						"tweet_count": 1438,
+						"listed_count": 47
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 27671
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.04593",
+				"variation": "6.02%",
+				"variation_is_up": true,
+				"rank": "#6793",
+				"watchlists": "712",
+				"marketcap": "$803,763",
+				"fully_diluted_marketcap": "$63,290,559",
+				"volume_24": "$1,764",
+				"volume_marketcap_24": "0.002195",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 122412,
+					"following_count": 55,
+					"tweet_count": 1440,
+					"listed_count": 48
+				}
+			},
+			"data_telegram": {
+				"data": 27666
+			}
 		}
 	]
 }
