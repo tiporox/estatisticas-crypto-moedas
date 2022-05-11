@@ -16514,6 +16514,74 @@
 			"data_telegram": {
 				"data": 53757
 			}
+		},
+		{
+			"date": "11/05/2022 04:05:13",
+			"data_coin": {
+				"id": "19807",
+				"name": "Uncharted",
+				"symbol": "UNC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/uncharted/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 76039,
+						"following_count": 37,
+						"tweet_count": 78,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 53758
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19807",
+					"price": "$0.07354",
+					"variation": "0.34%",
+					"variation_is_up": true,
+					"rank": "#7208",
+					"watchlists": "95",
+					"marketcap": "$735,438",
+					"fully_diluted_marketcap": "$73,543,762",
+					"volume_24": "$519",
+					"volume_marketcap_24": "0.0007051",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0x77C54B5f495016CCDbC20A52a9D3F421aF21B04D",
+					"telegram": "UnchartedUNC",
+					"twitter": "unchartedUNC"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19807",
+				"price": "$0.07355",
+				"variation": "0.06%",
+				"variation_is_up": false,
+				"rank": "#7230",
+				"watchlists": "95",
+				"marketcap": "$735,459",
+				"fully_diluted_marketcap": "$73,545,885",
+				"volume_24": "$522",
+				"volume_marketcap_24": "0.0007096",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0x77C54B5f495016CCDbC20A52a9D3F421aF21B04D",
+				"telegram": "UnchartedUNC",
+				"twitter": "unchartedUNC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 75807,
+					"following_count": 37,
+					"tweet_count": 78,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 53756
+			}
 		}
 	]
 }
