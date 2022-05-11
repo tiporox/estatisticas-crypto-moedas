@@ -1123,6 +1123,79 @@
 			"data_telegram": {
 				"data": 33824
 			}
+		},
+		{
+			"date": "11/05/2022 01:16:10",
+			"data_coin": {
+				"id": "20043",
+				"name": "UKA DOGE COIN",
+				"symbol": "UDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/uka-doge-coin/",
+				"price": "$0.00000000559",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$559,028",
+				"volume": "$20,376",
+				"date": "10/05/2022 09:07:15",
+				"infoCoinMarketCap_1": {
+					"id": "20043",
+					"price": "$0.00000000541",
+					"variation": "3.22%",
+					"variation_is_up": false,
+					"rank": "#5929",
+					"watchlists": "78",
+					"marketcap": "$541,000",
+					"fully_diluted_marketcap": "$541,000",
+					"volume_24": "$5,694",
+					"volume_marketcap_24": "0.01052",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+					"telegram": "ukadogechat",
+					"twitter": "ukadoge"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16735,
+						"following_count": 61,
+						"tweet_count": 112,
+						"listed_count": 17
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 33820
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20043",
+				"price": "$0.000000005444",
+				"variation": "2.62%",
+				"variation_is_up": false,
+				"rank": "#5920",
+				"watchlists": "86",
+				"marketcap": "$544,361",
+				"fully_diluted_marketcap": "$544,361",
+				"volume_24": "$5,957",
+				"volume_marketcap_24": "0.01094",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+				"telegram": "ukadogechat",
+				"twitter": "ukadoge"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16768,
+					"following_count": 61,
+					"tweet_count": 113,
+					"listed_count": 17
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
