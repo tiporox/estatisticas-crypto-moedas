@@ -17602,6 +17602,74 @@
 			"data_telegram": {
 				"data": 4212
 			}
+		},
+		{
+			"date": "11/05/2022 20:08:50",
+			"data_coin": {
+				"id": "19804",
+				"name": "Meowth Neko",
+				"symbol": "MEWN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meowth-neko/",
+				"date": "27/04/2022 20:56:31",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2434,
+						"following_count": 121,
+						"tweet_count": 48,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4213
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19804",
+					"price": "$0.0...02327",
+					"variation": "19.70%",
+					"variation_is_up": false,
+					"rank": "#6818",
+					"watchlists": "534",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$1,914",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "0xffd59037512159eed0c3f24b635f1b5012969bb4",
+					"twitter": "MeowthNekoTW",
+					"telegram": "MeowthNekoChat"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19804",
+				"price": "$0.0...00237",
+				"variation": "17.77%",
+				"variation_is_up": false,
+				"rank": "#6832",
+				"watchlists": "534",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$1,989",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "0xffd59037512159eed0c3f24b635f1b5012969bb4",
+				"twitter": "MeowthNekoTW",
+				"telegram": "MeowthNekoChat"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2434,
+					"following_count": 121,
+					"tweet_count": 48,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 4213
+			}
 		}
 	]
 }
