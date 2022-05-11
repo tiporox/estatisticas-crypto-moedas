@@ -1040,6 +1040,81 @@
 			"data_telegram": {
 				"data": 36741
 			}
+		},
+		{
+			"date": "11/05/2022 02:48:21",
+			"data_coin": {
+				"id": "20076",
+				"name": "HonorLand",
+				"symbol": "HONOR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/honorland/",
+				"price": "$0.0227",
+				"_1h": "24.08%",
+				"_1h_up": false,
+				"_24h": "21.26%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$4,539,600",
+				"volume": "$27,986",
+				"date": "10/05/2022 11:37:05",
+				"infoCoinMarketCap_1": {
+					"id": "20076",
+					"price": "$0.02023",
+					"variation": "29.84%",
+					"variation_is_up": false,
+					"rank": "#4951",
+					"watchlists": "53",
+					"marketcap": "$4,045,166",
+					"fully_diluted_marketcap": "$4,045,166",
+					"volume_24": "$32,530",
+					"volume_marketcap_24": "0.008042",
+					"max_supply": "200,000,000",
+					"total_supply": "200,000,000",
+					"contract": "0x1b2787af667ed1ca66245ffca4ff64076eef321a",
+					"twitter": "HonorLandGame",
+					"telegram": "Honor_Land"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26255,
+						"following_count": 1144,
+						"tweet_count": 376,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 36772
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20076",
+				"price": "$0.01926",
+				"variation": "33.19%",
+				"variation_is_up": false,
+				"rank": "#4968",
+				"watchlists": "54",
+				"marketcap": "$3,851,786",
+				"fully_diluted_marketcap": "$3,851,786",
+				"volume_24": "$32,483",
+				"volume_marketcap_24": "0.008433",
+				"max_supply": "200,000,000",
+				"total_supply": "200,000,000",
+				"contract": "0x1b2787af667ed1ca66245ffca4ff64076eef321a",
+				"twitter": "HonorLandGame",
+				"telegram": "Honor_Land"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26201,
+					"following_count": 1143,
+					"tweet_count": 376,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 36671
+			}
 		}
 	]
 }
