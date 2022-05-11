@@ -8414,6 +8414,81 @@
 			"data_telegram": {
 				"data": 8176
 			}
+		},
+		{
+			"date": "10/05/2022 22:57:15",
+			"data_coin": {
+				"id": "20005",
+				"name": "SIN COIN",
+				"symbol": "SIN",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sin-coin/",
+				"price": "$0.000001601",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$80,046,108",
+				"volume": "$20,519",
+				"date": "06/05/2022 04:49:14",
+				"infoCoinMarketCap_1": {
+					"id": "20005",
+					"price": "$0.000001051",
+					"variation": "31.46%",
+					"variation_is_up": true,
+					"rank": "#6485",
+					"watchlists": "452",
+					"marketcap": "$52,535,801",
+					"fully_diluted_marketcap": "$52,535,801",
+					"volume_24": "$3,200",
+					"volume_marketcap_24": "0.00006091",
+					"max_supply": "--",
+					"total_supply": "49,999,999,999,997",
+					"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+					"twitter": "SinworldPro",
+					"telegram": "sinworldofficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12907,
+						"following_count": 7,
+						"tweet_count": 84,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8175
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20005",
+				"price": "$0.000001051",
+				"variation": "32.87%",
+				"variation_is_up": true,
+				"rank": "#6812",
+				"watchlists": "453",
+				"marketcap": "$52,563,461",
+				"fully_diluted_marketcap": "$52,563,461",
+				"volume_24": "$1,059",
+				"volume_marketcap_24": "0.00002015",
+				"max_supply": "--",
+				"total_supply": "49,999,999,999,997",
+				"contract": "0x3a061c57330a168ab50a36b777ef86812e055856",
+				"twitter": "SinworldPro",
+				"telegram": "sinworldofficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12908,
+					"following_count": 7,
+					"tweet_count": 84,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 8176
+			}
 		}
 	]
 }
