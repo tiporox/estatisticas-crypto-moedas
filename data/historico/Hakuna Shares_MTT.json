@@ -2493,6 +2493,81 @@
 			"data_telegram": {
 				"data": 897919
 			}
+		},
+		{
+			"date": "10/05/2022 21:23:57",
+			"data_coin": {
+				"id": "20046",
+				"name": "Hakuna Shares",
+				"symbol": "MTT",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/hakuna-shares/",
+				"price": "$39,764.81",
+				"_1h": "16.46%",
+				"_1h_up": true,
+				"_24h": "16.46%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,192,944,212",
+				"volume": "$78,623",
+				"date": "09/05/2022 10:50:14",
+				"infoCoinMarketCap_1": {
+					"id": "20046",
+					"price": "$35,304.07",
+					"variation": "2.82%",
+					"variation_is_up": false,
+					"rank": "#2929",
+					"watchlists": "97",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$1,059,122,079",
+					"volume_24": "$6,789,438",
+					"volume_marketcap_24": "--",
+					"max_supply": "30,000",
+					"total_supply": "24,001",
+					"twitter": "MMFcrypto",
+					"contract": "0x388c07066AA6cEa2Be4db58e702333df92c3A074",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 88113,
+						"following_count": 131,
+						"tweet_count": 1024,
+						"listed_count": 372
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897917
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20046",
+				"price": "$40,465.64",
+				"variation": "10.41%",
+				"variation_is_up": true,
+				"rank": "#2917",
+				"watchlists": "103",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$1,213,969,068",
+				"volume_24": "$7,697,883",
+				"volume_marketcap_24": "--",
+				"max_supply": "30,000",
+				"total_supply": "24,001",
+				"twitter": "MMFcrypto",
+				"contract": "0x388c07066AA6cEa2Be4db58e702333df92c3A074",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 88111,
+					"following_count": 131,
+					"tweet_count": 1024,
+					"listed_count": 372
+				}
+			},
+			"data_telegram": {
+				"data": 897934
+			}
 		}
 	]
 }
