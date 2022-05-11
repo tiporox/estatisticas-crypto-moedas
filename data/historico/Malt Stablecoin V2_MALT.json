@@ -3843,6 +3843,81 @@
 			"data_telegram": {
 				"data": 897816
 			}
+		},
+		{
+			"date": "11/05/2022 06:56:30",
+			"data_coin": {
+				"id": "20026",
+				"name": "Malt Stablecoin V2",
+				"symbol": "MALT",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/malt-stablecoin-v2/",
+				"price": "$0.9921",
+				"_1h": "0.42%",
+				"_1h_up": true,
+				"_24h": "0.42%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$10,294,091",
+				"volume": "$10,602,544",
+				"date": "09/05/2022 02:27:51",
+				"infoCoinMarketCap_1": {
+					"id": "20026",
+					"price": "$0.9338",
+					"variation": "0.14%",
+					"variation_is_up": false,
+					"rank": "#8614",
+					"watchlists": "67",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$9,689,683",
+					"volume_24": "$1",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,376,429",
+					"total_supply": "10,376,429",
+					"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+					"twitter": "MaltProtocol",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4110,
+						"following_count": 79,
+						"tweet_count": 232,
+						"listed_count": 44
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897852
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20026",
+				"price": "$0.9354",
+				"variation": "0.03%",
+				"variation_is_up": true,
+				"rank": "#8615",
+				"watchlists": "67",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$9,706,298",
+				"volume_24": "$2",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,376,429",
+				"total_supply": "10,376,429",
+				"contract": "0xa27b6853d759c03b3ac3714a97322c90b9c79316",
+				"twitter": "MaltProtocol",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4109,
+					"following_count": 79,
+					"tweet_count": 232,
+					"listed_count": 44
+				}
+			},
+			"data_telegram": {
+				"data": 897810
+			}
 		}
 	]
 }
