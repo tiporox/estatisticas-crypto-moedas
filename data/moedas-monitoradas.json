@@ -9736,34 +9736,6 @@
 			"date": "06/05/2022 11:21:30",
 			"infoCoinMarketCap_1": {
 				"id": "20011",
-				"price": "$0.04486",
-				"variation": "3.24%",
-				"variation_is_up": false,
-				"rank": "#8323",
-				"watchlists": "714",
-				"marketcap": "$785,121",
-				"fully_diluted_marketcap": "$61,822,666",
-				"volume_24": "$47",
-				"volume_marketcap_24": "0.00006046",
-				"max_supply": "1,378,000,000",
-				"total_supply": "--",
-				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
-				"telegram": "realmsofethernityMMORPG",
-				"twitter": "realmsofeth"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 122415,
-					"following_count": 55,
-					"tweet_count": 1440,
-					"listed_count": 48
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 27648
-			},
-			"infoCoinMarketCap": {
-				"id": "20011",
 				"price": "$0.04437",
 				"variation": "6.87%",
 				"variation_is_up": false,
@@ -9779,7 +9751,7 @@
 				"telegram": "realmsofethernityMMORPG",
 				"twitter": "realmsofeth"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 122422,
 					"following_count": 55,
@@ -9787,8 +9759,36 @@
 					"listed_count": 48
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 27628
+			},
+			"infoCoinMarketCap": {
+				"id": "20011",
+				"price": "$0.04304",
+				"variation": "9.34%",
+				"variation_is_up": false,
+				"rank": "#7614",
+				"watchlists": "717",
+				"marketcap": "$753,254",
+				"fully_diluted_marketcap": "$59,313,359",
+				"volume_24": "$394",
+				"volume_marketcap_24": "0.0005226",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 122418,
+					"following_count": 55,
+					"tweet_count": 1440,
+					"listed_count": 48
+				}
+			},
+			"dadosTelegram": {
+				"data": 27623
 			}
 		},
 		{
@@ -9808,34 +9808,6 @@
 			"date": "06/05/2022 11:21:30",
 			"infoCoinMarketCap_1": {
 				"id": "20010",
-				"price": "$0.00006176",
-				"variation": "2.54%",
-				"variation_is_up": true,
-				"rank": "#6113",
-				"watchlists": "1,720",
-				"marketcap": "$666,993",
-				"fully_diluted_marketcap": "$12,969,303",
-				"volume_24": "$6,355",
-				"volume_marketcap_24": "0.009529",
-				"max_supply": "210,000,000,000",
-				"total_supply": "--",
-				"contract": "0x587f594635ACD348Fc45cCFA5BA79926003785d4",
-				"twitter": "DisciplesDao",
-				"telegram": "DisciplesDAO"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 18799,
-					"following_count": 47,
-					"tweet_count": 103,
-					"listed_count": 4
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 34594
-			},
-			"infoCoinMarketCap": {
-				"id": "20010",
 				"price": "$0.00006194",
 				"variation": "2.84%",
 				"variation_is_up": true,
@@ -9851,6 +9823,34 @@
 				"twitter": "DisciplesDao",
 				"telegram": "DisciplesDAO"
 			},
+			"dadosTwitter_1": {
+				"data": {
+					"followers_count": 18799,
+					"following_count": 47,
+					"tweet_count": 103,
+					"listed_count": 4
+				}
+			},
+			"dadosTelegram_1": {
+				"data": 34592
+			},
+			"infoCoinMarketCap": {
+				"id": "20010",
+				"price": "$0.00006194",
+				"variation": "2.50%",
+				"variation_is_up": true,
+				"rank": "#6132",
+				"watchlists": "1,721",
+				"marketcap": "$668,963",
+				"fully_diluted_marketcap": "$13,007,610",
+				"volume_24": "$6,353",
+				"volume_marketcap_24": "0.009497",
+				"max_supply": "210,000,000,000",
+				"total_supply": "--",
+				"contract": "0x587f594635ACD348Fc45cCFA5BA79926003785d4",
+				"twitter": "DisciplesDao",
+				"telegram": "DisciplesDAO"
+			},
 			"dadosTwitter": {
 				"data": {
 					"followers_count": 18799,
@@ -9860,7 +9860,7 @@
 				}
 			},
 			"dadosTelegram": {
-				"data": 34592
+				"data": 34596
 			}
 		},
 		{
@@ -13498,7 +13498,7 @@
 			"fullyDilutedMarketCap": "$297,825",
 			"volume": "$34,048",
 			"date": "11/05/2022 14:28:12",
-			"infoCoinMarketCap": {
+			"infoCoinMarketCap_1": {
 				"id": "20102",
 				"price": "$0.0002899",
 				"variation": "2.65%",
@@ -13515,7 +13515,7 @@
 				"twitter": "FlovMarket",
 				"telegram": "flov_market"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 5408,
 					"following_count": 15,
@@ -13523,34 +13523,34 @@
 					"listed_count": 1
 				}
 			},
-			"dadosTelegram": {},
-			"infoCoinMarketCap_1": {
+			"dadosTelegram_1": {},
+			"infoCoinMarketCap": {
 				"id": "20102",
-				"price": "$0.0002978",
-				"variation": "0.00%",
-				"variation_is_up": true,
-				"rank": "#5124",
-				"watchlists": "0",
-				"marketcap": "$297,825",
-				"fully_diluted_marketcap": "$297,825",
-				"volume_24": "$34,048",
-				"volume_marketcap_24": "0.1143",
+				"price": "$0.0002934",
+				"variation": "1.48%",
+				"variation_is_up": false,
+				"rank": "#5133",
+				"watchlists": "30",
+				"marketcap": "$293,411",
+				"fully_diluted_marketcap": "$293,411",
+				"volume_24": "$34,472",
+				"volume_marketcap_24": "0.1175",
 				"max_supply": "1,000,000,000",
 				"total_supply": "1,000,000,000",
 				"contract": "0xC93116aa4854950Ff1852618554E068cd996fc01",
 				"twitter": "FlovMarket",
 				"telegram": "flov_market"
 			},
-			"dadosTwitter_1": {
+			"dadosTwitter": {
 				"data": {
 					"followers_count": 5407,
 					"following_count": 15,
-					"tweet_count": 24,
+					"tweet_count": 25,
 					"listed_count": 1
 				}
 			},
-			"dadosTelegram_1": {
-				"data": 6183
+			"dadosTelegram": {
+				"data": 6206
 			}
 		},
 		{
