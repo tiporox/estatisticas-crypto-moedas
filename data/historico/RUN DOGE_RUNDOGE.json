@@ -19839,6 +19839,81 @@
 			"data_telegram": {
 				"data": 6728
 			}
+		},
+		{
+			"date": "12/05/2022 02:29:03",
+			"data_coin": {
+				"id": "19874",
+				"name": "RUN DOGE",
+				"symbol": "RUNDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/run-doge/",
+				"price": "$0.00000596",
+				"_1h": "2.15%",
+				"_1h_up": false,
+				"_24h": "2.15%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$3,973,598",
+				"volume": "$97,262",
+				"date": "30/04/2022 13:49:34",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4737,
+						"following_count": 0,
+						"tweet_count": 35,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6729
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19874",
+					"price": "$0.00000003157",
+					"variation": "12.02%",
+					"variation_is_up": false,
+					"rank": "#6311",
+					"watchlists": "1,440",
+					"marketcap": "$2,104",
+					"fully_diluted_marketcap": "$21,045",
+					"volume_24": "$3,879",
+					"volume_marketcap_24": "1.84",
+					"max_supply": "666,666,666,666",
+					"total_supply": "666,666,666,666",
+					"contract": "0x6d3330e4f8b618b1bb73ff77df4b14551ee22dcd",
+					"telegram": "RunDoge",
+					"twitter": "RunDogeBSC"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19874",
+				"price": "$0.00000002799",
+				"variation": "20.88%",
+				"variation_is_up": false,
+				"rank": "#6277",
+				"watchlists": "1,439",
+				"marketcap": "$1,866",
+				"fully_diluted_marketcap": "$18,657",
+				"volume_24": "$4,141",
+				"volume_marketcap_24": "2.22",
+				"max_supply": "666,666,666,666",
+				"total_supply": "666,666,666,666",
+				"contract": "0x6d3330e4f8b618b1bb73ff77df4b14551ee22dcd",
+				"telegram": "RunDoge",
+				"twitter": "RunDogeBSC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4737,
+					"following_count": 0,
+					"tweet_count": 35,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6725
+			}
 		}
 	]
 }
