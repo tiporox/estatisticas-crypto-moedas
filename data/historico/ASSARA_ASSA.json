@@ -2161,6 +2161,81 @@
 			"data_telegram": {
 				"data": 61761
 			}
+		},
+		{
+			"date": "12/05/2022 10:40:45",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.000008918",
+					"variation": "75.23%",
+					"variation_is_up": false,
+					"rank": "#5061",
+					"watchlists": "3,126",
+					"marketcap": "$891,832",
+					"fully_diluted_marketcap": "$891,832",
+					"volume_24": "$39,117",
+					"volume_marketcap_24": "0.04386",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 54250,
+						"following_count": 25,
+						"tweet_count": 35,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 61772
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.000008725",
+				"variation": "74.87%",
+				"variation_is_up": false,
+				"rank": "#5026",
+				"watchlists": "3,130",
+				"marketcap": "$872,487",
+				"fully_diluted_marketcap": "$872,487",
+				"volume_24": "$39,522",
+				"volume_marketcap_24": "0.0453",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 54269,
+					"following_count": 25,
+					"tweet_count": 35,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 61767
+			}
 		}
 	]
 }
