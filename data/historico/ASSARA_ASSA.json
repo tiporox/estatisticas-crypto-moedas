@@ -1423,6 +1423,81 @@
 			"data_telegram": {
 				"data": 61813
 			}
+		},
+		{
+			"date": "12/05/2022 00:35:37",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.00001115",
+					"variation": "65.98%",
+					"variation_is_up": false,
+					"rank": "#5003",
+					"watchlists": "3,105",
+					"marketcap": "$1,115,033",
+					"fully_diluted_marketcap": "$1,115,033",
+					"volume_24": "$38,311",
+					"volume_marketcap_24": "0.03436",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 54176,
+						"following_count": 25,
+						"tweet_count": 35,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 61753
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.00001135",
+				"variation": "65.37%",
+				"variation_is_up": false,
+				"rank": "#5002",
+				"watchlists": "3,111",
+				"marketcap": "$1,135,103",
+				"fully_diluted_marketcap": "$1,135,103",
+				"volume_24": "$38,543",
+				"volume_marketcap_24": "0.03396",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 54188,
+					"following_count": 25,
+					"tweet_count": 35,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 61815
+			}
 		}
 	]
 }
