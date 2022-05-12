@@ -1127,6 +1127,81 @@
 			"data_telegram": {
 				"data": 13836
 			}
+		},
+		{
+			"date": "12/05/2022 06:53:04",
+			"data_coin": {
+				"id": "20103",
+				"name": "Sleep Ecosystem",
+				"symbol": "SLEEP",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sleep-ecosystem/",
+				"price": "$0.01268",
+				"_1h": "0.52%",
+				"_1h_up": true,
+				"_24h": "0.52%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,107,016",
+				"volume": "$582,887",
+				"date": "11/05/2022 14:44:23",
+				"infoCoinMarketCap_1": {
+					"id": "20103",
+					"price": "$0.00891",
+					"variation": "29.38%",
+					"variation_is_up": false,
+					"rank": "#3395",
+					"watchlists": "363",
+					"marketcap": "$2,182,908",
+					"fully_diluted_marketcap": "$2,182,908",
+					"volume_24": "$573,711",
+					"volume_marketcap_24": "0.2628",
+					"max_supply": "245,000,000",
+					"total_supply": "--",
+					"contract": "0xf024F349f08BD6A45ABb201F9e7eB8EeADDd20bc",
+					"twitter": "ecosystemsleep",
+					"telegram": "sleep2earn"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26742,
+						"following_count": 4,
+						"tweet_count": 27,
+						"listed_count": 8
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 13841
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20103",
+				"price": "$0.009424",
+				"variation": "25.31%",
+				"variation_is_up": false,
+				"rank": "#3368",
+				"watchlists": "383",
+				"marketcap": "$2,308,761",
+				"fully_diluted_marketcap": "$2,308,761",
+				"volume_24": "$630,992",
+				"volume_marketcap_24": "0.2733",
+				"max_supply": "245,000,000",
+				"total_supply": "--",
+				"contract": "0xf024F349f08BD6A45ABb201F9e7eB8EeADDd20bc",
+				"twitter": "ecosystemsleep",
+				"telegram": "sleep2earn"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26699,
+					"following_count": 4,
+					"tweet_count": 27,
+					"listed_count": 8
+				}
+			},
+			"data_telegram": {
+				"data": 13829
+			}
 		}
 	]
 }
