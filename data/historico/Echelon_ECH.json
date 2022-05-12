@@ -5090,6 +5090,81 @@
 			"data_telegram": {
 				"data": 52266
 			}
+		},
+		{
+			"date": "12/05/2022 08:36:05",
+			"data_coin": {
+				"id": "20047",
+				"name": "Echelon",
+				"symbol": "ECH",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/echelon/",
+				"price": "$0.09982",
+				"_1h": "8.42%",
+				"_1h_up": true,
+				"_24h": "8.42%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$3,500,337",
+				"date": "09/05/2022 10:50:14",
+				"infoCoinMarketCap_1": {
+					"id": "20047",
+					"price": "$0.02644",
+					"variation": "57.29%",
+					"variation_is_up": false,
+					"rank": "#3111",
+					"watchlists": "217",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$1,649,202",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "echelonFDN",
+					"telegram": "MMFcrypto",
+					"contract": "0x00EaFc9C1fb1b7f7889c7E91441ab62dE0259ad5"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5384,
+						"following_count": 307,
+						"tweet_count": 113,
+						"listed_count": 9
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 52271
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20047",
+				"price": "$0.02331",
+				"variation": "61.13%",
+				"variation_is_up": false,
+				"rank": "#3086",
+				"watchlists": "216",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$1,900,905",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "echelonFDN",
+				"telegram": "MMFcrypto",
+				"contract": "0x00EaFc9C1fb1b7f7889c7E91441ab62dE0259ad5"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5389,
+					"following_count": 307,
+					"tweet_count": 113,
+					"listed_count": 9
+				}
+			},
+			"data_telegram": {
+				"data": 52275
+			}
 		}
 	]
 }
