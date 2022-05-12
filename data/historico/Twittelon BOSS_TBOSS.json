@@ -12243,6 +12243,81 @@
 			"data_telegram": {
 				"data": 6816
 			}
+		},
+		{
+			"date": "12/05/2022 11:00:51",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000001437",
+					"variation": "46.16%",
+					"variation_is_up": false,
+					"rank": "#5629",
+					"watchlists": "592",
+					"marketcap": "$143,703",
+					"fully_diluted_marketcap": "$143,703",
+					"volume_24": "$16,456",
+					"volume_marketcap_24": "0.1145",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 10091,
+						"following_count": 26,
+						"tweet_count": 83,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6820
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.000000138",
+				"variation": "38.20%",
+				"variation_is_up": false,
+				"rank": "#5605",
+				"watchlists": "592",
+				"marketcap": "$138,024",
+				"fully_diluted_marketcap": "$138,024",
+				"volume_24": "$16,867",
+				"volume_marketcap_24": "0.1222",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 10096,
+					"following_count": 26,
+					"tweet_count": 83,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 6810
+			}
 		}
 	]
 }
