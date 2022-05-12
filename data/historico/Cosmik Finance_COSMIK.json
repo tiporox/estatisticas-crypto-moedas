@@ -5793,6 +5793,81 @@
 			"data_telegram": {
 				"data": 896845
 			}
+		},
+		{
+			"date": "12/05/2022 14:13:45",
+			"data_coin": {
+				"id": "20038",
+				"name": "Cosmik Finance",
+				"symbol": "COSMIK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/cosmik-finance/",
+				"price": "$2.74",
+				"_1h": "0.05%",
+				"_1h_up": false,
+				"_24h": "0.05%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$8,919,302,290",
+				"volume": "$75,863",
+				"date": "09/05/2022 07:37:42",
+				"infoCoinMarketCap_1": {
+					"id": "20038",
+					"price": "$0.8474",
+					"variation": "23.31%",
+					"variation_is_up": false,
+					"rank": "#4875",
+					"watchlists": "132",
+					"marketcap": "$275,395",
+					"fully_diluted_marketcap": "$2,753,952,991",
+					"volume_24": "$48,547",
+					"volume_marketcap_24": "0.1763",
+					"max_supply": "3,249,999,998",
+					"total_supply": "325,000",
+					"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+					"twitter": "CosmikFinance",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7150,
+						"following_count": 19,
+						"tweet_count": 41,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 896894
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20038",
+				"price": "$0.8409",
+				"variation": "12.54%",
+				"variation_is_up": false,
+				"rank": "#4863",
+				"watchlists": "132",
+				"marketcap": "$273,284",
+				"fully_diluted_marketcap": "$2,732,836,081",
+				"volume_24": "$48,966",
+				"volume_marketcap_24": "0.1792",
+				"max_supply": "3,249,999,998",
+				"total_supply": "325,000",
+				"contract": "0x7509DB061C45e8EcEb01739D104f78F85eF22Dbf",
+				"twitter": "CosmikFinance",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7151,
+					"following_count": 19,
+					"tweet_count": 41,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 896825
+			}
 		}
 	]
 }
