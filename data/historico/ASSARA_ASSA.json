@@ -2236,6 +2236,79 @@
 			"data_telegram": {
 				"data": 61767
 			}
+		},
+		{
+			"date": "12/05/2022 11:41:22",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.000008951",
+					"variation": "74.73%",
+					"variation_is_up": false,
+					"rank": "#5044",
+					"watchlists": "3,128",
+					"marketcap": "$895,100",
+					"fully_diluted_marketcap": "$895,100",
+					"volume_24": "$39,225",
+					"volume_marketcap_24": "0.04382",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 54256,
+						"following_count": 25,
+						"tweet_count": 35,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 61761
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.000008117",
+				"variation": "73.71%",
+				"variation_is_up": false,
+				"rank": "#5002",
+				"watchlists": "3,131",
+				"marketcap": "$811,692",
+				"fully_diluted_marketcap": "$811,692",
+				"volume_24": "$39,777",
+				"volume_marketcap_24": "0.049",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 54277,
+					"following_count": 25,
+					"tweet_count": 35,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
