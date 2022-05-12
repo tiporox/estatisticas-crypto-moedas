@@ -1364,6 +1364,81 @@
 			"data_telegram": {
 				"data": 12573
 			}
+		},
+		{
+			"date": "12/05/2022 09:29:07",
+			"data_coin": {
+				"id": "20101",
+				"name": "MovingOn Finance",
+				"symbol": "MOVON",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/movingon-finance/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "11/05/2022 14:18:03",
+				"infoCoinMarketCap_1": {
+					"id": "20101",
+					"price": "$0.006899",
+					"variation": "8.53%",
+					"variation_is_up": true,
+					"rank": "#4010",
+					"watchlists": "273",
+					"marketcap": "$510,541",
+					"fully_diluted_marketcap": "$689,921",
+					"volume_24": "$164,117",
+					"volume_marketcap_24": "0.3215",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0xc4901c34cd8fb49107c1cb874eff5caa2eaed7d1",
+					"telegram": "movingonfinance",
+					"twitter": "movingonfinance"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12458,
+						"following_count": 12,
+						"tweet_count": 52,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12571
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20101",
+				"price": "$0.007421",
+				"variation": "16.74%",
+				"variation_is_up": true,
+				"rank": "#3973",
+				"watchlists": "281",
+				"marketcap": "$549,142",
+				"fully_diluted_marketcap": "$742,083",
+				"volume_24": "$181,633",
+				"volume_marketcap_24": "0.3308",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xc4901c34cd8fb49107c1cb874eff5caa2eaed7d1",
+				"telegram": "movingonfinance",
+				"twitter": "movingonfinance"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12461,
+					"following_count": 12,
+					"tweet_count": 52,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 12572
+			}
 		}
 	]
 }
