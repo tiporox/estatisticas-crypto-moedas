@@ -17971,6 +17971,72 @@
 			"data_telegram": {
 				"data": 897059
 			}
+		},
+		{
+			"date": "12/05/2022 10:19:11",
+			"data_coin": {
+				"id": "19857",
+				"name": "Bitmon",
+				"symbol": "BIT",
+				"blockchain": "Solana",
+				"ativo": true,
+				"link": "/currencies/bitmon/",
+				"date": "29/04/2022 00:57:14",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8077,
+						"following_count": 14,
+						"tweet_count": 1024,
+						"listed_count": 12
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897123
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19857",
+					"price": "$0.002127",
+					"variation": "10.96%",
+					"variation_is_up": false,
+					"rank": "#7262",
+					"watchlists": "175",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$387,294",
+					"volume_24": "$950",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "182,060,555",
+					"twitter": "BitmonWorld",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19857",
+				"price": "$0.002083",
+				"variation": "10.12%",
+				"variation_is_up": false,
+				"rank": "#7350",
+				"watchlists": "175",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$379,226",
+				"volume_24": "$852",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "182,060,555",
+				"twitter": "BitmonWorld",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8076,
+					"following_count": 14,
+					"tweet_count": 1024,
+					"listed_count": 12
+				}
+			},
+			"data_telegram": {
+				"data": 896994
+			}
 		}
 	]
 }
