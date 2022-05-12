@@ -4419,6 +4419,81 @@
 			"data_telegram": {
 				"data": 30919
 			}
+		},
+		{
+			"date": "12/05/2022 11:19:52",
+			"data_coin": {
+				"id": "20066",
+				"name": "PumpIT Launchpad",
+				"symbol": "$PUMPIT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/pumpit-launchpad/",
+				"price": "$0.000007261",
+				"_1h": "0.33%",
+				"_1h_up": true,
+				"_24h": "0.33%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$4,182,373",
+				"volume": "$60,607",
+				"date": "09/05/2022 22:48:36",
+				"infoCoinMarketCap_1": {
+					"id": "20066",
+					"price": "$0.000006175",
+					"variation": "13.44%",
+					"variation_is_up": false,
+					"rank": "#7162",
+					"watchlists": "139",
+					"marketcap": "$582,530",
+					"fully_diluted_marketcap": "$3,556,816",
+					"volume_24": "$1,215",
+					"volume_marketcap_24": "0.002086",
+					"max_supply": "576,000,000,000",
+					"total_supply": "--",
+					"contract": "0x99749058B8c5660D7f6C5322E8De9945B4f9bCBd",
+					"telegram": "officialpumpittoken",
+					"twitter": "pumpit_io"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26508,
+						"following_count": 39,
+						"tweet_count": 82,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 30928
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20066",
+				"price": "$0.000006026",
+				"variation": "13.68%",
+				"variation_is_up": false,
+				"rank": "#7183",
+				"watchlists": "141",
+				"marketcap": "$568,471",
+				"fully_diluted_marketcap": "$3,470,978",
+				"volume_24": "$1,185",
+				"volume_marketcap_24": "0.002085",
+				"max_supply": "576,000,000,000",
+				"total_supply": "--",
+				"contract": "0x99749058B8c5660D7f6C5322E8De9945B4f9bCBd",
+				"telegram": "officialpumpittoken",
+				"twitter": "pumpit_io"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26511,
+					"following_count": 39,
+					"tweet_count": 82,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 30917
+			}
 		}
 	]
 }
