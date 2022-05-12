@@ -13218,6 +13218,81 @@
 			"data_telegram": {
 				"data": 8947
 			}
+		},
+		{
+			"date": "12/05/2022 18:18:35",
+			"data_coin": {
+				"id": "19970",
+				"name": "Aeterna",
+				"symbol": "AETERNA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/aeterna/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "05/05/2022 04:17:20",
+				"infoCoinMarketCap_1": {
+					"id": "19970",
+					"price": "$2.24",
+					"variation": "45.33%",
+					"variation_is_up": false,
+					"rank": "#3111",
+					"watchlists": "816",
+					"marketcap": "$988,030",
+					"fully_diluted_marketcap": "$9,935,547,345",
+					"volume_24": "$1,689,262",
+					"volume_marketcap_24": "1.71",
+					"max_supply": "4,444,444,444",
+					"total_supply": "445,602",
+					"contract": "0xe75bf67df2388183d9b7714231996c937d4a855a",
+					"twitter": "project_aeterna",
+					"telegram": "aeternamain"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12112,
+						"following_count": 193,
+						"tweet_count": 540,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8958
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19970",
+				"price": "$2.13",
+				"variation": "27.19%",
+				"variation_is_up": false,
+				"rank": "#3107",
+				"watchlists": "822",
+				"marketcap": "$942,099",
+				"fully_diluted_marketcap": "$9,473,672,592",
+				"volume_24": "$1,660,293",
+				"volume_marketcap_24": "1.76",
+				"max_supply": "4,444,444,444",
+				"total_supply": "445,602",
+				"contract": "0xe75bf67df2388183d9b7714231996c937d4a855a",
+				"twitter": "project_aeterna",
+				"telegram": "aeternamain"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12133,
+					"following_count": 193,
+					"tweet_count": 546,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 8970
+			}
 		}
 	]
 }
