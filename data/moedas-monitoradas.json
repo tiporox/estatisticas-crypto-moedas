@@ -9025,34 +9025,6 @@
 			"infoCoinMarketCap_1": {
 				"id": "19990",
 				"price": "$0.001424",
-				"variation": "0.82%",
-				"variation_is_up": true,
-				"rank": "#8252",
-				"watchlists": "98",
-				"marketcap": "$284,716",
-				"fully_diluted_marketcap": "$28,471,599",
-				"volume_24": "$58",
-				"volume_marketcap_24": "0.0002038",
-				"max_supply": "20,000,000,000",
-				"total_supply": "20,000,000,000",
-				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
-				"telegram": "CowboySnakeGlobal",
-				"twitter": "CowboySnake"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 90596,
-					"following_count": 108,
-					"tweet_count": 516,
-					"listed_count": 59
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 72015
-			},
-			"infoCoinMarketCap": {
-				"id": "19990",
-				"price": "$0.001424",
 				"variation": "0.69%",
 				"variation_is_up": true,
 				"rank": "#8277",
@@ -9067,7 +9039,7 @@
 				"telegram": "CowboySnakeGlobal",
 				"twitter": "CowboySnake"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 90600,
 					"following_count": 108,
@@ -9075,8 +9047,36 @@
 					"listed_count": 59
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 72009
+			},
+			"infoCoinMarketCap": {
+				"id": "19990",
+				"price": "$0.001423",
+				"variation": "0.59%",
+				"variation_is_up": true,
+				"rank": "#8282",
+				"watchlists": "98",
+				"marketcap": "$284,589",
+				"fully_diluted_marketcap": "$28,458,879",
+				"volume_24": "$58",
+				"volume_marketcap_24": "0.0002033",
+				"max_supply": "20,000,000,000",
+				"total_supply": "20,000,000,000",
+				"contract": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+				"telegram": "CowboySnakeGlobal",
+				"twitter": "CowboySnake"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 90598,
+					"following_count": 108,
+					"tweet_count": 516,
+					"listed_count": 59
+				}
+			},
+			"dadosTelegram": {
+				"data": 72005
 			}
 		},
 		{
@@ -9380,14 +9380,14 @@
 			"date": "05/05/2022 19:41:55",
 			"infoCoinMarketCap_1": {
 				"id": "19980",
-				"price": "$0.1438",
-				"variation": "12.76%",
+				"price": "$0.1535",
+				"variation": "49.27%",
 				"variation_is_up": true,
-				"rank": "#6690",
+				"rank": "#6752",
 				"watchlists": "61",
 				"marketcap": "- -",
-				"fully_diluted_marketcap": "$14,382,218",
-				"volume_24": "$2,215",
+				"fully_diluted_marketcap": "$15,352,325",
+				"volume_24": "$2,051",
 				"volume_marketcap_24": "--",
 				"max_supply": "100,000,000",
 				"total_supply": "2,500,000",
@@ -9407,14 +9407,14 @@
 			},
 			"infoCoinMarketCap": {
 				"id": "19980",
-				"price": "$0.1535",
-				"variation": "49.27%",
+				"price": "$0.1494",
+				"variation": "16.68%",
 				"variation_is_up": true,
-				"rank": "#6752",
+				"rank": "#6244",
 				"watchlists": "61",
 				"marketcap": "- -",
-				"fully_diluted_marketcap": "$15,352,325",
-				"volume_24": "$2,051",
+				"fully_diluted_marketcap": "$14,943,515",
+				"volume_24": "$5,101",
 				"volume_marketcap_24": "--",
 				"max_supply": "100,000,000",
 				"total_supply": "2,500,000",
@@ -9423,7 +9423,7 @@
 			},
 			"dadosTwitter": {
 				"data": {
-					"followers_count": 6083,
+					"followers_count": 6084,
 					"following_count": 26,
 					"tweet_count": 144,
 					"listed_count": 124
@@ -13797,7 +13797,28 @@
 			"_24h_up": true,
 			"fullyDilutedMarketCap": "$5,690,655,802",
 			"volume": "$45,302",
-			"date": "12/05/2022 06:06:28"
+			"date": "12/05/2022 06:06:28",
+			"infoCoinMarketCap": {
+				"id": "20106",
+				"price": "$1.75",
+				"variation": "0.00%",
+				"variation_is_up": true,
+				"rank": "# -",
+				"watchlists": "1",
+				"marketcap": "$5,690,655,802",
+				"fully_diluted_marketcap": "$5,690,655,802",
+				"volume_24": "$45,302",
+				"volume_marketcap_24": "0.00000796",
+				"max_supply": "3,250,000,000",
+				"total_supply": "3,250,000,000",
+				"contract": "0xDA58e9fDC0545e96C6b1B5890778389A0ad0D5e6",
+				"telegram": "Darth383000",
+				"twitter": "Darth383000?t=k2_zQfk5Ai4ncPj7QIeF0A&s=09"
+			},
+			"dadosTwitter": {},
+			"dadosTelegram": {
+				"data": 18234
+			}
 		}
 	],
 	"total": 201
