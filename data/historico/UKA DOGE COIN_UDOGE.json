@@ -3736,6 +3736,81 @@
 			"data_telegram": {
 				"data": 34977
 			}
+		},
+		{
+			"date": "12/05/2022 12:29:51",
+			"data_coin": {
+				"id": "20043",
+				"name": "UKA DOGE COIN",
+				"symbol": "UDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/uka-doge-coin/",
+				"price": "$0.00000000559",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$559,028",
+				"volume": "$20,376",
+				"date": "10/05/2022 09:07:15",
+				"infoCoinMarketCap_1": {
+					"id": "20043",
+					"price": "$0.000000004795",
+					"variation": "3.18%",
+					"variation_is_up": false,
+					"rank": "#6039",
+					"watchlists": "129",
+					"marketcap": "$479,470",
+					"fully_diluted_marketcap": "$479,470",
+					"volume_24": "$8,099",
+					"volume_marketcap_24": "0.01689",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+					"telegram": "ukadogechat",
+					"twitter": "ukadoge"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16531,
+						"following_count": 62,
+						"tweet_count": 116,
+						"listed_count": 17
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 34975
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20043",
+				"price": "$0.00000000489",
+				"variation": "3.32%",
+				"variation_is_up": false,
+				"rank": "#6042",
+				"watchlists": "131",
+				"marketcap": "$489,021",
+				"fully_diluted_marketcap": "$489,021",
+				"volume_24": "$8,451",
+				"volume_marketcap_24": "0.01728",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+				"telegram": "ukadogechat",
+				"twitter": "ukadoge"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16544,
+					"following_count": 62,
+					"tweet_count": 116,
+					"listed_count": 17
+				}
+			},
+			"data_telegram": {
+				"data": 34996
+			}
 		}
 	]
 }
