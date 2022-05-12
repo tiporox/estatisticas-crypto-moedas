@@ -7668,6 +7668,81 @@
 			"data_telegram": {
 				"data": 9038
 			}
+		},
+		{
+			"date": "12/05/2022 00:32:06",
+			"data_coin": {
+				"id": "20015",
+				"name": "ELON BUYS COKE COLA",
+				"symbol": "EBCC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-buys-coke-cola/",
+				"price": "$0.000002835",
+				"_1h": "1.12%",
+				"_1h_up": false,
+				"_24h": "1.12%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,835,338",
+				"volume": "$64,526",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20015",
+					"price": "$0.00000000819",
+					"variation": "88.12%",
+					"variation_is_up": false,
+					"rank": "#6028",
+					"watchlists": "2,140",
+					"marketcap": "$5,733",
+					"fully_diluted_marketcap": "$8,190",
+					"volume_24": "$6,400",
+					"volume_marketcap_24": "1.12",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+					"telegram": "elonbuyscoke",
+					"twitter": "ElonBuysCoke"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8275,
+						"following_count": 17,
+						"tweet_count": 32,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 9043
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20015",
+				"price": "$0.000000005832",
+				"variation": "91.47%",
+				"variation_is_up": false,
+				"rank": "#6058",
+				"watchlists": "2,139",
+				"marketcap": "$4,082",
+				"fully_diluted_marketcap": "$5,832",
+				"volume_24": "$6,110",
+				"volume_marketcap_24": "1.5",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+				"telegram": "elonbuyscoke",
+				"twitter": "ElonBuysCoke"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8273,
+					"following_count": 17,
+					"tweet_count": 32,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 9034
+			}
 		}
 	]
 }
