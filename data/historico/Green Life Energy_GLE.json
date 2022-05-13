@@ -685,6 +685,81 @@
 			"data_telegram": {
 				"data": 486
 			}
+		},
+		{
+			"date": "13/05/2022 13:19:16",
+			"data_coin": {
+				"id": "20111",
+				"name": "Green Life Energy",
+				"symbol": "GLE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/green-life-energy-token/",
+				"price": "$0.03013",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$15,066,900",
+				"volume": "$67,878",
+				"date": "13/05/2022 03:13:20",
+				"infoCoinMarketCap_1": {
+					"id": "20111",
+					"price": "$0.02815",
+					"variation": "6.58%",
+					"variation_is_up": false,
+					"rank": "#4219",
+					"watchlists": "94",
+					"marketcap": "$4,504,210",
+					"fully_diluted_marketcap": "$14,075,657",
+					"volume_24": "$102,349",
+					"volume_marketcap_24": "0.02272",
+					"max_supply": "500,000,000",
+					"total_supply": "500,000,000",
+					"twitter": "GreenLifeEn",
+					"telegram": "GreenLifeEnergy",
+					"contract": "0x405Ef490862AD5fB2D80995b35459594290A7AA9"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5838,
+						"following_count": 115,
+						"tweet_count": 451,
+						"listed_count": 11
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 480
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20111",
+				"price": "$0.0269",
+				"variation": "10.74%",
+				"variation_is_up": false,
+				"rank": "#4194",
+				"watchlists": "107",
+				"marketcap": "$4,303,528",
+				"fully_diluted_marketcap": "$13,448,525",
+				"volume_24": "$105,931",
+				"volume_marketcap_24": "0.02461",
+				"max_supply": "500,000,000",
+				"total_supply": "500,000,000",
+				"twitter": "GreenLifeEn",
+				"telegram": "GreenLifeEnergy",
+				"contract": "0x405Ef490862AD5fB2D80995b35459594290A7AA9"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5844,
+					"following_count": 115,
+					"tweet_count": 454,
+					"listed_count": 11
+				}
+			},
+			"data_telegram": {
+				"data": 486
+			}
 		}
 	]
 }
