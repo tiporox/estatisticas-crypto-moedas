@@ -44,6 +44,51 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "13/05/2022 02:00:34",
+			"data_coin": {
+				"id": "20094",
+				"name": "Swinca",
+				"symbol": "SWI",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/swinca/",
+				"price": "$0.1215",
+				"_1h": "0.02%",
+				"_1h_up": true,
+				"_24h": "0.02%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$48,589,686",
+				"volume": "$45,145",
+				"date": "13/05/2022 00:59:38"
+			},
+			"data_coinmarketcap": {
+				"id": "20094",
+				"price": "$0.1214",
+				"variation": "0.07%",
+				"variation_is_up": false,
+				"rank": "#4746",
+				"watchlists": "4",
+				"marketcap": "$10,437,989",
+				"fully_diluted_marketcap": "$48,548,786",
+				"volume_24": "$44,891",
+				"volume_marketcap_24": "0.004301",
+				"max_supply": "400,000,000",
+				"total_supply": "86,000,001",
+				"telegram": "SwincaCoinOfficial : Telegram",
+				"twitter": "Swinca_",
+				"contract": "0x81372C18c87f6d2FE91F416d7c8a109CEA48C332"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8646,
+					"following_count": 6,
+					"tweet_count": 125,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
