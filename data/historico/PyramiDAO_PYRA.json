@@ -19194,6 +19194,74 @@
 			"data_telegram": {
 				"data": 58545
 			}
+		},
+		{
+			"date": "12/05/2022 23:19:08",
+			"data_coin": {
+				"id": "19846",
+				"name": "PyramiDAO",
+				"symbol": "PYRA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/pyramidao/",
+				"date": "28/04/2022 07:39:58",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 34741,
+						"following_count": 5,
+						"tweet_count": 67,
+						"listed_count": 13
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 58549
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19846",
+					"price": "$0.0000383",
+					"variation": "3.73%",
+					"variation_is_up": false,
+					"rank": "#7770",
+					"watchlists": "755",
+					"marketcap": "$33,239",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$246",
+					"volume_marketcap_24": "0.007402",
+					"max_supply": "",
+					"total_supply": "",
+					"telegram": "PyramiDAO_Global",
+					"twitter": "pyramiDAO",
+					"contract": "0xf62D479c63Ba5196FCE6F22210080F9a2D6a4D47"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19846",
+				"price": "$0.00004118",
+				"variation": "3.76%",
+				"variation_is_up": true,
+				"rank": "#7729",
+				"watchlists": "755",
+				"marketcap": "$35,740",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$263",
+				"volume_marketcap_24": "0.007362",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "PyramiDAO_Global",
+				"twitter": "pyramiDAO",
+				"contract": "0xf62D479c63Ba5196FCE6F22210080F9a2D6a4D47"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 34741,
+					"following_count": 5,
+					"tweet_count": 67,
+					"listed_count": 13
+				}
+			},
+			"data_telegram": {
+				"data": 58541
+			}
 		}
 	]
 }
