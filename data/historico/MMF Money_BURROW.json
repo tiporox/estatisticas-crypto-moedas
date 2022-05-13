@@ -6168,6 +6168,81 @@
 			"data_telegram": {
 				"data": 896611
 			}
+		},
+		{
+			"date": "13/05/2022 01:24:55",
+			"data_coin": {
+				"id": "20044",
+				"name": "MMF Money",
+				"symbol": "BURROW",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/mmf-money/",
+				"price": "$0.1308",
+				"_1h": "6.55%",
+				"_1h_up": true,
+				"_24h": "6.55%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$13,078,145",
+				"volume": "$59,790",
+				"date": "09/05/2022 10:50:14",
+				"infoCoinMarketCap_1": {
+					"id": "20044",
+					"price": "$0.08459",
+					"variation": "24.70%",
+					"variation_is_up": false,
+					"rank": "#3133",
+					"watchlists": "55",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$8,458,804",
+					"volume_24": "$1,272,143",
+					"volume_marketcap_24": "--",
+					"max_supply": "100,000,000",
+					"total_supply": "23,808,974",
+					"twitter": "MMFcrypto",
+					"contract": "0x49ab7ca4D2Cf6777c8C56C5E9Edb7D1218AE1299",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 88155,
+						"following_count": 131,
+						"tweet_count": 1032,
+						"listed_count": 373
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 896629
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20044",
+				"price": "$0.101",
+				"variation": "1.11%",
+				"variation_is_up": true,
+				"rank": "#3097",
+				"watchlists": "55",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$10,102,609",
+				"volume_24": "$1,539,774",
+				"volume_marketcap_24": "--",
+				"max_supply": "100,000,000",
+				"total_supply": "23,808,974",
+				"twitter": "MMFcrypto",
+				"contract": "0x49ab7ca4D2Cf6777c8C56C5E9Edb7D1218AE1299",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 88099,
+					"following_count": 131,
+					"tweet_count": 1032,
+					"listed_count": 373
+				}
+			},
+			"data_telegram": {
+				"data": 896582
+			}
 		}
 	]
 }

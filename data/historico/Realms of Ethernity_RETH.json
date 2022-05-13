@@ -11489,6 +11489,81 @@
 			"data_telegram": {
 				"data": 27321
 			}
+		},
+		{
+			"date": "13/05/2022 01:24:00",
+			"data_coin": {
+				"id": "20011",
+				"name": "Realms of Ethernity",
+				"symbol": "RETH",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/realms-of-ethernity/",
+				"price": "$0.04428",
+				"_1h": "0.65%",
+				"_1h_up": true,
+				"_24h": "0.65%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$61,016,194",
+				"volume": "$6,990",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20011",
+					"price": "$0.0412",
+					"variation": "0.91%",
+					"variation_is_up": false,
+					"rank": "#8398",
+					"watchlists": "738",
+					"marketcap": "$720,966",
+					"fully_diluted_marketcap": "$56,770,915",
+					"volume_24": "$37",
+					"volume_marketcap_24": "0.00005127",
+					"max_supply": "1,378,000,000",
+					"total_supply": "--",
+					"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+					"telegram": "realmsofethernityMMORPG",
+					"twitter": "realmsofeth"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 122268,
+						"following_count": 55,
+						"tweet_count": 1449,
+						"listed_count": 48
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 27323
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20011",
+				"price": "$0.04284",
+				"variation": "11.47%",
+				"variation_is_up": true,
+				"rank": "#7361",
+				"watchlists": "738",
+				"marketcap": "$749,763",
+				"fully_diluted_marketcap": "$59,038,514",
+				"volume_24": "$609",
+				"volume_marketcap_24": "0.0008125",
+				"max_supply": "1,378,000,000",
+				"total_supply": "--",
+				"contract": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+				"telegram": "realmsofethernityMMORPG",
+				"twitter": "realmsofeth"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 122240,
+					"following_count": 55,
+					"tweet_count": 1449,
+					"listed_count": 48
+				}
+			},
+			"data_telegram": {
+				"data": 27316
+			}
 		}
 	]
 }
