@@ -454,6 +454,77 @@
 			"data_telegram": {
 				"data": 3630
 			}
+		},
+		{
+			"date": "13/05/2022 13:14:11",
+			"data_coin": {
+				"id": "20114",
+				"name": "Moox",
+				"symbol": "MOOX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/moox/",
+				"price": "$0.2277",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$15,937,116,114",
+				"volume": "$3,568",
+				"date": "13/05/2022 06:09:33",
+				"infoCoinMarketCap_1": {
+					"id": "20114",
+					"price": "$0.219",
+					"variation": "3.79%",
+					"variation_is_up": false,
+					"rank": "#6019",
+					"watchlists": "25",
+					"marketcap": "$29,171",
+					"fully_diluted_marketcap": "$15,333,218,078",
+					"volume_24": "$7,106",
+					"volume_marketcap_24": "0.2436",
+					"max_supply": "70,000,000,000",
+					"total_supply": "136,838",
+					"contract": "0xd340652ee6be19a96ccfb1c1cfb6048cedc87d4d",
+					"telegram": "mooxprotocol",
+					"twitter": "mooxprotocol"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 11141,
+						"following_count": 8,
+						"tweet_count": 74,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20114",
+				"price": "$0.2205",
+				"variation": "3.14%",
+				"variation_is_up": false,
+				"rank": "#6002",
+				"watchlists": "34",
+				"marketcap": "$29,369",
+				"fully_diluted_marketcap": "$15,437,195,530",
+				"volume_24": "$7,316",
+				"volume_marketcap_24": "0.2491",
+				"max_supply": "70,000,000,000",
+				"total_supply": "136,838",
+				"contract": "0xd340652ee6be19a96ccfb1c1cfb6048cedc87d4d",
+				"telegram": "mooxprotocol",
+				"twitter": "mooxprotocol"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 11134,
+					"following_count": 8,
+					"tweet_count": 74,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
