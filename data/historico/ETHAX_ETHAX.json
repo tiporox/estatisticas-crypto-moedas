@@ -3144,6 +3144,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "13/05/2022 09:29:40",
+			"data_coin": {
+				"id": "20090",
+				"name": "ETHAX",
+				"symbol": "ETHAX",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/ethax/",
+				"price": "$0.1945",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$155,608,240",
+				"volume": "$16,446",
+				"date": "11/05/2022 09:12:20",
+				"infoCoinMarketCap_1": {
+					"id": "20090",
+					"price": "$0.1386",
+					"variation": "9.16%",
+					"variation_is_up": false,
+					"rank": "#4429",
+					"watchlists": "119",
+					"marketcap": "$4,545,852",
+					"fully_diluted_marketcap": "$110,879,575",
+					"volume_24": "$72,042",
+					"volume_marketcap_24": "0.01585",
+					"max_supply": "800,000,008",
+					"total_supply": "800,000,008",
+					"telegram": "ETHAXCRYPTOOFFICIALCHAT",
+					"twitter": "EthaxCrypto",
+					"contract": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6483,
+						"following_count": 25,
+						"tweet_count": 72,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 593
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20090",
+				"price": "$0.1605",
+				"variation": "3.07%",
+				"variation_is_up": true,
+				"rank": "#4464",
+				"watchlists": "122",
+				"marketcap": "$5,263,988",
+				"fully_diluted_marketcap": "$128,395,919",
+				"volume_24": "$69,753",
+				"volume_marketcap_24": "0.01325",
+				"max_supply": "800,000,008",
+				"total_supply": "800,000,008",
+				"telegram": "ETHAXCRYPTOOFFICIALCHAT",
+				"twitter": "EthaxCrypto",
+				"contract": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6487,
+					"following_count": 25,
+					"tweet_count": 72,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
