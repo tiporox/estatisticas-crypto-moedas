@@ -3271,6 +3271,79 @@
 			"data_telegram": {
 				"data": 24731
 			}
+		},
+		{
+			"date": "13/05/2022 03:26:30",
+			"data_coin": {
+				"id": "20082",
+				"name": "Monstock",
+				"symbol": "MON",
+				"blockchain": "Klaytn",
+				"ativo": true,
+				"link": "/currencies/monstock/",
+				"price": "$0.002664",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$26,499,424",
+				"volume": "$105,291",
+				"date": "11/05/2022 02:16:04",
+				"infoCoinMarketCap_1": {
+					"id": "20082",
+					"price": "$0.002027",
+					"variation": "9.04%",
+					"variation_is_up": false,
+					"rank": "#4795",
+					"watchlists": "70",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$20,161,795",
+					"volume_24": "$40,819",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "9,948,500,000",
+					"telegram": "monstocktokenchat",
+					"twitter": "monstock_app"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 28483,
+						"following_count": 14,
+						"tweet_count": 104,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 24725
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20082",
+				"price": "$0.002054",
+				"variation": "3.47%",
+				"variation_is_up": true,
+				"rank": "#4869",
+				"watchlists": "73",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$20,429,277",
+				"volume_24": "$37,540",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "9,948,500,000",
+				"telegram": "monstocktokenchat",
+				"twitter": "monstock_app"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 28482,
+					"following_count": 14,
+					"tweet_count": 104,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 24753
+			}
 		}
 	]
 }
