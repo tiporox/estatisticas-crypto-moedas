@@ -377,6 +377,79 @@
 			"data_telegram": {
 				"data": 4907
 			}
+		},
+		{
+			"date": "13/05/2022 12:39:44",
+			"data_coin": {
+				"id": "20115",
+				"name": "DELOT.IO",
+				"symbol": "DELOT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/delot-io/",
+				"price": "$0.0006625",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$66,249",
+				"volume": "$64,815",
+				"date": "13/05/2022 06:35:52",
+				"infoCoinMarketCap_1": {
+					"id": "20115",
+					"price": "$0.001128",
+					"variation": "70.31%",
+					"variation_is_up": true,
+					"rank": "#3618",
+					"watchlists": "79",
+					"marketcap": "$70,441",
+					"fully_diluted_marketcap": "$112,828",
+					"volume_24": "$287,875",
+					"volume_marketcap_24": "4.09",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
+					"twitter": "delot_io",
+					"telegram": "delot_io"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8090,
+						"following_count": 7,
+						"tweet_count": 51,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4908
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20115",
+				"price": "$0.0007362",
+				"variation": "11.13%",
+				"variation_is_up": true,
+				"rank": "#3562",
+				"watchlists": "198",
+				"marketcap": "$45,964",
+				"fully_diluted_marketcap": "$73,622",
+				"volume_24": "$330,264",
+				"volume_marketcap_24": "7.19",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
+				"twitter": "delot_io",
+				"telegram": "delot_io"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8230,
+					"following_count": 7,
+					"tweet_count": 51,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
