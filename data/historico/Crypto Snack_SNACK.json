@@ -17643,6 +17643,81 @@
 			"data_telegram": {
 				"data": 897072
 			}
+		},
+		{
+			"date": "13/05/2022 17:29:56",
+			"data_coin": {
+				"id": "19915",
+				"name": "Crypto Snack",
+				"symbol": "SNACK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/crypto-snack/",
+				"price": "$0.01975",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$197,532,533",
+				"volume": "$60,948",
+				"date": "03/05/2022 11:14:42",
+				"infoCoinMarketCap_1": {
+					"id": "19915",
+					"price": "$0.0274",
+					"variation": "4.31%",
+					"variation_is_up": false,
+					"rank": "#3255",
+					"watchlists": "211",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$274,008,716",
+					"volume_24": "$751,276",
+					"volume_marketcap_24": "--",
+					"max_supply": "10,000,000,000",
+					"total_supply": "10,000,000,000",
+					"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+					"twitter": "cryptosnack_",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 6697,
+						"following_count": 1335,
+						"tweet_count": 756,
+						"listed_count": 31
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897085
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19915",
+				"price": "$0.02609",
+				"variation": "9.04%",
+				"variation_is_up": false,
+				"rank": "#3255",
+				"watchlists": "212",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$260,865,868",
+				"volume_24": "$765,581",
+				"volume_marketcap_24": "--",
+				"max_supply": "10,000,000,000",
+				"total_supply": "10,000,000,000",
+				"contract": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+				"twitter": "cryptosnack_",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 6698,
+					"following_count": 1335,
+					"tweet_count": 757,
+					"listed_count": 31
+				}
+			},
+			"data_telegram": {
+				"data": 897065
+			}
 		}
 	]
 }
