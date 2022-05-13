@@ -14343,6 +14343,81 @@
 			"data_telegram": {
 				"data": 1945
 			}
+		},
+		{
+			"date": "13/05/2022 17:31:44",
+			"data_coin": {
+				"id": "19987",
+				"name": "ASIX+",
+				"symbol": "ASIX+",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/asix/",
+				"price": "$0.0000006067",
+				"_1h": "0.00%",
+				"_1h_up": false,
+				"_24h": "0.00%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$6,067,271",
+				"volume": "$74,440",
+				"date": "05/05/2022 12:23:37",
+				"infoCoinMarketCap_1": {
+					"id": "19987",
+					"price": "$0.0000003594",
+					"variation": "5.71%",
+					"variation_is_up": true,
+					"rank": "#4353",
+					"watchlists": "10,570",
+					"marketcap": "$3,593,808",
+					"fully_diluted_marketcap": "$3,593,808",
+					"volume_24": "$83,546",
+					"volume_marketcap_24": "0.02325",
+					"max_supply": "10,000,000,000,000",
+					"total_supply": "10,000,000,000,000",
+					"contract": "0x2bf4be7c4520c41d012eb09a034179e03b898534",
+					"twitter": "asixplusNFT",
+					"telegram": "asixplus"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 14163,
+						"following_count": 5,
+						"tweet_count": 170,
+						"listed_count": 7
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1942
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19987",
+				"price": "$0.0000003608",
+				"variation": "7.88%",
+				"variation_is_up": true,
+				"rank": "#4343",
+				"watchlists": "10,570",
+				"marketcap": "$3,608,216",
+				"fully_diluted_marketcap": "$3,608,216",
+				"volume_24": "$84,663",
+				"volume_marketcap_24": "0.02346",
+				"max_supply": "10,000,000,000,000",
+				"total_supply": "10,000,000,000,000",
+				"contract": "0x2bf4be7c4520c41d012eb09a034179e03b898534",
+				"twitter": "asixplusNFT",
+				"telegram": "asixplus"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 14162,
+					"following_count": 5,
+					"tweet_count": 170,
+					"listed_count": 7
+				}
+			},
+			"data_telegram": {
+				"data": 1949
+			}
 		}
 	]
 }
