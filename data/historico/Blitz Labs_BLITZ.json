@@ -1948,6 +1948,81 @@
 			"data_telegram": {
 				"data": 1051
 			}
+		},
+		{
+			"date": "13/05/2022 15:33:16",
+			"data_coin": {
+				"id": "20110",
+				"name": "Blitz Labs",
+				"symbol": "BLITZ",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/blitz-labs/",
+				"price": "$0.01481",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,997,619",
+				"volume": "$1,837,138",
+				"date": "12/05/2022 09:18:56",
+				"infoCoinMarketCap_1": {
+					"id": "20110",
+					"price": "$0.0152",
+					"variation": "3.93%",
+					"variation_is_up": false,
+					"rank": "#3136",
+					"watchlists": "414",
+					"marketcap": "$4,103,071",
+					"fully_diluted_marketcap": "$4,103,071",
+					"volume_24": "$1,309,071",
+					"volume_marketcap_24": "0.319",
+					"max_supply": "270,000,000",
+					"total_supply": "0",
+					"contract": "0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4",
+					"telegram": "BlitzLabs",
+					"twitter": "BlitzLabs_io"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 24373,
+						"following_count": 68,
+						"tweet_count": 461,
+						"listed_count": 101
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1047
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20110",
+				"price": "$0.01367",
+				"variation": "3.50%",
+				"variation_is_up": true,
+				"rank": "#3127",
+				"watchlists": "426",
+				"marketcap": "$3,691,710",
+				"fully_diluted_marketcap": "$3,691,710",
+				"volume_24": "$1,359,839",
+				"volume_marketcap_24": "0.3683",
+				"max_supply": "270,000,000",
+				"total_supply": "0",
+				"contract": "0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4",
+				"telegram": "BlitzLabs",
+				"twitter": "BlitzLabs_io"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 24371,
+					"following_count": 68,
+					"tweet_count": 461,
+					"listed_count": 101
+				}
+			},
+			"data_telegram": {
+				"data": 1053
+			}
 		}
 	]
 }
