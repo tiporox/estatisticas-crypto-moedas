@@ -13068,6 +13068,81 @@
 			"data_telegram": {
 				"data": 6777
 			}
+		},
+		{
+			"date": "13/05/2022 01:23:34",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000001107",
+					"variation": "34.65%",
+					"variation_is_up": false,
+					"rank": "#5670",
+					"watchlists": "591",
+					"marketcap": "$110,726",
+					"fully_diluted_marketcap": "$110,726",
+					"volume_24": "$10,998",
+					"volume_marketcap_24": "0.09933",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 10088,
+						"following_count": 27,
+						"tweet_count": 88,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6782
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000001124",
+				"variation": "23.15%",
+				"variation_is_up": false,
+				"rank": "#5673",
+				"watchlists": "591",
+				"marketcap": "$112,396",
+				"fully_diluted_marketcap": "$112,396",
+				"volume_24": "$11,642",
+				"volume_marketcap_24": "0.1036",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9780,
+					"following_count": 27,
+					"tweet_count": 88,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 6775
+			}
 		}
 	]
 }
