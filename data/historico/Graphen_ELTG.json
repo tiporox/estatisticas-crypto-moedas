@@ -14268,6 +14268,81 @@
 			"data_telegram": {
 				"data": 1121
 			}
+		},
+		{
+			"date": "13/05/2022 10:27:31",
+			"data_coin": {
+				"id": "19983",
+				"name": "Graphen",
+				"symbol": "ELTG",
+				"blockchain": "",
+				"ativo": true,
+				"link": "/currencies/graphen/",
+				"price": "$0.000259",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$143,745",
+				"date": "05/05/2022 07:01:09",
+				"infoCoinMarketCap_1": {
+					"id": "19983",
+					"price": "$0.0001838",
+					"variation": "45.48%",
+					"variation_is_up": true,
+					"rank": "#4414",
+					"watchlists": "260",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$74,287",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"contract": "token-transfers",
+					"twitter": "eltgraphen",
+					"telegram": "EltgOfficialGroup"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 3092,
+						"following_count": 296,
+						"tweet_count": 85,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1122
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19983",
+				"price": "$0.0001838",
+				"variation": "44.37%",
+				"variation_is_up": true,
+				"rank": "#4407",
+				"watchlists": "260",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$75,701",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"contract": "token-transfers",
+				"twitter": "eltgraphen",
+				"telegram": "EltgOfficialGroup"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 3091,
+					"following_count": 296,
+					"tweet_count": 85,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 1122
+			}
 		}
 	]
 }
