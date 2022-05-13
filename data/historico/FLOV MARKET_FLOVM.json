@@ -2552,6 +2552,81 @@
 			"data_telegram": {
 				"data": 6231
 			}
+		},
+		{
+			"date": "13/05/2022 04:27:14",
+			"data_coin": {
+				"id": "20102",
+				"name": "FLOV MARKET",
+				"symbol": "FLOVM",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/flov-market/",
+				"price": "$0.0002978",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$297,825",
+				"volume": "$34,048",
+				"date": "11/05/2022 14:28:12",
+				"infoCoinMarketCap_1": {
+					"id": "20102",
+					"price": "$0.0002197",
+					"variation": "2.94%",
+					"variation_is_up": false,
+					"rank": "#5334",
+					"watchlists": "179",
+					"marketcap": "$219,679",
+					"fully_diluted_marketcap": "$219,679",
+					"volume_24": "$19,270",
+					"volume_marketcap_24": "0.08772",
+					"max_supply": "1,000,000,000",
+					"total_supply": "1,000,000,000",
+					"contract": "0xC93116aa4854950Ff1852618554E068cd996fc01",
+					"twitter": "FlovMarket",
+					"telegram": "flov_market"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5274,
+						"following_count": 16,
+						"tweet_count": 25,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6231
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20102",
+				"price": "$0.0002174",
+				"variation": "0.22%",
+				"variation_is_up": false,
+				"rank": "#5338",
+				"watchlists": "180",
+				"marketcap": "$217,356",
+				"fully_diluted_marketcap": "$217,356",
+				"volume_24": "$19,176",
+				"volume_marketcap_24": "0.08822",
+				"max_supply": "1,000,000,000",
+				"total_supply": "1,000,000,000",
+				"contract": "0xC93116aa4854950Ff1852618554E068cd996fc01",
+				"twitter": "FlovMarket",
+				"telegram": "flov_market"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5293,
+					"following_count": 16,
+					"tweet_count": 25,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 6229
+			}
 		}
 	]
 }
