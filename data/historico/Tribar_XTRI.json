@@ -444,6 +444,75 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "13/05/2022 11:40:13",
+			"data_coin": {
+				"id": "20084",
+				"name": "Tribar",
+				"symbol": "XTRI",
+				"blockchain": "Aurora",
+				"ativo": true,
+				"link": "/currencies/tribar/",
+				"price": "$0.1619",
+				"_1h": "2.16%",
+				"_1h_up": false,
+				"_24h": "2.16%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,936,040",
+				"volume": "$309",
+				"date": "13/05/2022 04:36:24",
+				"infoCoinMarketCap_1": {
+					"id": "20084",
+					"price": "$0.1678",
+					"variation": "1.40%",
+					"variation_is_up": true,
+					"rank": "#5826",
+					"watchlists": "4",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$3,042,918",
+					"volume_24": "$9,221",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "18,133,348",
+					"twitter": "trisolarislabs",
+					"telegram": "TrisolarisLabs"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 20256,
+						"following_count": 33,
+						"tweet_count": 242,
+						"listed_count": 591
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20084",
+				"price": "$0.1576",
+				"variation": "4.78%",
+				"variation_is_up": false,
+				"rank": "#5248",
+				"watchlists": "6",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$2,857,403",
+				"volume_24": "$23,100",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "18,133,348",
+				"twitter": "trisolarislabs",
+				"telegram": "TrisolarisLabs"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 20260,
+					"following_count": 33,
+					"tweet_count": 242,
+					"listed_count": 591
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
