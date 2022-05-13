@@ -9460,6 +9460,81 @@
 			"data_telegram": {
 				"data": 908
 			}
+		},
+		{
+			"date": "13/05/2022 20:34:21",
+			"data_coin": {
+				"id": "20022",
+				"name": "Sensi",
+				"symbol": "SENSI",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/sensi/",
+				"price": "$0.007763",
+				"_1h": "2.76%",
+				"_1h_up": false,
+				"_24h": "2.76%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$1,899,821",
+				"volume": "$12,028",
+				"date": "08/05/2022 08:58:50",
+				"infoCoinMarketCap_1": {
+					"id": "20022",
+					"price": "$0.006032",
+					"variation": "27.87%",
+					"variation_is_up": true,
+					"rank": "#6045",
+					"watchlists": "264",
+					"marketcap": "$1,119,205",
+					"fully_diluted_marketcap": "$1,476,726",
+					"volume_24": "$6,435",
+					"volume_marketcap_24": "0.00575",
+					"max_supply": "244,812,308",
+					"total_supply": "244,734,869",
+					"contract": "0x63e77cF206801782239D4F126cfa22b517FB4eDb",
+					"telegram": "sensi_v3",
+					"twitter": "sensi_fi"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 4139,
+						"following_count": 23,
+						"tweet_count": 209,
+						"listed_count": 6
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 908
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20022",
+				"price": "$0.005911",
+				"variation": "25.49%",
+				"variation_is_up": true,
+				"rank": "#6023",
+				"watchlists": "264",
+				"marketcap": "$1,096,712",
+				"fully_diluted_marketcap": "$1,447,202",
+				"volume_24": "$6,665",
+				"volume_marketcap_24": "0.006077",
+				"max_supply": "244,812,308",
+				"total_supply": "244,734,869",
+				"contract": "0x63e77cF206801782239D4F126cfa22b517FB4eDb",
+				"telegram": "sensi_v3",
+				"twitter": "sensi_fi"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 4139,
+					"following_count": 23,
+					"tweet_count": 209,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 909
+			}
 		}
 	]
 }
