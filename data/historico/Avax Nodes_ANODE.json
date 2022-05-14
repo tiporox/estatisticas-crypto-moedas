@@ -15474,6 +15474,75 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "14/05/2022 20:49:30",
+			"data_coin": {
+				"id": "19975",
+				"name": "Avax Nodes",
+				"symbol": "ANODE",
+				"blockchain": "Avalanche",
+				"ativo": true,
+				"link": "/currencies/avax-nodes/",
+				"price": "$82.94",
+				"_1h": "0.14%",
+				"_1h_up": false,
+				"_24h": "0.14%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$82,944,668",
+				"volume": "$92,748",
+				"date": "05/05/2022 06:51:01",
+				"infoCoinMarketCap_1": {
+					"id": "19975",
+					"price": "$38.37",
+					"variation": "2.56%",
+					"variation_is_up": false,
+					"rank": "#6799",
+					"watchlists": "117",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$38,371,835",
+					"volume_24": "$1,208",
+					"volume_marketcap_24": "--",
+					"max_supply": "1,000,000",
+					"total_supply": "1,000,000",
+					"twitter": "AvaxNodes",
+					"telegram": "+1QoRnaZyKAEyZjk8"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 2134,
+						"following_count": 38,
+						"tweet_count": 38,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "19975",
+				"price": "$40.34",
+				"variation": "2.94%",
+				"variation_is_up": true,
+				"rank": "#7510",
+				"watchlists": "117",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$40,339,113",
+				"volume_24": "$349",
+				"volume_marketcap_24": "--",
+				"max_supply": "1,000,000",
+				"total_supply": "1,000,000",
+				"twitter": "AvaxNodes",
+				"telegram": "+1QoRnaZyKAEyZjk8"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 2135,
+					"following_count": 38,
+					"tweet_count": 38,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
