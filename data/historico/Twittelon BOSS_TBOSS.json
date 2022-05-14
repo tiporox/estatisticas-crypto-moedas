@@ -14868,6 +14868,81 @@
 			"data_telegram": {
 				"data": 6704
 			}
+		},
+		{
+			"date": "14/05/2022 01:37:15",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.00000009042",
+					"variation": "19.10%",
+					"variation_is_up": false,
+					"rank": "#6111",
+					"watchlists": "587",
+					"marketcap": "$90,425",
+					"fully_diluted_marketcap": "$90,425",
+					"volume_24": "$3,459",
+					"volume_marketcap_24": "0.03826",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 10030,
+						"following_count": 28,
+						"tweet_count": 90,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6711
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.0000000899",
+				"variation": "20.08%",
+				"variation_is_up": false,
+				"rank": "#6108",
+				"watchlists": "587",
+				"marketcap": "$89,900",
+				"fully_diluted_marketcap": "$89,900",
+				"volume_24": "$3,503",
+				"volume_marketcap_24": "0.03897",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9575,
+					"following_count": 28,
+					"tweet_count": 89,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 6699
+			}
 		}
 	]
 }
