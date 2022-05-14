@@ -7048,6 +7048,81 @@
 			"data_telegram": {
 				"data": 8175
 			}
+		},
+		{
+			"date": "13/05/2022 21:36:50",
+			"data_coin": {
+				"id": "20051",
+				"name": "ELON CAT COIN",
+				"symbol": "ELONCAT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-cat-coin/",
+				"price": "$0.000002548",
+				"_1h": "1.83%",
+				"_1h_up": false,
+				"_24h": "26.21%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,548,453",
+				"volume": "$52,178",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20051",
+					"price": "$0.000000001864",
+					"variation": "75.18%",
+					"variation_is_up": false,
+					"rank": "#6071",
+					"watchlists": "157",
+					"marketcap": "$186",
+					"fully_diluted_marketcap": "$1,864",
+					"volume_24": "$6,210",
+					"volume_marketcap_24": "33.31",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+					"telegram": "ElonCatCoin",
+					"twitter": "ElonCatBSC"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5221,
+						"following_count": 2,
+						"tweet_count": 25,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8176
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20051",
+				"price": "$0.000000001828",
+				"variation": "76.04%",
+				"variation_is_up": false,
+				"rank": "#6307",
+				"watchlists": "157",
+				"marketcap": "$183",
+				"fully_diluted_marketcap": "$1,828",
+				"volume_24": "$2,407",
+				"volume_marketcap_24": "13.17",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+				"telegram": "ElonCatCoin",
+				"twitter": "ElonCatBSC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5221,
+					"following_count": 2,
+					"tweet_count": 25,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 8175
+			}
 		}
 	]
 }
