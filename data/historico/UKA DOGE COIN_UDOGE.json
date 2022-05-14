@@ -7711,6 +7711,81 @@
 			"data_telegram": {
 				"data": 36832
 			}
+		},
+		{
+			"date": "14/05/2022 20:53:10",
+			"data_coin": {
+				"id": "20043",
+				"name": "UKA DOGE COIN",
+				"symbol": "UDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/uka-doge-coin/",
+				"price": "$0.00000000559",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$559,028",
+				"volume": "$20,376",
+				"date": "10/05/2022 09:07:15",
+				"infoCoinMarketCap_1": {
+					"id": "20043",
+					"price": "$0.000000004648",
+					"variation": "6.25%",
+					"variation_is_up": false,
+					"rank": "#6184",
+					"watchlists": "145",
+					"marketcap": "$464,779",
+					"fully_diluted_marketcap": "$464,779",
+					"volume_24": "$3,401",
+					"volume_marketcap_24": "0.007318",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+					"telegram": "ukadogechat",
+					"twitter": "ukadoge"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16412,
+						"following_count": 63,
+						"tweet_count": 119,
+						"listed_count": 18
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 36834
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20043",
+				"price": "$0.000000004733",
+				"variation": "3.85%",
+				"variation_is_up": false,
+				"rank": "#6183",
+				"watchlists": "145",
+				"marketcap": "$473,337",
+				"fully_diluted_marketcap": "$473,337",
+				"volume_24": "$3,528",
+				"volume_marketcap_24": "0.007454",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+				"telegram": "ukadogechat",
+				"twitter": "ukadoge"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16416,
+					"following_count": 63,
+					"tweet_count": 119,
+					"listed_count": 18
+				}
+			},
+			"data_telegram": {
+				"data": 36828
+			}
 		}
 	]
 }
