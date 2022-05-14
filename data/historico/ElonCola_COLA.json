@@ -14808,6 +14808,81 @@
 			"data_telegram": {
 				"data": 5892
 			}
+		},
+		{
+			"date": "14/05/2022 15:46:59",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.0000005505",
+					"variation": "8.94%",
+					"variation_is_up": false,
+					"rank": "#6252",
+					"watchlists": "399",
+					"marketcap": "$241,988",
+					"fully_diluted_marketcap": "$550,453",
+					"volume_24": "$2,974",
+					"volume_marketcap_24": "0.01229",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7653,
+						"following_count": 26,
+						"tweet_count": 60,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 5895
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.0000005599",
+				"variation": "7.13%",
+				"variation_is_up": false,
+				"rank": "#6246",
+				"watchlists": "398",
+				"marketcap": "$246,122",
+				"fully_diluted_marketcap": "$559,857",
+				"volume_24": "$3,037",
+				"volume_marketcap_24": "0.01234",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7653,
+					"following_count": 26,
+					"tweet_count": 60,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 5885
+			}
 		}
 	]
 }
