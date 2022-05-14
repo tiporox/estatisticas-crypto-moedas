@@ -13364,6 +13364,81 @@
 			"data_telegram": {
 				"data": 34545
 			}
+		},
+		{
+			"date": "14/05/2022 02:38:26",
+			"data_coin": {
+				"id": "20010",
+				"name": "DisciplesDAO",
+				"symbol": "DCT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/disciplesdao/",
+				"price": "$0.00006722",
+				"_1h": "0.08%",
+				"_1h_up": true,
+				"_24h": "0.08%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$14,115,900",
+				"volume": "$12,474",
+				"date": "06/05/2022 11:21:30",
+				"infoCoinMarketCap_1": {
+					"id": "20010",
+					"price": "$0.00006123",
+					"variation": "1.37%",
+					"variation_is_up": false,
+					"rank": "#6549",
+					"watchlists": "1,746",
+					"marketcap": "$661,332",
+					"fully_diluted_marketcap": "$12,859,242",
+					"volume_24": "$1,561",
+					"volume_marketcap_24": "0.002361",
+					"max_supply": "210,000,000,000",
+					"total_supply": "--",
+					"contract": "0x587f594635ACD348Fc45cCFA5BA79926003785d4",
+					"twitter": "DisciplesDao",
+					"telegram": "DisciplesDAO"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 18667,
+						"following_count": 47,
+						"tweet_count": 108,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 34548
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20010",
+				"price": "$0.0000612",
+				"variation": "1.38%",
+				"variation_is_up": false,
+				"rank": "#6533",
+				"watchlists": "1,747",
+				"marketcap": "$660,909",
+				"fully_diluted_marketcap": "$12,851,012",
+				"volume_24": "$1,648",
+				"volume_marketcap_24": "0.002493",
+				"max_supply": "210,000,000,000",
+				"total_supply": "--",
+				"contract": "0x587f594635ACD348Fc45cCFA5BA79926003785d4",
+				"twitter": "DisciplesDao",
+				"telegram": "DisciplesDAO"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 18638,
+					"following_count": 47,
+					"tweet_count": 108,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 34545
+			}
 		}
 	]
 }
