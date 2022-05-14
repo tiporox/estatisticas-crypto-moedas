@@ -9918,6 +9918,81 @@
 			"data_telegram": {
 				"data": 897422
 			}
+		},
+		{
+			"date": "14/05/2022 19:50:21",
+			"data_coin": {
+				"id": "20025",
+				"name": "Mad USD",
+				"symbol": "MUSD",
+				"blockchain": "Cronos",
+				"ativo": true,
+				"link": "/currencies/mad-usd/",
+				"price": "$0.9961",
+				"_1h": "0.40%",
+				"_1h_up": false,
+				"_24h": "0.40%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$84,370,672",
+				"volume": "$31,332",
+				"date": "09/05/2022 02:27:51",
+				"infoCoinMarketCap_1": {
+					"id": "20025",
+					"price": "$0.997",
+					"variation": "0.35%",
+					"variation_is_up": false,
+					"rank": "#2920",
+					"watchlists": "94",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$84,448,784",
+					"volume_24": "$3,789,700",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "84,700,000",
+					"twitter": "MMFcrypto",
+					"contract": "0x95aeaf383e2e86a47c11cffde1f7944ecb2c38c2",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 88302,
+						"following_count": 131,
+						"tweet_count": 1036,
+						"listed_count": 376
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897448
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20025",
+				"price": "$1.00",
+				"variation": "0.49%",
+				"variation_is_up": true,
+				"rank": "#2923",
+				"watchlists": "94",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$84,801,600",
+				"volume_24": "$3,822,118",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "84,700,000",
+				"twitter": "MMFcrypto",
+				"contract": "0x95aeaf383e2e86a47c11cffde1f7944ecb2c38c2",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 88309,
+					"following_count": 131,
+					"tweet_count": 1036,
+					"listed_count": 376
+				}
+			},
+			"data_telegram": {
+				"data": 897409
+			}
 		}
 	]
 }
