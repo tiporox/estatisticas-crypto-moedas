@@ -4336,6 +4336,81 @@
 			"data_telegram": {
 				"data": 39823
 			}
+		},
+		{
+			"date": "14/05/2022 13:49:48",
+			"data_coin": {
+				"id": "20104",
+				"name": "TANKPAD",
+				"symbol": "TPAD",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/tankpad/",
+				"price": "$0.00003282",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$328,166",
+				"volume": "$1,099,886",
+				"date": "11/05/2022 23:36:11",
+				"infoCoinMarketCap_1": {
+					"id": "20104",
+					"price": "$0.00004344",
+					"variation": "1334.32%",
+					"variation_is_up": true,
+					"rank": "#4182",
+					"watchlists": "250",
+					"marketcap": "$434,384",
+					"fully_diluted_marketcap": "$434,384",
+					"volume_24": "$85,264",
+					"volume_marketcap_24": "0.1963",
+					"max_supply": "10,000,000,000",
+					"total_supply": "--",
+					"contract": "0x3f30cb320f5c04f8d04b97954aededa30c91df2d",
+					"twitter": "tankpad1",
+					"telegram": "tankpadgroup"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 22026,
+						"following_count": 2,
+						"tweet_count": 13,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 39766
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20104",
+				"price": "$0.00002603",
+				"variation": "13357.31%",
+				"variation_is_up": true,
+				"rank": "#4069",
+				"watchlists": "273",
+				"marketcap": "$260,252",
+				"fully_diluted_marketcap": "$260,252",
+				"volume_24": "$102,696",
+				"volume_marketcap_24": "0.3946",
+				"max_supply": "10,000,000,000",
+				"total_supply": "--",
+				"contract": "0x3f30cb320f5c04f8d04b97954aededa30c91df2d",
+				"twitter": "tankpad1",
+				"telegram": "tankpadgroup"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 22052,
+					"following_count": 2,
+					"tweet_count": 13,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 39880
+			}
 		}
 	]
 }
