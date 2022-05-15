@@ -18768,6 +18768,81 @@
 			"data_telegram": {
 				"data": 4738
 			}
+		},
+		{
+			"date": "15/05/2022 20:05:14",
+			"data_coin": {
+				"id": "19967",
+				"name": "Banana Index",
+				"symbol": "BANDEX",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/banana-index/",
+				"price": "$0.000001868",
+				"_1h": "15.59%",
+				"_1h_up": true,
+				"_24h": "15.59%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$1,867,972",
+				"volume": "$193,485",
+				"date": "05/05/2022 03:43:59",
+				"infoCoinMarketCap_1": {
+					"id": "19967",
+					"price": "$0.0000002389",
+					"variation": "54.21%",
+					"variation_is_up": false,
+					"rank": "#4151",
+					"watchlists": "355",
+					"marketcap": "$238,917",
+					"fully_diluted_marketcap": "$238,917",
+					"volume_24": "$88,030",
+					"volume_marketcap_24": "0.3685",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"twitter": "BananaTFA",
+					"telegram": "BananaTFApe",
+					"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9540,
+						"following_count": 151,
+						"tweet_count": 574,
+						"listed_count": 16
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4740
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19967",
+				"price": "$0.00000025",
+				"variation": "52.22%",
+				"variation_is_up": false,
+				"rank": "#4117",
+				"watchlists": "358",
+				"marketcap": "$249,994",
+				"fully_diluted_marketcap": "$249,994",
+				"volume_24": "$93,646",
+				"volume_marketcap_24": "0.3746",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"twitter": "BananaTFA",
+				"telegram": "BananaTFApe",
+				"contract": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9538,
+					"following_count": 151,
+					"tweet_count": 574,
+					"listed_count": 16
+				}
+			},
+			"data_telegram": {
+				"data": 4734
+			}
 		}
 	]
 }
