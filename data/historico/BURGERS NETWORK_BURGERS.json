@@ -900,6 +900,79 @@
 			"data_telegram": {
 				"data": 6061
 			}
+		},
+		{
+			"date": "15/05/2022 04:26:01",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.00002381",
+					"variation": "0.57%",
+					"variation_is_up": false,
+					"rank": "#4192",
+					"watchlists": "164",
+					"marketcap": "$2,381,410",
+					"fully_diluted_marketcap": "$23,814,099",
+					"volume_24": "$72,601",
+					"volume_marketcap_24": "0.03049",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5577,
+						"following_count": 27,
+						"tweet_count": 33,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.00002415",
+				"variation": "0.83%",
+				"variation_is_up": true,
+				"rank": "#4179",
+				"watchlists": "187",
+				"marketcap": "$2,414,931",
+				"fully_diluted_marketcap": "$24,149,306",
+				"volume_24": "$75,895",
+				"volume_marketcap_24": "0.03143",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5583,
+					"following_count": 27,
+					"tweet_count": 33,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6063
+			}
 		}
 	]
 }
