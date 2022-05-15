@@ -1,1 +1,50 @@
-{}
+{
+	"data": [
+		{
+			"date": "15/05/2022 14:12:34",
+			"data_coin": {
+				"id": "20125",
+				"name": "Ravelin Finance",
+				"symbol": "RAV",
+				"blockchain": "Cardano",
+				"ativo": true,
+				"link": "/currencies/ravelin-finance/",
+				"price": "$0.4278",
+				"_1h": "0.20%",
+				"_1h_up": true,
+				"_24h": "0.20%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$16",
+				"date": "15/05/2022 14:11:53"
+			},
+			"data_coinmarketcap": {
+				"id": "20125",
+				"price": "$0.4269",
+				"variation": "0.00%",
+				"variation_is_up": true,
+				"rank": "#10107",
+				"watchlists": "3",
+				"marketcap": "$67,952",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "- -",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "ravelinfinance",
+				"twitter": "RavelinFinance"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 1382,
+					"following_count": 16,
+					"tweet_count": 45,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 432
+			}
+		}
+	]
+}
