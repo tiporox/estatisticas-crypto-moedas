@@ -1271,6 +1271,81 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "15/05/2022 09:30:01",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.00002388",
+					"variation": "0.31%",
+					"variation_is_up": false,
+					"rank": "#3997",
+					"watchlists": "228",
+					"marketcap": "$2,387,606",
+					"fully_diluted_marketcap": "$23,876,059",
+					"volume_24": "$101,756",
+					"volume_marketcap_24": "0.04262",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5588,
+						"following_count": 27,
+						"tweet_count": 33,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6041
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.00002477",
+				"variation": "3.44%",
+				"variation_is_up": true,
+				"rank": "#3991",
+				"watchlists": "244",
+				"marketcap": "$2,477,382",
+				"fully_diluted_marketcap": "$24,773,816",
+				"volume_24": "$106,475",
+				"volume_marketcap_24": "0.04298",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5590,
+					"following_count": 27,
+					"tweet_count": 34,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6028
+			}
 		}
 	]
 }
