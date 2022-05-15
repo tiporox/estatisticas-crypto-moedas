@@ -11897,6 +11897,79 @@
 			"data_telegram": {
 				"data": 4020
 			}
+		},
+		{
+			"date": "15/05/2022 10:00:50",
+			"data_coin": {
+				"id": "20023",
+				"name": "Kinetic Synthetic UST",
+				"symbol": "KUST",
+				"blockchain": "Terra",
+				"ativo": true,
+				"link": "/currencies/kinetic-synthetic-ust/",
+				"price": "$0.9535",
+				"_1h": "0.66%",
+				"_1h_up": true,
+				"_24h": "0.66%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$49,648",
+				"date": "08/05/2022 08:58:50",
+				"infoCoinMarketCap_1": {
+					"id": "20023",
+					"price": "$0.1887",
+					"variation": "8.26%",
+					"variation_is_up": false,
+					"rank": "#3287",
+					"watchlists": "59",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$503,731",
+					"volume_marketcap_24": "--",
+					"max_supply": "",
+					"total_supply": "",
+					"telegram": "kinetic_money",
+					"twitter": "kinetic_money"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 26203,
+						"following_count": 31,
+						"tweet_count": 347,
+						"listed_count": 476
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 4022
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20023",
+				"price": "$0.1835",
+				"variation": "0.11%",
+				"variation_is_up": true,
+				"rank": "#3302",
+				"watchlists": "59",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$489,584",
+				"volume_marketcap_24": "--",
+				"max_supply": "",
+				"total_supply": "",
+				"telegram": "kinetic_money",
+				"twitter": "kinetic_money"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 26201,
+					"following_count": 31,
+					"tweet_count": 347,
+					"listed_count": 474
+				}
+			},
+			"data_telegram": {
+				"data": 4023
+			}
 		}
 	]
 }
