@@ -18466,6 +18466,79 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "15/05/2022 04:53:38",
+			"data_coin": {
+				"id": "19952",
+				"name": "Shack Token",
+				"symbol": "SHACK",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/shack-token/",
+				"price": "$0.01491",
+				"_1h": "0.14%",
+				"_1h_up": true,
+				"_24h": "0.14%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$15,213,095",
+				"volume": "$521",
+				"date": "04/05/2022 11:45:04",
+				"infoCoinMarketCap_1": {
+					"id": "19952",
+					"price": "$0.01301",
+					"variation": "5.41%",
+					"variation_is_up": true,
+					"rank": "#3498",
+					"watchlists": "69",
+					"marketcap": "$13,266,129",
+					"fully_diluted_marketcap": "$13,266,129",
+					"volume_24": "$267,215",
+					"volume_marketcap_24": "0.02014",
+					"max_supply": "1,020,000,002",
+					"total_supply": "1,020,000,002",
+					"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+					"twitter": "radioshack",
+					"telegram": "radioshackfairlaunch"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 193209,
+						"following_count": 4178,
+						"tweet_count": 30734,
+						"listed_count": 1624
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 11766
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19952",
+				"price": "$0.013",
+				"variation": "4.54%",
+				"variation_is_up": true,
+				"rank": "#3492",
+				"watchlists": "69",
+				"marketcap": "$13,262,264",
+				"fully_diluted_marketcap": "$13,262,264",
+				"volume_24": "$276,462",
+				"volume_marketcap_24": "0.02085",
+				"max_supply": "1,020,000,002",
+				"total_supply": "1,020,000,002",
+				"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+				"twitter": "radioshack",
+				"telegram": "radioshackfairlaunch"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 193297,
+					"following_count": 4178,
+					"tweet_count": 30734,
+					"listed_count": 1624
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
