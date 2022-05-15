@@ -1346,6 +1346,77 @@
 			"data_telegram": {
 				"data": 6028
 			}
+		},
+		{
+			"date": "15/05/2022 10:30:51",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.00002429",
+					"variation": "1.43%",
+					"variation_is_up": true,
+					"rank": "#3993",
+					"watchlists": "234",
+					"marketcap": "$2,429,254",
+					"fully_diluted_marketcap": "$24,292,541",
+					"volume_24": "$104,207",
+					"volume_marketcap_24": "0.0429",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5588,
+						"following_count": 27,
+						"tweet_count": 34,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.00002455",
+				"variation": "2.51%",
+				"variation_is_up": true,
+				"rank": "#3998",
+				"watchlists": "258",
+				"marketcap": "$2,455,065",
+				"fully_diluted_marketcap": "$24,550,647",
+				"volume_24": "$106,863",
+				"volume_marketcap_24": "0.04353",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5593,
+					"following_count": 27,
+					"tweet_count": 34,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {}
 		}
 	]
 }
