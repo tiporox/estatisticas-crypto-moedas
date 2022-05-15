@@ -9211,6 +9211,81 @@
 			"data_telegram": {
 				"data": 37820
 			}
+		},
+		{
+			"date": "15/05/2022 17:06:47",
+			"data_coin": {
+				"id": "20043",
+				"name": "UKA DOGE COIN",
+				"symbol": "UDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/uka-doge-coin/",
+				"price": "$0.00000000559",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$559,028",
+				"volume": "$20,376",
+				"date": "10/05/2022 09:07:15",
+				"infoCoinMarketCap_1": {
+					"id": "20043",
+					"price": "$0.000000004876",
+					"variation": "5.34%",
+					"variation_is_up": true,
+					"rank": "#6123",
+					"watchlists": "147",
+					"marketcap": "$487,627",
+					"fully_diluted_marketcap": "$487,627",
+					"volume_24": "$2,843",
+					"volume_marketcap_24": "0.00583",
+					"max_supply": "100,000,000,000,000",
+					"total_supply": "100,000,000,000,000",
+					"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+					"telegram": "ukadogechat",
+					"twitter": "ukadoge"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 16443,
+						"following_count": 63,
+						"tweet_count": 121,
+						"listed_count": 18
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 37823
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20043",
+				"price": "$0.000000004912",
+				"variation": "6.84%",
+				"variation_is_up": true,
+				"rank": "#6129",
+				"watchlists": "147",
+				"marketcap": "$491,229",
+				"fully_diluted_marketcap": "$491,229",
+				"volume_24": "$2,864",
+				"volume_marketcap_24": "0.00583",
+				"max_supply": "100,000,000,000,000",
+				"total_supply": "100,000,000,000,000",
+				"contract": "0x698111b771363b81d1179ad102e3d8b9cd093a11",
+				"telegram": "ukadogechat",
+				"twitter": "ukadoge"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 16443,
+					"following_count": 63,
+					"tweet_count": 121,
+					"listed_count": 18
+				}
+			},
+			"data_telegram": {
+				"data": 37815
+			}
 		}
 	]
 }
