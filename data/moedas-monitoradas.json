@@ -14292,34 +14292,6 @@
 			"date": "13/05/2022 06:35:52",
 			"infoCoinMarketCap_1": {
 				"id": "20115",
-				"price": "$0.006414",
-				"variation": "171.31%",
-				"variation_is_up": true,
-				"rank": "#2913",
-				"watchlists": "1,617",
-				"marketcap": "$400,457",
-				"fully_diluted_marketcap": "$641,430",
-				"volume_24": "$4,213,578",
-				"volume_marketcap_24": "10.52",
-				"max_supply": "100,000,000",
-				"total_supply": "100,000,000",
-				"contract": "0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
-				"twitter": "delot_io",
-				"telegram": "delot_io"
-			},
-			"dadosTwitter_1": {
-				"data": {
-					"followers_count": 9165,
-					"following_count": 7,
-					"tweet_count": 56,
-					"listed_count": 2
-				}
-			},
-			"dadosTelegram_1": {
-				"data": 5397
-			},
-			"infoCoinMarketCap": {
-				"id": "20115",
 				"price": "$0.00627",
 				"variation": "137.35%",
 				"variation_is_up": true,
@@ -14335,7 +14307,7 @@
 				"twitter": "delot_io",
 				"telegram": "delot_io"
 			},
-			"dadosTwitter": {
+			"dadosTwitter_1": {
 				"data": {
 					"followers_count": 9177,
 					"following_count": 7,
@@ -14343,8 +14315,36 @@
 					"listed_count": 2
 				}
 			},
-			"dadosTelegram": {
+			"dadosTelegram_1": {
 				"data": 5415
+			},
+			"infoCoinMarketCap": {
+				"id": "20115",
+				"price": "$0.005961",
+				"variation": "87.10%",
+				"variation_is_up": true,
+				"rank": "#2908",
+				"watchlists": "1,658",
+				"marketcap": "$372,155",
+				"fully_diluted_marketcap": "$596,098",
+				"volume_24": "$4,490,297",
+				"volume_marketcap_24": "12.07",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
+				"twitter": "delot_io",
+				"telegram": "delot_io"
+			},
+			"dadosTwitter": {
+				"data": {
+					"followers_count": 9182,
+					"following_count": 7,
+					"tweet_count": 56,
+					"listed_count": 2
+				}
+			},
+			"dadosTelegram": {
+				"data": 5420
 			}
 		},
 		{
@@ -14558,7 +14558,23 @@
 			"dadosTelegram": {
 				"data": 6000
 			}
+		},
+		{
+			"id": "20125",
+			"name": "Ravelin Finance",
+			"symbol": "RAV",
+			"blockchain": "Cardano",
+			"ativo": true,
+			"link": "/currencies/ravelin-finance/",
+			"price": "$0.4278",
+			"_1h": "0.20%",
+			"_1h_up": true,
+			"_24h": "0.20%",
+			"_24h_up": true,
+			"fullyDilutedMarketCap": "--",
+			"volume": "$16",
+			"date": "15/05/2022 14:11:53"
 		}
 	],
-	"total": 211
+	"total": 212
 }
