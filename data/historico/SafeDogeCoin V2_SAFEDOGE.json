@@ -22594,6 +22594,74 @@
 			"data_telegram": {
 				"data": 897292
 			}
+		},
+		{
+			"date": "15/05/2022 01:46:40",
+			"data_coin": {
+				"id": "19858",
+				"name": "SafeDogeCoin V2",
+				"symbol": "SAFEDOGE",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/safedogecoin-v2/",
+				"date": "29/04/2022 05:04:53",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 11629,
+						"following_count": 9,
+						"tweet_count": 60,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897306
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19858",
+					"price": "$0.0004895",
+					"variation": "2.11%",
+					"variation_is_up": false,
+					"rank": "#7829",
+					"watchlists": "147",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$64,936,280",
+					"volume_24": "$83",
+					"volume_marketcap_24": "--",
+					"max_supply": "132,670,764,300",
+					"total_supply": "132,670,764,300",
+					"contract": "0x3587aF633dD49cd0230625A1c0549D6e8E475F0A",
+					"twitter": "Safe_Doge_Coin",
+					"telegram": "CoinMarketCapAnnouncements"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19858",
+				"price": "$0.000489",
+				"variation": "0.64%",
+				"variation_is_up": false,
+				"rank": "#7833",
+				"watchlists": "147",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$64,878,115",
+				"volume_24": "$83",
+				"volume_marketcap_24": "--",
+				"max_supply": "132,670,764,300",
+				"total_supply": "132,670,764,300",
+				"contract": "0x3587aF633dD49cd0230625A1c0549D6e8E475F0A",
+				"twitter": "Safe_Doge_Coin",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 11627,
+					"following_count": 9,
+					"tweet_count": 60,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 897051
+			}
 		}
 	]
 }
