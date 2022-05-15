@@ -13893,6 +13893,81 @@
 			"data_telegram": {
 				"data": 8745
 			}
+		},
+		{
+			"date": "15/05/2022 15:03:48",
+			"data_coin": {
+				"id": "20015",
+				"name": "ELON BUYS COKE COLA",
+				"symbol": "EBCC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-buys-coke-cola/",
+				"price": "$0.000002835",
+				"_1h": "1.12%",
+				"_1h_up": false,
+				"_24h": "1.12%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,835,338",
+				"volume": "$64,526",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20015",
+					"price": "$0.000000005823",
+					"variation": "58.24%",
+					"variation_is_up": true,
+					"rank": "#6629",
+					"watchlists": "2,139",
+					"marketcap": "$4,076",
+					"fully_diluted_marketcap": "$5,823",
+					"volume_24": "$1,201",
+					"volume_marketcap_24": "0.2947",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+					"telegram": "elonbuyscoke",
+					"twitter": "ElonBuysCoke"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8264,
+						"following_count": 17,
+						"tweet_count": 32,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8748
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20015",
+				"price": "$0.000000006232",
+				"variation": "62.00%",
+				"variation_is_up": true,
+				"rank": "#6605",
+				"watchlists": "2,139",
+				"marketcap": "$4,363",
+				"fully_diluted_marketcap": "$6,232",
+				"volume_24": "$1,304",
+				"volume_marketcap_24": "0.2989",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+				"telegram": "elonbuyscoke",
+				"twitter": "ElonBuysCoke"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8264,
+					"following_count": 17,
+					"tweet_count": 32,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 8743
+			}
 		}
 	]
 }
