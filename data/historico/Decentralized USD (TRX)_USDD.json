@@ -22293,6 +22293,81 @@
 			"data_telegram": {
 				"data": 12734
 			}
+		},
+		{
+			"date": "15/05/2022 01:47:34",
+			"data_coin": {
+				"id": "19891",
+				"name": "Decentralized USD (TRX)",
+				"symbol": "USDD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/decentralized-usd-trx/",
+				"price": "$0.9971",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$997,022,960,851",
+				"volume": "$30",
+				"date": "02/05/2022 05:33:07",
+				"infoCoinMarketCap_1": {
+					"id": "19891",
+					"price": "$0.9992",
+					"variation": "0.23%",
+					"variation_is_up": false,
+					"rank": "#123",
+					"watchlists": "2,225",
+					"marketcap": "$271,234,045",
+					"fully_diluted_marketcap": "$271,234,045",
+					"volume_24": "$2,901,079",
+					"volume_marketcap_24": "0.0107",
+					"max_supply": "--",
+					"total_supply": "271,438,208",
+					"twitter": "usddio",
+					"telegram": "usddio",
+					"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 45341,
+						"following_count": 41,
+						"tweet_count": 124,
+						"listed_count": 58
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 12734
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19891",
+				"price": "$0.9997",
+				"variation": "0.04%",
+				"variation_is_up": true,
+				"rank": "#123",
+				"watchlists": "2,236",
+				"marketcap": "$271,366,689",
+				"fully_diluted_marketcap": "$271,366,689",
+				"volume_24": "$2,830,753",
+				"volume_marketcap_24": "0.01043",
+				"max_supply": "--",
+				"total_supply": "271,438,208",
+				"twitter": "usddio",
+				"telegram": "usddio",
+				"contract": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 45352,
+					"following_count": 41,
+					"tweet_count": 124,
+					"listed_count": 58
+				}
+			},
+			"data_telegram": {
+				"data": 12736
+			}
 		}
 	]
 }
