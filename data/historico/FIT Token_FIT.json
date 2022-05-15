@@ -8110,6 +8110,81 @@
 			"data_telegram": {
 				"data": 87088
 			}
+		},
+		{
+			"date": "15/05/2022 04:58:06",
+			"data_coin": {
+				"id": "20049",
+				"name": "FIT Token",
+				"symbol": "FIT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/calo/",
+				"price": "$3.09",
+				"_1h": "4.85%",
+				"_1h_up": false,
+				"_24h": "44.27%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "--",
+				"volume": "$3,734,265",
+				"date": "10/05/2022 11:37:05",
+				"infoCoinMarketCap_1": {
+					"id": "20049",
+					"price": "$2.09",
+					"variation": "23.60%",
+					"variation_is_up": true,
+					"rank": "#3190",
+					"watchlists": "1,278",
+					"marketcap": "$3,137,133",
+					"fully_diluted_marketcap": "- -",
+					"volume_24": "$715,041",
+					"volume_marketcap_24": "0.2279",
+					"max_supply": "",
+					"total_supply": "",
+					"twitter": "AppCalo",
+					"telegram": "caloapp",
+					"contract": "0x77922A521182a719A48ba650aC2A040269888888"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 137625,
+						"following_count": 2,
+						"tweet_count": 464,
+						"listed_count": 154
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 87096
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20049",
+				"price": "$2.06",
+				"variation": "14.88%",
+				"variation_is_up": true,
+				"rank": "#3184",
+				"watchlists": "1,287",
+				"marketcap": "$3,091,037",
+				"fully_diluted_marketcap": "- -",
+				"volume_24": "$747,301",
+				"volume_marketcap_24": "0.2418",
+				"max_supply": "",
+				"total_supply": "",
+				"twitter": "AppCalo",
+				"telegram": "caloapp",
+				"contract": "0x77922A521182a719A48ba650aC2A040269888888"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 137681,
+					"following_count": 2,
+					"tweet_count": 465,
+					"listed_count": 153
+				}
+			},
+			"data_telegram": {
+				"data": 87096
+			}
 		}
 	]
 }
