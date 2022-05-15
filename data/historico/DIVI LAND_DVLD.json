@@ -1697,6 +1697,79 @@
 			"data_telegram": {
 				"data": 897005
 			}
+		},
+		{
+			"date": "15/05/2022 15:06:28",
+			"data_coin": {
+				"id": "20122",
+				"name": "DIVI LAND",
+				"symbol": "DVLD",
+				"blockchain": "Ethereum",
+				"ativo": true,
+				"link": "/currencies/divi-land/",
+				"price": "$3.99",
+				"_1h": "0.01%",
+				"_1h_up": false,
+				"_24h": "0.01%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$7,988,446,714",
+				"volume": "$1,692,603",
+				"date": "14/05/2022 14:50:19",
+				"infoCoinMarketCap_1": {
+					"id": "20122",
+					"price": "$5.19",
+					"variation": "30.02%",
+					"variation_is_up": true,
+					"rank": "#3077",
+					"watchlists": "82",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$10,387,427,913",
+					"volume_24": "$1,427,209",
+					"volume_marketcap_24": "--",
+					"max_supply": "2,000,000,000",
+					"total_supply": "2,000,000,000",
+					"twitter": "CoinMarketCap",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5354171,
+						"following_count": 1854,
+						"tweet_count": 18189,
+						"listed_count": 15945
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 896996
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20122",
+				"price": "$5.20",
+				"variation": "30.06%",
+				"variation_is_up": true,
+				"rank": "#3077",
+				"watchlists": "86",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$10,390,210,203",
+				"volume_24": "$1,427,725",
+				"volume_marketcap_24": "--",
+				"max_supply": "2,000,000,000",
+				"total_supply": "2,000,000,000",
+				"twitter": "CoinMarketCap",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5354800,
+					"following_count": 1854,
+					"tweet_count": 18189,
+					"listed_count": 15941
+				}
+			},
+			"data_telegram": {
+				"data": 896977
+			}
 		}
 	]
 }
