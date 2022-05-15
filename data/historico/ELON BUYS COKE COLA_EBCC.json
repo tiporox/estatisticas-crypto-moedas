@@ -13068,6 +13068,81 @@
 			"data_telegram": {
 				"data": 8779
 			}
+		},
+		{
+			"date": "15/05/2022 03:55:05",
+			"data_coin": {
+				"id": "20015",
+				"name": "ELON BUYS COKE COLA",
+				"symbol": "EBCC",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-buys-coke-cola/",
+				"price": "$0.000002835",
+				"_1h": "1.12%",
+				"_1h_up": false,
+				"_24h": "1.12%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,835,338",
+				"volume": "$64,526",
+				"date": "07/05/2022 16:19:41",
+				"infoCoinMarketCap_1": {
+					"id": "20015",
+					"price": "$0.000000004223",
+					"variation": "20.38%",
+					"variation_is_up": true,
+					"rank": "#6649",
+					"watchlists": "2,138",
+					"marketcap": "$2,956",
+					"fully_diluted_marketcap": "$4,223",
+					"volume_24": "$981",
+					"volume_marketcap_24": "0.3319",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+					"telegram": "elonbuyscoke",
+					"twitter": "ElonBuysCoke"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8264,
+						"following_count": 17,
+						"tweet_count": 32,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8782
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20015",
+				"price": "$0.000000004282",
+				"variation": "17.40%",
+				"variation_is_up": true,
+				"rank": "#6652",
+				"watchlists": "2,138",
+				"marketcap": "$2,997",
+				"fully_diluted_marketcap": "$4,282",
+				"volume_24": "$1,005",
+				"volume_marketcap_24": "0.3353",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x1B7A3B09d85793bbB8a52D2ce7b7002AA268CD01#balances",
+				"telegram": "elonbuyscoke",
+				"twitter": "ElonBuysCoke"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8264,
+					"following_count": 17,
+					"tweet_count": 32,
+					"listed_count": 1
+				}
+			},
+			"data_telegram": {
+				"data": 8775
+			}
 		}
 	]
 }
