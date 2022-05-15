@@ -18243,6 +18243,81 @@
 			"data_telegram": {
 				"data": 11766
 			}
+		},
+		{
+			"date": "15/05/2022 01:50:53",
+			"data_coin": {
+				"id": "19952",
+				"name": "Shack Token",
+				"symbol": "SHACK",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/shack-token/",
+				"price": "$0.01491",
+				"_1h": "0.14%",
+				"_1h_up": true,
+				"_24h": "0.14%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$15,213,095",
+				"volume": "$521",
+				"date": "04/05/2022 11:45:04",
+				"infoCoinMarketCap_1": {
+					"id": "19952",
+					"price": "$0.01213",
+					"variation": "2.22%",
+					"variation_is_up": false,
+					"rank": "#5300",
+					"watchlists": "68",
+					"marketcap": "$12,374,492",
+					"fully_diluted_marketcap": "$12,374,492",
+					"volume_24": "$10,181",
+					"volume_marketcap_24": "0.0008227",
+					"max_supply": "1,020,000,002",
+					"total_supply": "1,020,000,002",
+					"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+					"twitter": "radioshack",
+					"telegram": "radioshackfairlaunch"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 193410,
+						"following_count": 4178,
+						"tweet_count": 30734,
+						"listed_count": 1624
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 11768
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19952",
+				"price": "$0.01286",
+				"variation": "3.91%",
+				"variation_is_up": true,
+				"rank": "#3644",
+				"watchlists": "69",
+				"marketcap": "$13,115,323",
+				"fully_diluted_marketcap": "$13,115,323",
+				"volume_24": "$200,110",
+				"volume_marketcap_24": "0.01526",
+				"max_supply": "1,020,000,002",
+				"total_supply": "1,020,000,002",
+				"contract": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+				"twitter": "radioshack",
+				"telegram": "radioshackfairlaunch"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 193212,
+					"following_count": 4178,
+					"tweet_count": 30734,
+					"listed_count": 1624
+				}
+			},
+			"data_telegram": {
+				"data": 11766
+			}
 		}
 	]
 }
