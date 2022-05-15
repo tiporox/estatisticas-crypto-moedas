@@ -7545,6 +7545,81 @@
 			"data_telegram": {
 				"data": 2222
 			}
+		},
+		{
+			"date": "15/05/2022 14:05:41",
+			"data_coin": {
+				"id": "20089",
+				"name": "Grove",
+				"symbol": "GVR",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/grove/",
+				"price": "$0.0...01184",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$11,788,069",
+				"volume": "$178,706",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20089",
+					"price": "$0.0...01164",
+					"variation": "4.16%",
+					"variation_is_up": true,
+					"rank": "#3424",
+					"watchlists": "693",
+					"marketcap": "$8,294,495",
+					"fully_diluted_marketcap": "$11,582,621",
+					"volume_24": "$351,551",
+					"volume_marketcap_24": "0.04238",
+					"max_supply": "99,547,372,608,848,510",
+					"total_supply": "99,547,372,608,848,510",
+					"contract": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+					"telegram": "Grovetoken",
+					"twitter": "GroveToken"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 31381,
+						"following_count": 72,
+						"tweet_count": 623,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 2221
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20089",
+				"price": "$0.0...01165",
+				"variation": "0.15%",
+				"variation_is_up": false,
+				"rank": "#3424",
+				"watchlists": "705",
+				"marketcap": "$8,303,474",
+				"fully_diluted_marketcap": "$11,595,160",
+				"volume_24": "$360,640",
+				"volume_marketcap_24": "0.04343",
+				"max_supply": "99,547,372,608,848,510",
+				"total_supply": "99,547,372,608,848,510",
+				"contract": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+				"telegram": "Grovetoken",
+				"twitter": "GroveToken"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 31414,
+					"following_count": 72,
+					"tweet_count": 624,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 2224
+			}
 		}
 	]
 }
