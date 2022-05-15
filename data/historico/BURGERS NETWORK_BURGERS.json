@@ -1859,6 +1859,81 @@
 				}
 			},
 			"data_telegram": {}
+		},
+		{
+			"date": "15/05/2022 17:34:44",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.000003192",
+					"variation": "86.53%",
+					"variation_is_up": false,
+					"rank": "#3540",
+					"watchlists": "281",
+					"marketcap": "$319,168",
+					"fully_diluted_marketcap": "$3,191,676",
+					"volume_24": "$266,161",
+					"volume_marketcap_24": "0.8339",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5604,
+						"following_count": 28,
+						"tweet_count": 35,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6006
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.000001427",
+				"variation": "93.80%",
+				"variation_is_up": false,
+				"rank": "#3490",
+				"watchlists": "299",
+				"marketcap": "$142,745",
+				"fully_diluted_marketcap": "$1,427,454",
+				"volume_24": "$307,394",
+				"volume_marketcap_24": "2.15",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5606,
+					"following_count": 28,
+					"tweet_count": 36,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6008
+			}
 		}
 	]
 }
