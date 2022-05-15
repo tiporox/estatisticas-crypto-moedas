@@ -11568,6 +11568,81 @@
 			"data_telegram": {
 				"data": 897311
 			}
+		},
+		{
+			"date": "15/05/2022 00:53:28",
+			"data_coin": {
+				"id": "20021",
+				"name": "Neuralink",
+				"symbol": "NEURALINK",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/neuralink/",
+				"price": "$0.002811",
+				"_1h": "1.32%",
+				"_1h_up": false,
+				"_24h": "1.32%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$281,119,286",
+				"volume": "--",
+				"date": "08/05/2022 08:58:50",
+				"infoCoinMarketCap_1": {
+					"id": "20021",
+					"price": "$0.000474",
+					"variation": "130.16%",
+					"variation_is_up": true,
+					"rank": "#3971",
+					"watchlists": "254",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$47,400,926",
+					"volume_24": "$100,920",
+					"volume_marketcap_24": "--",
+					"max_supply": "--",
+					"total_supply": "100,000,000,000",
+					"contract": "0xC7a081c50076e0e3D9C76bEA8eA948E2a6C11017",
+					"twitter": "NFTPtoken",
+					"telegram": "CoinMarketCapAnnouncements"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 49357,
+						"following_count": 31,
+						"tweet_count": 64,
+						"listed_count": 19
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 897321
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20021",
+				"price": "$0.0004893",
+				"variation": "144.54%",
+				"variation_is_up": true,
+				"rank": "#3969",
+				"watchlists": "256",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$48,929,919",
+				"volume_24": "$102,372",
+				"volume_marketcap_24": "--",
+				"max_supply": "--",
+				"total_supply": "100,000,000,000",
+				"contract": "0xC7a081c50076e0e3D9C76bEA8eA948E2a6C11017",
+				"twitter": "NFTPtoken",
+				"telegram": "CoinMarketCapAnnouncements"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 49360,
+					"following_count": 31,
+					"tweet_count": 64,
+					"listed_count": 19
+				}
+			},
+			"data_telegram": {
+				"data": 897288
+			}
 		}
 	]
 }
