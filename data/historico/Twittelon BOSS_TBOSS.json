@@ -18243,6 +18243,81 @@
 			"data_telegram": {
 				"data": 6611
 			}
+		},
+		{
+			"date": "15/05/2022 23:08:24",
+			"data_coin": {
+				"id": "19991",
+				"name": "Twittelon BOSS",
+				"symbol": "TBOSS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/twittelon-boss/",
+				"price": "$0.0000003247",
+				"_1h": "1.54%",
+				"_1h_up": false,
+				"_24h": "1.54%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$324,699",
+				"volume": "$596,803",
+				"date": "05/05/2022 13:28:19",
+				"infoCoinMarketCap_1": {
+					"id": "19991",
+					"price": "$0.0000001081",
+					"variation": "20.67%",
+					"variation_is_up": true,
+					"rank": "#6141",
+					"watchlists": "584",
+					"marketcap": "$108,134",
+					"fully_diluted_marketcap": "$108,134",
+					"volume_24": "$1,925",
+					"volume_marketcap_24": "0.0178",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+					"twitter": "twittelonB",
+					"telegram": "twittelonboss"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 9847,
+						"following_count": 31,
+						"tweet_count": 92,
+						"listed_count": 3
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6611
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19991",
+				"price": "$0.000000105",
+				"variation": "19.29%",
+				"variation_is_up": true,
+				"rank": "#6161",
+				"watchlists": "585",
+				"marketcap": "$104,978",
+				"fully_diluted_marketcap": "$104,978",
+				"volume_24": "$1,871",
+				"volume_marketcap_24": "0.01782",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0xf9b0FA7feEe99A9c154fBd58A289011320DA7F15",
+				"twitter": "twittelonB",
+				"telegram": "twittelonboss"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 9836,
+					"following_count": 31,
+					"tweet_count": 92,
+					"listed_count": 3
+				}
+			},
+			"data_telegram": {
+				"data": 6610
+			}
 		}
 	]
 }
