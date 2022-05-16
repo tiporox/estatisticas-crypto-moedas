@@ -385,6 +385,81 @@
 			"data_telegram": {
 				"data": 864
 			}
+		},
+		{
+			"date": "16/05/2022 02:14:02",
+			"data_coin": {
+				"id": "20124",
+				"name": "Minato",
+				"symbol": "MNTO",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/minato/",
+				"price": "$6.80",
+				"_1h": "0.01%",
+				"_1h_up": true,
+				"_24h": "0.01%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$6,799,756",
+				"volume": "$546,836",
+				"date": "15/05/2022 20:03:31",
+				"infoCoinMarketCap_1": {
+					"id": "20124",
+					"price": "$7.72",
+					"variation": "13.55%",
+					"variation_is_up": true,
+					"rank": "#3879",
+					"watchlists": "70",
+					"marketcap": "$2,933,710",
+					"fully_diluted_marketcap": "$7,720,288",
+					"volume_24": "$127,207",
+					"volume_marketcap_24": "0.04336",
+					"max_supply": "1,000,000",
+					"total_supply": "1,000,000",
+					"telegram": "Minato_Kanji",
+					"contract": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
+					"twitter": "Minato_Kanji"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 907,
+						"following_count": 200,
+						"tweet_count": 13423,
+						"listed_count": 220
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 858
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20124",
+				"price": "$7.69",
+				"variation": "13.12%",
+				"variation_is_up": true,
+				"rank": "#3880",
+				"watchlists": "85",
+				"marketcap": "$2,922,629",
+				"fully_diluted_marketcap": "$7,691,128",
+				"volume_24": "$127,568",
+				"volume_marketcap_24": "0.04365",
+				"max_supply": "1,000,000",
+				"total_supply": "1,000,000",
+				"telegram": "Minato_Kanji",
+				"contract": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
+				"twitter": "Minato_Kanji"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 907,
+					"following_count": 200,
+					"tweet_count": 13424,
+					"listed_count": 219
+				}
+			},
+			"data_telegram": {
+				"data": 871
+			}
 		}
 	]
 }
