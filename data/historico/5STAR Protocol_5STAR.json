@@ -6337,6 +6337,81 @@
 			"data_telegram": {
 				"data": 18597
 			}
+		},
+		{
+			"date": "15/05/2022 22:11:11",
+			"data_coin": {
+				"id": "20105",
+				"name": "5STAR Protocol",
+				"symbol": "5STAR",
+				"blockchain": "Polygon",
+				"ativo": true,
+				"link": "/currencies/5star-protocol/",
+				"price": "$0",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "-",
+				"volume": "--",
+				"date": "12/05/2022 04:34:11",
+				"infoCoinMarketCap_1": {
+					"id": "20105",
+					"price": "$0.004327",
+					"variation": "4.95%",
+					"variation_is_up": true,
+					"rank": "#8604",
+					"watchlists": "106",
+					"marketcap": "$432,680",
+					"fully_diluted_marketcap": "$432,680",
+					"volume_24": "$1",
+					"volume_marketcap_24": "0.00000302",
+					"max_supply": "100,000,000",
+					"total_supply": "100,000,000",
+					"contract": "0xd0A133636CF177B63AA0A41aED6Aec11Db7EBF67",
+					"telegram": "FiveStarCommunity",
+					"twitter": "5starofficial_"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 32512,
+						"following_count": 22,
+						"tweet_count": 26,
+						"listed_count": 2
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 18599
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20105",
+				"price": "$0.003068",
+				"variation": "25.77%",
+				"variation_is_up": false,
+				"rank": "#8552",
+				"watchlists": "106",
+				"marketcap": "$306,849",
+				"fully_diluted_marketcap": "$306,849",
+				"volume_24": "$0",
+				"volume_marketcap_24": "0.00000067",
+				"max_supply": "100,000,000",
+				"total_supply": "100,000,000",
+				"contract": "0xd0A133636CF177B63AA0A41aED6Aec11Db7EBF67",
+				"telegram": "FiveStarCommunity",
+				"twitter": "5starofficial_"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 32513,
+					"following_count": 22,
+					"tweet_count": 26,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 18596
+			}
 		}
 	]
 }
