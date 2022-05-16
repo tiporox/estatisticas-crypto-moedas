@@ -2528,6 +2528,81 @@
 			"data_telegram": {
 				"data": 6024
 			}
+		},
+		{
+			"date": "16/05/2022 02:40:55",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.000001561",
+					"variation": "93.38%",
+					"variation_is_up": false,
+					"rank": "#3583",
+					"watchlists": "351",
+					"marketcap": "$156,105",
+					"fully_diluted_marketcap": "$1,561,050",
+					"volume_24": "$238,558",
+					"volume_marketcap_24": "1.53",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5624,
+						"following_count": 28,
+						"tweet_count": 38,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6031
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.000001729",
+				"variation": "92.80%",
+				"variation_is_up": false,
+				"rank": "#3580",
+				"watchlists": "362",
+				"marketcap": "$172,850",
+				"fully_diluted_marketcap": "$1,728,501",
+				"volume_24": "$242,142",
+				"volume_marketcap_24": "1.4",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5629,
+					"following_count": 28,
+					"tweet_count": 38,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6020
+			}
 		}
 	]
 }
