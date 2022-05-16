@@ -2453,6 +2453,81 @@
 			"data_telegram": {
 				"data": 6031
 			}
+		},
+		{
+			"date": "16/05/2022 01:40:10",
+			"data_coin": {
+				"id": "20123",
+				"name": "BURGERS NETWORK",
+				"symbol": "BURGERS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/burgers-network/",
+				"price": "$0.00002395",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$23,950,530",
+				"volume": "$102,632",
+				"date": "14/05/2022 15:18:57",
+				"infoCoinMarketCap_1": {
+					"id": "20123",
+					"price": "$0.000001546",
+					"variation": "93.55%",
+					"variation_is_up": false,
+					"rank": "#3574",
+					"watchlists": "343",
+					"marketcap": "$154,642",
+					"fully_diluted_marketcap": "$1,546,422",
+					"volume_24": "$237,921",
+					"volume_marketcap_24": "1.54",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+					"telegram": "BugerNetwork",
+					"twitter": "BurgersNetwork"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5620,
+						"following_count": 28,
+						"tweet_count": 38,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 6032
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20123",
+				"price": "$0.000001549",
+				"variation": "93.48%",
+				"variation_is_up": false,
+				"rank": "#3595",
+				"watchlists": "358",
+				"marketcap": "$154,851",
+				"fully_diluted_marketcap": "$1,548,511",
+				"volume_24": "$236,463",
+				"volume_marketcap_24": "1.53",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x10De4A650cF4eaF8cbd616508E1Fa9774da9B4E6",
+				"telegram": "BugerNetwork",
+				"twitter": "BurgersNetwork"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5625,
+					"following_count": 28,
+					"tweet_count": 38,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 6024
+			}
 		}
 	]
 }
