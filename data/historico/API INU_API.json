@@ -23954,6 +23954,74 @@
 			"data_telegram": {
 				"data": 7926
 			}
+		},
+		{
+			"date": "15/05/2022 22:00:04",
+			"data_coin": {
+				"id": "19833",
+				"name": "API INU",
+				"symbol": "API",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/api-inu/",
+				"date": "28/04/2022 05:36:59",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 17516,
+						"following_count": 37,
+						"tweet_count": 29,
+						"listed_count": 6
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 7928
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19833",
+					"price": "$0.00000004634",
+					"variation": "13.01%",
+					"variation_is_up": true,
+					"rank": "#5437",
+					"watchlists": "408",
+					"marketcap": "$229,068",
+					"fully_diluted_marketcap": "$463,356",
+					"volume_24": "$9,790",
+					"volume_marketcap_24": "0.04274",
+					"max_supply": "10,000,000,000,000",
+					"total_supply": "4,943,663,719,542",
+					"contract": "0xa1943bc4a417ffd2e9e11a97383fa3f9548291c3",
+					"telegram": "apiinu",
+					"twitter": "apiinu"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19833",
+				"price": "$0.00000004692",
+				"variation": "10.21%",
+				"variation_is_up": true,
+				"rank": "#5625",
+				"watchlists": "409",
+				"marketcap": "$231,944",
+				"fully_diluted_marketcap": "$469,175",
+				"volume_24": "$4,957",
+				"volume_marketcap_24": "0.02137",
+				"max_supply": "10,000,000,000,000",
+				"total_supply": "4,943,663,719,542",
+				"contract": "0xa1943bc4a417ffd2e9e11a97383fa3f9548291c3",
+				"telegram": "apiinu",
+				"twitter": "apiinu"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 17519,
+					"following_count": 37,
+					"tweet_count": 29,
+					"listed_count": 6
+				}
+			},
+			"data_telegram": {
+				"data": 7926
+			}
 		}
 	]
 }
