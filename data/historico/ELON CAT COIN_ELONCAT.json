@@ -14023,6 +14023,81 @@
 			"data_telegram": {
 				"data": 7967
 			}
+		},
+		{
+			"date": "17/05/2022 19:43:44",
+			"data_coin": {
+				"id": "20051",
+				"name": "ELON CAT COIN",
+				"symbol": "ELONCAT",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/elon-cat-coin/",
+				"price": "$0.000002548",
+				"_1h": "1.83%",
+				"_1h_up": false,
+				"_24h": "26.21%",
+				"_24h_up": false,
+				"fullyDilutedMarketCap": "$2,548,453",
+				"volume": "$52,178",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20051",
+					"price": "$0.000000002945",
+					"variation": "6.19%",
+					"variation_is_up": false,
+					"rank": "#6770",
+					"watchlists": "159",
+					"marketcap": "$294",
+					"fully_diluted_marketcap": "$2,945",
+					"volume_24": "$658",
+					"volume_marketcap_24": "2.23",
+					"max_supply": "999,999,999,999",
+					"total_supply": "999,999,999,999",
+					"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+					"telegram": "ElonCatCoin",
+					"twitter": "ElonCatBSC"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 5219,
+						"following_count": 0,
+						"tweet_count": 25,
+						"listed_count": 0
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 8106
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20051",
+				"price": "$0.000000002288",
+				"variation": "2.75%",
+				"variation_is_up": false,
+				"rank": "#6756",
+				"watchlists": "161",
+				"marketcap": "$229",
+				"fully_diluted_marketcap": "$2,288",
+				"volume_24": "$1,049",
+				"volume_marketcap_24": "4.58",
+				"max_supply": "999,999,999,999",
+				"total_supply": "999,999,999,999",
+				"contract": "0x8f783fb17569c0e16dd04e0a1a2e19876dec0b47",
+				"telegram": "ElonCatCoin",
+				"twitter": "ElonCatBSC"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 5216,
+					"following_count": 0,
+					"tweet_count": 25,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 7969
+			}
 		}
 	]
 }
