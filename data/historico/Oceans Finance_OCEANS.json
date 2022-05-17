@@ -25926,6 +25926,74 @@
 			"data_telegram": {
 				"data": 1175
 			}
+		},
+		{
+			"date": "17/05/2022 03:20:42",
+			"data_coin": {
+				"id": "19872",
+				"name": "Oceans Finance",
+				"symbol": "OCEANS",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/oceans-finance/",
+				"date": "30/04/2022 13:33:33",
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 8300,
+						"following_count": 42,
+						"tweet_count": 130,
+						"listed_count": 4
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 1114
+				},
+				"infoCoinMarketCap_1": {
+					"id": "19872",
+					"price": "$1.17",
+					"variation": "2.02%",
+					"variation_is_up": true,
+					"rank": "#4446",
+					"watchlists": "5,669",
+					"marketcap": "- -",
+					"fully_diluted_marketcap": "$938,634,830",
+					"volume_24": "$47,535",
+					"volume_marketcap_24": "--",
+					"max_supply": "800,000,000",
+					"total_supply": "983,040",
+					"contract": "0x7769d930bc6b087f960c5d21e34a4449576cf22a",
+					"telegram": "finance_oceans",
+					"twitter": "oceans_finance"
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "19872",
+				"price": "$1.19",
+				"variation": "2.97%",
+				"variation_is_up": true,
+				"rank": "#4529",
+				"watchlists": "5,690",
+				"marketcap": "- -",
+				"fully_diluted_marketcap": "$953,188,369",
+				"volume_24": "$43,247",
+				"volume_marketcap_24": "--",
+				"max_supply": "800,000,000",
+				"total_supply": "983,040",
+				"contract": "0x7769d930bc6b087f960c5d21e34a4449576cf22a",
+				"telegram": "finance_oceans",
+				"twitter": "oceans_finance"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 8239,
+					"following_count": 42,
+					"tweet_count": 134,
+					"listed_count": 4
+				}
+			},
+			"data_telegram": {
+				"data": 1187
+			}
 		}
 	]
 }
