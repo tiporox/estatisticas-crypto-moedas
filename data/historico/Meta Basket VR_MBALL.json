@@ -14323,6 +14323,81 @@
 			"data_telegram": {
 				"data": 15050
 			}
+		},
+		{
+			"date": "17/05/2022 23:45:47",
+			"data_coin": {
+				"id": "20058",
+				"name": "Meta Basket VR",
+				"symbol": "MBALL",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/meta-basket-vr/",
+				"price": "$0.00824",
+				"_1h": "0.96%",
+				"_1h_up": true,
+				"_24h": "0.96%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$82,396",
+				"volume": "$192,989",
+				"date": "09/05/2022 18:29:12",
+				"infoCoinMarketCap_1": {
+					"id": "20058",
+					"price": "$0.008618",
+					"variation": "1.08%",
+					"variation_is_up": true,
+					"rank": "#6804",
+					"watchlists": "147",
+					"marketcap": "$51,706",
+					"fully_diluted_marketcap": "$86,177",
+					"volume_24": "$625",
+					"volume_marketcap_24": "0.01209",
+					"max_supply": "10,000,000",
+					"total_supply": "10,000,000",
+					"contract": "0xe2f320537d25bb089a6612443ecad97dc5d59b1e",
+					"twitter": "metabasketvr",
+					"telegram": "metabasketvr"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 12591,
+						"following_count": 9,
+						"tweet_count": 20,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 15073
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20058",
+				"price": "$0.007984",
+				"variation": "5.28%",
+				"variation_is_up": false,
+				"rank": "#5953",
+				"watchlists": "152",
+				"marketcap": "$47,903",
+				"fully_diluted_marketcap": "$79,838",
+				"volume_24": "$2,916",
+				"volume_marketcap_24": "0.06087",
+				"max_supply": "10,000,000",
+				"total_supply": "10,000,000",
+				"contract": "0xe2f320537d25bb089a6612443ecad97dc5d59b1e",
+				"twitter": "metabasketvr",
+				"telegram": "metabasketvr"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 12574,
+					"following_count": 9,
+					"tweet_count": 20,
+					"listed_count": 2
+				}
+			},
+			"data_telegram": {
+				"data": 15048
+			}
 		}
 	]
 }
