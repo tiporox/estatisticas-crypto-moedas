@@ -20950,6 +20950,81 @@
 			"data_telegram": {
 				"data": 5778
 			}
+		},
+		{
+			"date": "18/05/2022 02:45:38",
+			"data_coin": {
+				"id": "20002",
+				"name": "ElonCola",
+				"symbol": "COLA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/eloncola/",
+				"price": "$0.00000204",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$2,039,781",
+				"volume": "$118,870",
+				"date": "06/05/2022 04:07:41",
+				"infoCoinMarketCap_1": {
+					"id": "20002",
+					"price": "$0.0000005635",
+					"variation": "0.59%",
+					"variation_is_up": true,
+					"rank": "#6519",
+					"watchlists": "397",
+					"marketcap": "$247,744",
+					"fully_diluted_marketcap": "$563,548",
+					"volume_24": "$1,064",
+					"volume_marketcap_24": "0.004295",
+					"max_supply": "1,000,000,000,000",
+					"total_supply": "1,000,000,000,000",
+					"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+					"twitter": "ElonColaToken",
+					"telegram": "ElonColaOfficial"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 7653,
+						"following_count": 26,
+						"tweet_count": 60,
+						"listed_count": 1
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 5823
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20002",
+				"price": "$0.0000005613",
+				"variation": "1.80%",
+				"variation_is_up": false,
+				"rank": "#6930",
+				"watchlists": "406",
+				"marketcap": "$246,755",
+				"fully_diluted_marketcap": "$561,298",
+				"volume_24": "$529",
+				"volume_marketcap_24": "0.002144",
+				"max_supply": "1,000,000,000,000",
+				"total_supply": "1,000,000,000,000",
+				"contract": "0x681b76c338055d0590e48fbb972a345d32692331",
+				"twitter": "ElonColaToken",
+				"telegram": "ElonColaOfficial"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 7651,
+					"following_count": 28,
+					"tweet_count": 61,
+					"listed_count": 0
+				}
+			},
+			"data_telegram": {
+				"data": 5778
+			}
 		}
 	]
 }
