@@ -11903,6 +11903,81 @@
 			"data_telegram": {
 				"data": 63112
 			}
+		},
+		{
+			"date": "18/05/2022 00:49:29",
+			"data_coin": {
+				"id": "20087",
+				"name": "ASSARA",
+				"symbol": "ASSA",
+				"blockchain": "BNB",
+				"ativo": true,
+				"link": "/currencies/assara/",
+				"price": "$0.00003278",
+				"_1h": "0.00%",
+				"_1h_up": true,
+				"_24h": "0.00%",
+				"_24h_up": true,
+				"fullyDilutedMarketCap": "$3,277,597",
+				"volume": "$7,191",
+				"date": "11/05/2022 04:27:43",
+				"infoCoinMarketCap_1": {
+					"id": "20087",
+					"price": "$0.00002459",
+					"variation": "67.98%",
+					"variation_is_up": true,
+					"rank": "#3702",
+					"watchlists": "5,258",
+					"marketcap": "$2,459,416",
+					"fully_diluted_marketcap": "$2,459,416",
+					"volume_24": "$189,157",
+					"volume_marketcap_24": "0.07691",
+					"max_supply": "100,000,000,000",
+					"total_supply": "100,000,000,000",
+					"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+					"twitter": "Assarafinance",
+					"telegram": "assaracommunity"
+				},
+				"dadosTwitter_1": {
+					"data": {
+						"followers_count": 56032,
+						"following_count": 26,
+						"tweet_count": 37,
+						"listed_count": 5
+					}
+				},
+				"dadosTelegram_1": {
+					"data": 62953
+				}
+			},
+			"data_coinmarketcap": {
+				"id": "20087",
+				"price": "$0.00001711",
+				"variation": "37.23%",
+				"variation_is_up": false,
+				"rank": "#3938",
+				"watchlists": "5,312",
+				"marketcap": "$1,710,793",
+				"fully_diluted_marketcap": "$1,710,793",
+				"volume_24": "$119,999",
+				"volume_marketcap_24": "0.07014",
+				"max_supply": "100,000,000,000",
+				"total_supply": "100,000,000,000",
+				"contract": "0x2a988E52baC4D22F3adbe1d5191CF3D240F01876",
+				"twitter": "Assarafinance",
+				"telegram": "assaracommunity"
+			},
+			"data_twitter": {
+				"data": {
+					"followers_count": 56444,
+					"following_count": 25,
+					"tweet_count": 37,
+					"listed_count": 5
+				}
+			},
+			"data_telegram": {
+				"data": 63103
+			}
 		}
 	]
 }
